@@ -7,7 +7,7 @@ Rules for waiting and parking, including rules on parking at night and decrimina
 
 ### Rule 238
 
-You **MUST NOT** wait or park on yellow lines during the times of operation shown on nearby time plates (or zone entry signs if in a Controlled Parking Zone) – see [‘Traffic signs’](traffic-signs.html) and [‘Road markings’](road-markings.html) . Double yellow lines indicate a prohibition of waiting at any time even if there are no upright signs. You **MUST NOT** wait or park, or stop to set down and pick up passengers, on school entrance markings (see [‘Road markings’](road-markings.html) ) when upright signs indicate a prohibition of stopping.
+You **MUST NOT** wait or park on yellow lines during the times of operation shown on nearby time plates (or zone entry signs if in a Controlled Parking Zone) – see [‘Traffic signs’](traffic-signs.md) and [‘Road markings’](road-markings.md) . Double yellow lines indicate a prohibition of waiting at any time even if there are no upright signs. You **MUST NOT** wait or park, or stop to set down and pick up passengers, on school entrance markings (see [‘Road markings’](road-markings.md) ) when upright signs indicate a prohibition of stopping.
 
 **Law [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5) & [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8)**
 
@@ -38,15 +38,15 @@ When you use a hand-held device to help you to park, you **MUST** remain in cont
 
 You **MUST NOT** stop or park on:
 
- * the carriageway or the hard shoulder of a motorway except in an emergency (see [Rule 270](motorways-253-to-273.html#rule270) )
- * a pedestrian crossing, including the area marked by the zig-zag lines (see [Rule 191](using-the-road-159-to-203.html#rule191) )
- * a clearway (see [‘Traffic signs’](traffic-signs.html) )
+ * the carriageway or the hard shoulder of a motorway except in an emergency (see [Rule 270](motorways-253-to-273.md#rule270) )
+ * a pedestrian crossing, including the area marked by the zig-zag lines (see [Rule 191](using-the-road-159-to-203.md#rule191) )
+ * a clearway (see [‘Traffic signs’](traffic-signs.md) )
  * taxi bays as indicated by upright signs and markings
- * an Urban Clearway within its hours of operation, except to pick up or set down passengers (see [‘Traffic signs’](traffic-signs.html) )
+ * an Urban Clearway within its hours of operation, except to pick up or set down passengers (see [‘Traffic signs’](traffic-signs.md) )
  * a road marked with double white lines, even when a broken white line is on your side of the road, except to pick up or set down passengers, or to load or unload goods
  * a tram or cycle lane during its period of operation
  * a cycle track
- * red lines, in the case of specially designated ‘red routes’, unless otherwise indicated by signs. Any vehicle may enter a bus lane to stop, load or unload where this is not prohibited (see [Rule 141](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule141) ).
+ * red lines, in the case of specially designated ‘red routes’, unless otherwise indicated by signs. Any vehicle may enter a bus lane to stop, load or unload where this is not prohibited (see [Rule 141](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule141) ).
 
 **Laws [MT(E&W)R regs 7 & 9](http://www.legislation.gov.uk/uksi/1982/1163/contents/made) , [MT(S)R regs 6](http://www.legislation.gov.uk/uksi/1995/2507/regulation/6/made) & [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made) , [ZPPPCRGD regs 18](http://www.legislation.gov.uk/uksi/1997/2400/regulation/18/made) & [20](http://www.legislation.gov.uk/uksi/1997/2400/regulation/20/made) , [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5) , [6](http://www.legislation.gov.uk/ukpga/1984/27/section/6) & [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8) , [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) , [26 & 27](http://www.legislation.gov.uk/uksi/2002/3113/part/I/crossheading/road-markings/made) , [RTA 1988 sects 21(1)](http://www.legislation.gov.uk/ukpga/1988/52/section/21) & [36](http://www.legislation.gov.uk/ukpga/1988/52/section/36)**
 
@@ -99,7 +99,7 @@ You **MUST NOT** park partially or wholly on the pavement in London, and should 
 
 ### Rule 247
 
-**Loading and unloading.** Do not load or unload where there are yellow markings on the kerb and upright signs advise restrictions are in place (see [‘Road markings’](road-markings.html) ). This may be permitted where parking is otherwise restricted. On red routes, specially marked and signed bays indicate where and when loading and unloading is permitted.
+**Loading and unloading.** Do not load or unload where there are yellow markings on the kerb and upright signs advise restrictions are in place (see [‘Road markings’](road-markings.md) ). This may be permitted where parking is otherwise restricted. On red routes, specially marked and signed bays indicate where and when loading and unloading is permitted.
 
 **Law [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5) & [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8)**
 
@@ -148,4 +148,4 @@ DPE is becoming increasingly common as more authorities take on this role. The l
 
 [Traffic Penalty Tribunal](http://www.trafficpenaltytribunal.gov.uk) (outside London) [London Tribunals](http://www.londontribunals.gov.uk) (inside London)
 
- [Print this page](waiting-and-parking-238-to-252.html#)
+ [Print this page](waiting-and-parking-238-to-252.md#)

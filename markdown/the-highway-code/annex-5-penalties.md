@@ -7,7 +7,7 @@ Information and rules about penalties, including points and disqualification, a 
 
 Parliament sets the maximum penalties for road traffic offences. The seriousness of the offence is reflected in the maximum penalty. It is for the courts to decide what sentence to impose according to circumstances.
 
-The [penalty table](annex-5-penalties.html#penaltytable) indicates some of the main offences, and the associated penalties. There is a wide range of other more specific offences which, for the sake of simplicity, are not shown here. The [penalty points and disqualification system](annex-5-penalties.html#penaltytable) is described below.
+The [penalty table](annex-5-penalties.md#penaltytable) indicates some of the main offences, and the associated penalties. There is a wide range of other more specific offences which, for the sake of simplicity, are not shown here. The [penalty points and disqualification system](annex-5-penalties.md#penaltytable) is described below.
 
 ## Penalty points and disqualification
 
@@ -44,7 +44,7 @@ Special rules as set out below apply for a period of two years from the date of 
  * other foreign countries who have to pass a UK driving test to gain a UK licence, in which case the UK driving test is treated as their first driving test; and
  * other foreign countries who (without needing a test) exchanged their licence for a UK licence and subsequently passed a UK driving test to drive another type of vehicle, in which case the UK driving test is treated as their first driving test. For example a driver who exchanges a foreign licence (car) for a UK licence (car) and who later passes a test to drive another type of vehicle (e.g. an HGV) will be subject to the special rules.
 
-Where a person subject to the special rules accumulates 6 or more penalty points before the end of the 2-year period (including any points acquired before passing the test) their licence will be revoked automatically. To regain the licence they must reapply for a provisional licence and may drive only as a learner until they pass a further driving test (also see [Annex 8 – Safety code for new drivers](annex-8-safety-code-for-new-drivers.html) ).
+Where a person subject to the special rules accumulates 6 or more penalty points before the end of the 2-year period (including any points acquired before passing the test) their licence will be revoked automatically. To regain the licence they must reapply for a provisional licence and may drive only as a learner until they pass a further driving test (also see [Annex 8 – Safety code for new drivers](annex-8-safety-code-for-new-drivers.md) ).
 
 **Law [RT(ND)A](http://www.legislation.gov.uk/ukpga/1995/13/contents)**
 

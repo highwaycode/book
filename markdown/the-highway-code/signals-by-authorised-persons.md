@@ -38,7 +38,7 @@ Signals used by authorised persons, including police officers, arm signals to pe
  DVSA officer 
 
 These officers now have new powers to stop/direct vehicles and will be using hand signals and light
-signals similar to those used by police. You **MUST** obey any signals given (see [Rules 107](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule107) and [108](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule108) ).
+signals similar to those used by police. You **MUST** obey any signals given (see [Rules 107](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule107) and [108](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule108) ).
 
 ## School crossing patrols
 

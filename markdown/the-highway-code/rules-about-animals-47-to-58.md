@@ -64,7 +64,7 @@ When riding on the road you should
 
 ### Rule 54
 
-You **MUST NOT** take a horse onto a footpath or pavement, and you should not take a horse onto a cycle track. Use a bridleway where possible. Equestrian crossings may be provided for horse riders to cross the road and you should use these where available (see [Rule 27](rules-for-pedestrians-1-to-35.html#rule27) ). You should dismount at level crossings where a ‘horse rider dismount’ sign is displayed.
+You **MUST NOT** take a horse onto a footpath or pavement, and you should not take a horse onto a cycle track. Use a bridleway where possible. Equestrian crossings may be provided for horse riders to cross the road and you should use these where available (see [Rule 27](rules-for-pedestrians-1-to-35.md#rule27) ). You should dismount at level crossings where a ‘horse rider dismount’ sign is displayed.
 
 **Laws [HA 1835 sect 72](http://www.legislation.gov.uk/ukpga/Will4/5-6/50/section/72) & [R(S)A sect 129(5)](http://www.legislation.gov.uk/ukpga/1984/54/section/129)**
 

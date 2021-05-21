@@ -3,7 +3,7 @@
 
 Rules for cyclists, including an overview, road junctions, roundabouts and crossing the road.
 
-These rules are in addition to those in the following sections, which apply to all vehicles (except the [motorway section](motorways-253-to-273.html) ). See also [You and your bicycle](annex-1-you-and-your-bicycle.html) .
+These rules are in addition to those in the following sections, which apply to all vehicles (except the [motorway section](motorways-253-to-273.md) ). See also [You and your bicycle](annex-1-you-and-your-bicycle.md) .
 
 ## Overview (rules 59 to 71)
 
@@ -35,7 +35,7 @@ These rules are in addition to those in the following sections, which apply to a
 
 ### Rule 63
 
-**Cycle Lanes.** These are marked by a white line (which may be broken) along the carriageway (see [Rule 140](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule140) ). When using a cycle lane, keep within the lane when practicable. When leaving a cycle lane check before pulling out that it is safe to do so and signal your intention clearly to other road users. Use of cycle lanes is not compulsory and will depend on your experience and skills, but they can make your journey safer.
+**Cycle Lanes.** These are marked by a white line (which may be broken) along the carriageway (see [Rule 140](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule140) ). When using a cycle lane, keep within the lane when practicable. When leaving a cycle lane check before pulling out that it is safe to do so and signal your intention clearly to other road users. Use of cycle lanes is not compulsory and will depend on your experience and skills, but they can make your journey safer.
 
 ### Rule 64
 
@@ -62,11 +62,11 @@ You should
 
 You should
 
- * look all around before moving away from the kerb, turning or manoeuvring, to make sure it is safe to do so. Give a clear signal to show other road users what you intend to do (see ‘ [Signals to other road users](signals-to-other-road-users.html) ’)
+ * look all around before moving away from the kerb, turning or manoeuvring, to make sure it is safe to do so. Give a clear signal to show other road users what you intend to do (see ‘ [Signals to other road users](signals-to-other-road-users.md) ’)
  * look well ahead for obstructions in the road, such as drains, pot-holes and parked vehicles so that you do not have to swerve suddenly to avoid them. Leave plenty of room when passing parked vehicles and watch out for doors being opened or pedestrians stepping into your path
  * be aware of traffic coming up behind you
  * take extra care near road humps, narrowings and other traffic calming features
- * take care when overtaking (see [Rules 162 to 169](using-the-road-159-to-203.html#overtaking-162-to-169%23rule162) ).
+ * take care when overtaking (see [Rules 162 to 169](using-the-road-159-to-203.md#overtaking-162-to-169%23rule162) ).
 
 ### Rule 68
 
@@ -96,7 +96,7 @@ When parking your cycle
 
 ### Rule 71
 
-You **MUST NOT** cross the stop line when the traffic lights are red. Some junctions have an advanced stop line to enable you to wait and position yourself ahead of other traffic (see [Rule 178](using-the-road-159-to-203.html#rule178) ).
+You **MUST NOT** cross the stop line when the traffic lights are red. Some junctions have an advanced stop line to enable you to wait and position yourself ahead of other traffic (see [Rule 178](using-the-road-159-to-203.md#rule178) ).
 
 **Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [36(1)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/36/made)**
 
@@ -122,7 +122,7 @@ Pay particular attention to long vehicles which need a lot of room to manoeuvre 
 
 ### Rule 76
 
-Full details about the correct procedure at roundabouts are contained in [Rules 184 to 190](using-the-road-159-to-203.html#roundabouts-184-to-190) . Roundabouts can be hazardous and should be approached with care.
+Full details about the correct procedure at roundabouts are contained in [Rules 184 to 190](using-the-road-159-to-203.md#roundabouts-184-to-190) . Roundabouts can be hazardous and should be approached with care.
 
 ### Rule 77
 
@@ -154,5 +154,5 @@ Do not ride across equestrian crossings, as they are for horse riders only. Do n
 
 ### Rule 82
 
-**Level crossings/Tramways.** Take extra care when crossing the tracks (see [Rule 306](road-works-level-crossings-and-tramways-288-to-307.html#rule306) ). You should dismount at level crossings where a ‘cyclist dismount’ sign is displayed.
+**Level crossings/Tramways.** Take extra care when crossing the tracks (see [Rule 306](road-works-level-crossings-and-tramways-288-to-307.md#rule306) ). You should dismount at level crossings where a ‘cyclist dismount’ sign is displayed.
 

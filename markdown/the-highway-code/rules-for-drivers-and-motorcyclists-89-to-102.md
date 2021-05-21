@@ -7,7 +7,7 @@ Rules for drivers and motorcyclists, including vehicle condition, fitness to dri
 
 ### Rule 89
 
-**Vehicle condition.** You **MUST** ensure your vehicle and trailer comply with the full requirements of the Road Vehicles (Construction and Use) Regulations and Road Vehicles Lighting Regulations (see ‘ [The road user and the law](annex-4-the-road-user-and-the-law.html) ’).
+**Vehicle condition.** You **MUST** ensure your vehicle and trailer comply with the full requirements of the Road Vehicles (Construction and Use) Regulations and Road Vehicles Lighting Regulations (see ‘ [The road user and the law](annex-4-the-road-user-and-the-law.md) ’).
 
 ## Fitness to drive (rules 90 to 94)
 

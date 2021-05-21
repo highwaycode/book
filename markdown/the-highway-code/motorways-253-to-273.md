@@ -3,13 +3,13 @@
 
 Rules for motorways, including rules for signals, joining the motorway, driving on the motorway, lane discipline, overtaking, stopping and leaving the motorway.
 
-Many other Rules apply to motorway driving, either wholly or in part: Rules [46](rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46.html#rule46) , [57](rules-about-animals-47-to-58.html#rule57) , [83](rules-for-motorcyclists-83-to-88.html#rule83) to [126](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule126) , [130](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule130) to [134](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule134) , [139](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule139) , [144](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule144) , [146](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule146) to [151](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule151) , [160](using-the-road-159-to-203.html#rule160) , [161](using-the-road-159-to-203.html#rule161) , [219](road-users-requiring-extra-care-204-to-225.html#rule219) , [221](road-users-requiring-extra-care-204-to-225.html#rule221) to [222](road-users-requiring-extra-care-204-to-225.html#rule222) , [225](road-users-requiring-extra-care-204-to-225.html#rule225) , [226 to 237](driving-in-adverse-weather-conditions-226-to-237.html#rule226) , [274](breakdowns-and-incidents-274-to-287.html#rule274) to [278](breakdowns-and-incidents-274-to-287.html#rule278) , [280](breakdowns-and-incidents-274-to-287.html#rule280) and [281](breakdowns-and-incidents-274-to-287.html#rule281) to [290](road-works-level-crossings-and-tramways-288-to-307.html#rule290) .
+Many other Rules apply to motorway driving, either wholly or in part: Rules [46](rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46.md#rule46) , [57](rules-about-animals-47-to-58.md#rule57) , [83](rules-for-motorcyclists-83-to-88.md#rule83) to [126](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule126) , [130](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule130) to [134](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule134) , [139](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule139) , [144](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule144) , [146](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule146) to [151](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule151) , [160](using-the-road-159-to-203.md#rule160) , [161](using-the-road-159-to-203.md#rule161) , [219](road-users-requiring-extra-care-204-to-225.md#rule219) , [221](road-users-requiring-extra-care-204-to-225.md#rule221) to [222](road-users-requiring-extra-care-204-to-225.md#rule222) , [225](road-users-requiring-extra-care-204-to-225.md#rule225) , [226 to 237](driving-in-adverse-weather-conditions-226-to-237.md#rule226) , [274](breakdowns-and-incidents-274-to-287.md#rule274) to [278](breakdowns-and-incidents-274-to-287.md#rule278) , [280](breakdowns-and-incidents-274-to-287.md#rule280) and [281](breakdowns-and-incidents-274-to-287.md#rule281) to [290](road-works-level-crossings-and-tramways-288-to-307.md#rule290) .
 
 ## General (rules 253 to 254)
 
 ### Rule 253
 
-**Prohibited vehicles.** Motorways **MUST NOT** be used by pedestrians, holders of provisional motorcycle or car licences, riders of motorcycles under 50 cc, cyclists, horse riders, certain slow-moving vehicles and those carrying oversized loads (except by special permission), agricultural vehicles, and powered wheelchairs/powered mobility scooters (see [Rules 36 to 46](rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46.html#rule36) inclusive).
+**Prohibited vehicles.** Motorways **MUST NOT** be used by pedestrians, holders of provisional motorcycle or car licences, riders of motorcycles under 50 cc, cyclists, horse riders, certain slow-moving vehicles and those carrying oversized loads (except by special permission), agricultural vehicles, and powered wheelchairs/powered mobility scooters (see [Rules 36 to 46](rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46.md#rule36) inclusive).
 
 From 4 June 2018 provisional licence holders may drive on the motorway if they are accompanied by an approved driving instructor and are driving a car displaying red L plates (D plates in Wales), that’s fitted with dual controls.
 
@@ -23,7 +23,7 @@ Traffic on motorways usually travels faster than on other roads, so you have les
 
 ### Rule 255
 
-Motorway signals (see ‘ [Light signals controlling traffic](light-signals-controlling-traffic.html) ’) are used to warn you of a danger ahead. For example, there may be an incident, fog, a spillage or road workers on the carriageway which you may not immediately be able to see.
+Motorway signals (see ‘ [Light signals controlling traffic](light-signals-controlling-traffic.md) ’) are used to warn you of a danger ahead. For example, there may be an incident, fog, a spillage or road workers on the carriageway which you may not immediately be able to see.
 
 ### Rule 256
 
@@ -60,7 +60,7 @@ Signals situated on the central reservation apply to all lanes. On very busy str
 When you can see well ahead and the road conditions are good, you should
 
  * drive at a steady cruising speed which you and your vehicle can handle safely and is within the speed limit (see the [Speed limits table](https://www.gov.uk/speed-limits) )
- * keep a safe distance from the vehicle in front and increase the gap on wet or icy roads, or in fog (see Rules [126](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule126) and [235](driving-in-adverse-weather-conditions-226-to-237.html#rule235) ).
+ * keep a safe distance from the vehicle in front and increase the gap on wet or icy roads, or in fog (see Rules [126](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule126) and [235](driving-in-adverse-weather-conditions-226-to-237.md#rule235) ).
 
 ### Rule 261
 
@@ -70,7 +70,7 @@ You **MUST NOT** exceed 70 mph (112 km/h), or the maximum speed limit permitted 
 
 ### Rule 262
 
-The monotony of driving on a motorway can make you feel sleepy. To minimise the risk, follow the advice in [Rule 91](rules-for-drivers-and-motorcyclists-89-to-102.html#rule91) .
+The monotony of driving on a motorway can make you feel sleepy. To minimise the risk, follow the advice in [Rule 91](rules-for-drivers-and-motorcyclists-89-to-102.md#rule91) .
 
 ### Rule 263
 

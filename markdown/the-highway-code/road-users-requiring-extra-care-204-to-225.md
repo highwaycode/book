@@ -19,7 +19,7 @@ There is a risk of pedestrians, especially children, stepping unexpectedly into 
 
 **Drive carefully and slowly** when
 
- * in crowded shopping streets, Home Zones and Quiet Lanes (see [Rule 218](road-users-requiring-extra-care-204-to-225.html#rule218) ) or residential areas
+ * in crowded shopping streets, Home Zones and Quiet Lanes (see [Rule 218](road-users-requiring-extra-care-204-to-225.md#rule218) ) or residential areas
  * driving past bus and tram stops; pedestrians may emerge suddenly into the road
  * passing parked vehicles, especially ice cream vans; children are more interested in ice cream than traffic and may run into the road unexpectedly
  * needing to cross a pavement or cycle track; for example, to reach or leave a driveway. Give way to pedestrians and cyclists on the pavement
@@ -50,7 +50,7 @@ Drive carefully and slowly when passing a stationary bus showing a ‘School Bus
  School bus (displayed in front and rear window of bus or coach) 
 ### Rule 210
 
-You **MUST** stop when a school crossing patrol shows a ‘Stop for children’ sign (see ‘ [Signals by authorised persons](signals-by-authorised-persons.html) ’ and ‘ [Traffic signs](traffic-signs.html) ’).
+You **MUST** stop when a school crossing patrol shows a ‘Stop for children’ sign (see ‘ [Signals by authorised persons](signals-by-authorised-persons.md) ’ and ‘ [Traffic signs](traffic-signs.md) ’).
 
 **Law [RTRA sect 28](http://www.legislation.gov.uk/ukpga/1984/27/section/28)**
 
@@ -63,7 +63,7 @@ It is often difficult to see motorcyclists and cyclists, especially when they ar
  Rule 211: Look out for motorcyclists and cyclists at junctions 
 ### Rule 212
 
-When passing motorcyclists and cyclists, give them plenty of room (see [Rules 162 to 167](using-the-road-159-to-203.html#rule162) ). If they look over their shoulder it could mean that they intend to pull out, turn right or change direction. Give them time and space to do so.
+When passing motorcyclists and cyclists, give them plenty of room (see [Rules 162 to 167](using-the-road-159-to-203.md#rule162) ). If they look over their shoulder it could mean that they intend to pull out, turn right or change direction. Give them time and space to do so.
 
 ### Rule 213
 
@@ -85,7 +85,7 @@ Motorcyclists and cyclists may suddenly need to avoid uneven road surfaces and o
 
 ### Rule 217
 
-**Learners and inexperienced drivers.** They may not be so skilful at anticipating and responding to events. Be particularly patient with learner drivers and young drivers. Drivers who have recently passed their test may display a ‘new driver’ plate or sticker (see ‘ [Safety code for new drivers](annex-8-safety-code-for-new-drivers.html) ’).
+**Learners and inexperienced drivers.** They may not be so skilful at anticipating and responding to events. Be particularly patient with learner drivers and young drivers. Drivers who have recently passed their test may display a ‘new driver’ plate or sticker (see ‘ [Safety code for new drivers](annex-8-safety-code-for-new-drivers.md) ’).
 
 ### Rule 218
 
@@ -99,7 +99,7 @@ Motorcyclists and cyclists may suddenly need to avoid uneven road surfaces and o
 
 ### Rule 220
 
-**Powered vehicles used by disabled people.** These small vehicles travel at a maximum speed of 8 mph (12 km/h). On a dual carriageway where the speed limit exceeds 50 mph (80 km/h) they **MUST** have a flashing amber beacon, but on other roads you may not have that advance warning (see [Rules 36 to 46](rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46.html) inclusive).
+**Powered vehicles used by disabled people.** These small vehicles travel at a maximum speed of 8 mph (12 km/h). On a dual carriageway where the speed limit exceeds 50 mph (80 km/h) they **MUST** have a flashing amber beacon, but on other roads you may not have that advance warning (see [Rules 36 to 46](rules-for-users-of-powered-wheelchairs-and-mobility-scooters-36-to-46.md) inclusive).
 
 **Law [RVLR regs 17(1)](http://www.legislation.gov.uk/uksi/1989/1796/regulation/17/made) & [26](http://www.legislation.gov.uk/uksi/1989/1796/regulation/26/made)**
 
@@ -122,7 +122,7 @@ Large vehicles can block your view. Your ability to see and to plan ahead will b
 
 ### Rule 225
 
-**Vehicles with flashing amber beacons.** These warn of a slow-moving or stationary vehicle (such as a traffic officer vehicle, salt spreader, snow plough or recovery vehicle) or abnormal loads, so approach with caution. On unrestricted dual carriageways, motor vehicles first used on or after 1 January 1947 with a maximum speed of 25 mph (40 km/h) or less (such as tractors) **MUST** use a flashing amber beacon (also see [Rule 220](road-users-requiring-extra-care-204-to-225.html#rule220) ).
+**Vehicles with flashing amber beacons.** These warn of a slow-moving or stationary vehicle (such as a traffic officer vehicle, salt spreader, snow plough or recovery vehicle) or abnormal loads, so approach with caution. On unrestricted dual carriageways, motor vehicles first used on or after 1 January 1947 with a maximum speed of 25 mph (40 km/h) or less (such as tractors) **MUST** use a flashing amber beacon (also see [Rule 220](road-users-requiring-extra-care-204-to-225.md#rule220) ).
 
 **Law [RVLR reg 17](http://www.legislation.gov.uk/uksi/1989/1796/regulation/17/made)**
 

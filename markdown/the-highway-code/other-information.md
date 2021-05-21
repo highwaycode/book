@@ -60,7 +60,7 @@ Get [information about the Blue Badge Scheme](https://www.gov.uk/blue-badge-sche
 
 A [Code of Practice](https://www.gov.uk/government/publications/code-of-practice-for-horse-drawn-vehicles) is available from
 
-Department for Transport International Vehicle Standards Great Minster House 33 Horseferry Road London SW1P 4DR Tel 0300 330 3000  [Print this page](other-information.html#) 
+Department for Transport International Vehicle Standards Great Minster House 33 Horseferry Road London SW1P 4DR Tel 0300 330 3000  [Print this page](other-information.md#) 
 ## Is this page useful?
  Maybe * Yes this page is useful
  * No this page is not useful
@@ -76,32 +76,32 @@ To help us improve GOV.UK, weâ€™d like to know more about your visit today. Weâ€
 
  Email address Send me the survey 
 ## Coronavirus (COVID-19)
- * [Coronavirus (COVID-19): guidance and support](../../coronavirus.html)
+ * [Coronavirus (COVID-19): guidance and support](../../coronavirus.md)
 
 ## Brexit
- * [Check what you need to do](../../transition.html)
+ * [Check what you need to do](../../transition.md)
 
 ## Services and information
- * [Benefits](../../browse/benefits.html)
- * [Births, deaths, marriages and care](../../browse/births-deaths-marriages.html)
- * [Business and self-employed](../../browse/business.html)
- * [Childcare and parenting](../../browse/childcare-parenting.html)
- * [Citizenship and living in the UK](../../browse/citizenship.html)
- * [Crime, justice and the law](../../browse/justice.html)
- * [Disabled people](../../browse/disabilities.html)
- * [Driving and transport](../../browse/driving.html)
- * [Education and learning](../../browse/education.html)
- * [Employing people](../../browse/employing-people.html)
- * [Environment and countryside](../../browse/environment-countryside.html)
- * [Housing and local services](../../browse/housing-local-services.html)
- * [Money and tax](../../browse/tax.html)
- * [Passports, travel and living abroad](../../browse/abroad.html)
- * [Visas and immigration](../../browse/visas-immigration.html)
- * [Working, jobs and pensions](../../browse/working.html)
+ * [Benefits](../../browse/benefits.md)
+ * [Births, deaths, marriages and care](../../browse/births-deaths-marriages.md)
+ * [Business and self-employed](../../browse/business.md)
+ * [Childcare and parenting](../../browse/childcare-parenting.md)
+ * [Citizenship and living in the UK](../../browse/citizenship.md)
+ * [Crime, justice and the law](../../browse/justice.md)
+ * [Disabled people](../../browse/disabilities.md)
+ * [Driving and transport](../../browse/driving.md)
+ * [Education and learning](../../browse/education.md)
+ * [Employing people](../../browse/employing-people.md)
+ * [Environment and countryside](../../browse/environment-countryside.md)
+ * [Housing and local services](../../browse/housing-local-services.md)
+ * [Money and tax](../../browse/tax.md)
+ * [Passports, travel and living abroad](../../browse/abroad.md)
+ * [Visas and immigration](../../browse/visas-immigration.md)
+ * [Working, jobs and pensions](../../browse/working.md)
 
 ## Departments and policy
- * [How government works](../../government/how-government-works.html)
- * [Departments](../../government/organisations.html)
+ * [How government works](../../government/how-government-works.md)
+ * [Departments](../../government/organisations.md)
  * [Worldwide](https://www.gov.uk/world)
  * [Services](https://www.gov.uk/search/services)
  * [Guidance and regulation](https://www.gov.uk/search/guidance-and-regulation)
@@ -113,7 +113,7 @@ To help us improve GOV.UK, weâ€™d like to know more about your visit today. Weâ€
 ## Support links
  * [Help](https://www.gov.uk/help)
  * [Privacy](https://www.gov.uk/help/privacy-notice)
- * [Cookies](../../help/cookies.html)
+ * [Cookies](../../help/cookies.md)
  * [Contact](https://www.gov.uk/contact)
  * [Accessibility statement](https://www.gov.uk/help/accessibility-statement)
  * [Terms and conditions](https://www.gov.uk/help/terms-conditions)

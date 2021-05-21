@@ -22,17 +22,17 @@ Road markings used, including those across the carriageway, along the carriagewa
 
  Edge line 
 
-Centre line [See Rule 127](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule127)
+Centre line [See Rule 127](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule127)
 
-Hazard warning line [See Rule 127](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule127)
+Hazard warning line [See Rule 127](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule127)
 
-Double white lines See Rules [128](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule128) and [129](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule129)
+Double white lines See Rules [128](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule128) and [129](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule129)
 
-Double white lines See Rules [128](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule128) and [129](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule129)
+Double white lines See Rules [128](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule128) and [129](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule129)
 
-See [Rule 130](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule130)
+See [Rule 130](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule130)
 
-Lane line See [Rule 131](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule131)
+Lane line See [Rule 131](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule131)
 
 ## Along the edge of the carriageway
 
@@ -82,11 +82,11 @@ Lengths of road reserved for vehicles loading and unloading are indicated by a w
 
  Parking space reserved for vehicles named 
 
-See [Rule 243](waiting-and-parking-238-to-252.html#rule243)
+See [Rule 243](waiting-and-parking-238-to-252.md#rule243)
 
-See [Rule 141](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule141)
+See [Rule 141](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule141)
 
-Box junction - See [Rule 174](using-the-road-159-to-203.html#rule174)
+Box junction - See [Rule 174](using-the-road-159-to-203.md#rule174)
 
  Do not block that part of the carriageway indicated 
 

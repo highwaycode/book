@@ -61,7 +61,7 @@ You will need to look round and check.
  * give way to oncoming vehicles before passing parked vehicles or other obstructions on your side of the road
  * only overtake on the left if the vehicle in front is signalling to turn right, and there is room to do so
  * stay in your lane if traffic is moving slowly in queues. If the queue on your right is moving more slowly than you are, you may pass on the left
- * give motorcyclists, cyclists and horse riders at least as much room as you would when overtaking a car (see [Rules 211 to 215](road-users-requiring-extra-care-204-to-225.html#motorcyclists-and-cyclists-rules-211-to-213) ).
+ * give motorcyclists, cyclists and horse riders at least as much room as you would when overtaking a car (see [Rules 211 to 215](road-users-requiring-extra-care-204-to-225.md#motorcyclists-and-cyclists-rules-211-to-213) ).
 
 **Remember: Mirrors – Signal – Manoeuvre**
 
@@ -79,7 +79,7 @@ You will need to look round and check.
 
 You **MUST NOT** overtake
 
- * if you would have to cross or straddle double white lines with a solid line nearest to you (but see [Rule 129](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule129) )
+ * if you would have to cross or straddle double white lines with a solid line nearest to you (but see [Rule 129](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule129) )
  * if you would have to enter an area designed to divide traffic, if it is surrounded by a solid white line
  * the nearest vehicle to a pedestrian crossing, especially when it has stopped to let pedestrians cross
  * if you would have to enter a lane reserved for buses, trams or cycles during its hours of operation
@@ -126,7 +126,7 @@ Take extra care at junctions. You should
 
  * watch out for cyclists, motorcyclists, powered wheelchairs/mobility scooters and pedestrians as they are not always easy to see. Be aware that they may not have seen or heard you if you are approaching from behind
  * watch out for pedestrians crossing a road into which you are turning. If they have started to cross they have priority, so give way
- * watch out for long vehicles which may be turning at a junction ahead; they may have to use the whole width of the road to make the turn (see [Rule 221](road-users-requiring-extra-care-204-to-225.html#rule221) )
+ * watch out for long vehicles which may be turning at a junction ahead; they may have to use the whole width of the road to make the turn (see [Rule 221](road-users-requiring-extra-care-204-to-225.md#rule221) )
  * watch out for horse riders who may take a different line on the road from that which you would expect
  * not assume, when waiting at a junction, that a vehicle coming from the right and signalling left will actually turn. Wait and make sure
  * look all around before emerging. Do not cross or join a road until there is a gap large enough for you to do so safely.
@@ -154,7 +154,7 @@ The approach to a junction may have a ‘Give Way’ sign or a triangle marked o
  Rule 173: Assess your vehicle’s length and do not obstruct traffic 
 ### Rule 174
 
-**Box junctions.** These have criss-cross yellow lines painted on the road (see ‘ [Road markings](road-markings.html) ’). You **MUST NOT** enter the box until your exit road or lane is clear. However, you may enter the box and wait when you want to turn right, and are only stopped from doing so by oncoming traffic, or by other vehicles waiting to turn right. At signalled roundabouts you **MUST NOT** enter the box unless you can cross over it completely without stopping.
+**Box junctions.** These have criss-cross yellow lines painted on the road (see ‘ [Road markings](road-markings.md) ’). You **MUST NOT** enter the box until your exit road or lane is clear. However, you may enter the box and wait when you want to turn right, and are only stopped from doing so by oncoming traffic, or by other vehicles waiting to turn right. At signalled roundabouts you **MUST NOT** enter the box unless you can cross over it completely without stopping.
 
 **Law [TSRGD regs 10(1)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [29(2)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/29/made)**
 
@@ -232,7 +232,7 @@ When turning
 
  * use **Mirrors – Signal – Manoeuvre** at all stages
  * decide as early as possible which exit you need to take
- * give an appropriate signal (see [Rule 186](using-the-road-159-to-203.html#rule186) , below). Time your signals so as not to confuse other road users
+ * give an appropriate signal (see [Rule 186](using-the-road-159-to-203.md#rule186) , below). Time your signals so as not to confuse other road users
  * get into the correct lane
  * adjust your speed and position to fit in with traffic conditions
  * be aware of the speed and position of all the road users around you.
@@ -326,7 +326,7 @@ Allow pedestrians plenty of time to cross and do not harass them by revving your
  * do not wave or use your horn to invite pedestrians across; this could be dangerous if another vehicle is approaching
  * be aware of pedestrians approaching from the side of the crossing.
 
-A zebra crossing with a central island is two separate crossings (see ‘ [Crossings](rules-for-pedestrians-1-to-35.html#rule19) ’).
+A zebra crossing with a central island is two separate crossings (see ‘ [Crossings](rules-for-pedestrians-1-to-35.md#rule19) ’).
 
 **Law [ZPPPCRGD reg 25](http://www.legislation.gov.uk/uksi/1997/2400/contents/made)**
 

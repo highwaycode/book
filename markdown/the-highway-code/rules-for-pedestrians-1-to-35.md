@@ -25,7 +25,7 @@ It may be safer to cross the road well before a sharp right-hand bend so that on
  Rule 3: Help yourself to be seen 
 ### Rule 4
 
-**Young children** should not be out alone on the pavement or road (see [Rule 7](rules-for-pedestrians-1-to-35.html#rule7) ). When taking children out, keep between them and the traffic and hold their hands firmly. Strap very young children into push-chairs or use reins. When pushing a young child in a buggy, do not push the buggy into the road when checking to see if it is clear to cross, particularly from between parked vehicles.
+**Young children** should not be out alone on the pavement or road (see [Rule 7](rules-for-pedestrians-1-to-35.md#rule7) ). When taking children out, keep between them and the traffic and hold their hands firmly. Strap very young children into push-chairs or use reins. When pushing a young child in a buggy, do not push the buggy into the road when checking to see if it is clear to cross, particularly from between parked vehicles.
 
 ### Rule 5
 
@@ -33,7 +33,7 @@ It may be safer to cross the road well before a sharp right-hand bend so that on
 
 ### Rule 6
 
-**Motorways.** Pedestrians **MUST NOT** be on motorways or slip roads except in an emergency (see [Rule 271](motorways-253-to-273.html#rule271) and [Rule 275](breakdowns-and-incidents-274-to-287.html#rule275) ).
+**Motorways.** Pedestrians **MUST NOT** be on motorways or slip roads except in an emergency (see [Rule 271](motorways-253-to-273.md#rule271) and [Rule 275](breakdowns-and-incidents-274-to-287.md#rule275) ).
 
 **Laws [RTRA sect 17](http://www.legislation.gov.uk/ukpga/1984/27/section/17) , [MT(E&W)R reg 15(1)(b)](http://www.legislation.gov.uk/uksi/1982/1163/made) & [MT(S)R reg 13](http://www.legislation.gov.uk/cy/uksi/1995/2507/regulation/13/made)**
 
@@ -43,7 +43,7 @@ It may be safer to cross the road well before a sharp right-hand bend so that on
 
 **The Green Cross Code.** The advice given below on crossing the road is for all pedestrians. Children should be taught the Code and should not be allowed out alone until they can understand and use it properly. The age when they can do this is different for each child. Many children cannot judge how fast vehicles are going or how far away they are. Children learn by example, so parents and carers should always use the Code in full when out with their children. They are responsible for deciding at what age children can use it safely by themselves.
 
-**A First find a safe place to cross** and where there is space to reach the pavement on the other side. Where there is a crossing nearby, use it. It is safer to cross using a subway, a footbridge, an island, a zebra, pelican, toucan or puffin crossing, or where there is a crossing point controlled by a police officer, a school crossing patrol or a traffic warden. Otherwise choose a place where you can see clearly in all directions. Try to avoid crossing between parked cars (see [Rule 14](rules-for-pedestrians-1-to-35.html#rule14) ), on a blind bend, or close to the brow of a hill. Move to a space where drivers and riders can see you clearly. Do not cross the road diagonally.
+**A First find a safe place to cross** and where there is space to reach the pavement on the other side. Where there is a crossing nearby, use it. It is safer to cross using a subway, a footbridge, an island, a zebra, pelican, toucan or puffin crossing, or where there is a crossing point controlled by a police officer, a school crossing patrol or a traffic warden. Otherwise choose a place where you can see clearly in all directions. Try to avoid crossing between parked cars (see [Rule 14](rules-for-pedestrians-1-to-35.md#rule14) ), on a blind bend, or close to the brow of a hill. Move to a space where drivers and riders can see you clearly. Do not cross the road diagonally.
 
  Rule 7: Look all around and listen for traffic before crossing 
 
@@ -57,7 +57,7 @@ It may be safer to cross the road well before a sharp right-hand bend so that on
 
 ### Rule 8
 
-**At a junction.** When crossing the road, look out for traffic turning into the road, especially from behind you. If you have started crossing and traffic wants to turn into the road, you have priority and they should give way (see [Rule 170](using-the-road-159-to-203.html#rule170) ).
+**At a junction.** When crossing the road, look out for traffic turning into the road, especially from behind you. If you have started crossing and traffic wants to turn into the road, you have priority and they should give way (see [Rule 170](using-the-road-159-to-203.md#rule170) ).
 
 ### Rule 9
 
@@ -77,7 +77,7 @@ It may be safer to cross the road well before a sharp right-hand bend so that on
 
 ### Rule 13
 
-**Routes shared with cyclists.** Some cycle tracks run alongside footpaths or pavements, using a segregating feature to separate cyclists from people on foot. Segregated routes may also incorporate short lengths of tactile paving to help visually impaired people stay on the correct side. On the pedestrian side this will comprise a series of flat-topped bars running across the direction of travel (ladder pattern). On the cyclist side the same bars are orientated in the direction of travel (tramline pattern). Not all routes which are shared with cyclists are segregated. Take extra care where this is so (see [Rule 62](rules-for-cyclists-59-to-82.html#rule62) ).
+**Routes shared with cyclists.** Some cycle tracks run alongside footpaths or pavements, using a segregating feature to separate cyclists from people on foot. Segregated routes may also incorporate short lengths of tactile paving to help visually impaired people stay on the correct side. On the pedestrian side this will comprise a series of flat-topped bars running across the direction of travel (ladder pattern). On the cyclist side the same bars are orientated in the direction of travel (tramline pattern). Not all routes which are shared with cyclists are segregated. Take extra care where this is so (see [Rule 62](rules-for-cyclists-59-to-82.md#rule62) ).
 
 ### Rule 14
 
@@ -95,7 +95,7 @@ It may be safer to cross the road well before a sharp right-hand bend so that on
 
 ### Rule 17
 
-**At night.** Wear something reflective to make it easier for others to see you (see [Rule 3](rules-for-pedestrians-1-to-35.html#rule3) ). If there is no pedestrian crossing nearby, cross the road near a street light so that traffic can see you more easily.
+**At night.** Wear something reflective to make it easier for others to see you (see [Rule 3](rules-for-pedestrians-1-to-35.md#rule3) ). If there is no pedestrian crossing nearby, cross the road near a street light so that traffic can see you more easily.
 
 ## Crossings (rules 18 to 30)
 
@@ -117,7 +117,7 @@ You **MUST NOT** loiter on any type of crossing.
  Rule 19: Zebra crossings have flashing beacons 
 ### Rule 20
 
-Where there is an island in the middle of a zebra crossing, wait on the island and follow [Rule 19](rules-for-pedestrians-1-to-35.html#rule19) before you cross the second half of the road - it is a separate crossing.
+Where there is an island in the middle of a zebra crossing, wait on the island and follow [Rule 19](rules-for-pedestrians-1-to-35.md#rule19) before you cross the second half of the road - it is a separate crossing.
 
  Rule 20: Zebra crossings with a central island are two separate crossings 
 ### Rule 21
@@ -162,7 +162,7 @@ At some crossings there is a bleeping sound or voice signal to indicate to blind
 
 ### Rule 30
 
-Where there are no controlled crossing points available it is advisable to cross where there is an island in the middle of the road. Use the Green Cross Code (see [Rule 7](rules-for-pedestrians-1-to-35.html#rule7) ) to cross to the island and then stop and use it again to cross the second half of the road.
+Where there are no controlled crossing points available it is advisable to cross where there is an island in the middle of the road. Use the Green Cross Code (see [Rule 7](rules-for-pedestrians-1-to-35.md#rule7) ) to cross to the island and then stop and use it again to cross the second half of the road.
 
 ## Situations needing extra care (rules 31 to 35)
 

@@ -7,7 +7,7 @@ Rules for driving in adverse weather conditions, including wet weather, icy and 
 
 ### Rule 226
 
-You **MUST** use headlights when visibility is seriously reduced, generally when you cannot see for more than 100 metres (328 feet). You may also use front or rear fog lights but you **MUST** switch them off when visibility improves (see [Rule 236](driving-in-adverse-weather-conditions-226-to-237.html#rule236) ).
+You **MUST** use headlights when visibility is seriously reduced, generally when you cannot see for more than 100 metres (328 feet). You may also use front or rear fog lights but you **MUST** switch them off when visibility improves (see [Rule 236](driving-in-adverse-weather-conditions-226-to-237.md#rule236) ).
 
 **Law [RVLR regs 25](http://www.legislation.gov.uk/uksi/1989/1796/regulation/25/made) & [27](http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made)**
 
@@ -15,12 +15,12 @@ You **MUST** use headlights when visibility is seriously reduced, generally when
 
 ### Rule 227
 
-**Wet weather.** In wet weather, stopping distances will be at least double those required for stopping on dry roads (see [‘Typical stopping distances’](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule126) ). This is because your tyres have less grip on the road. In wet weather
+**Wet weather.** In wet weather, stopping distances will be at least double those required for stopping on dry roads (see [‘Typical stopping distances’](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule126) ). This is because your tyres have less grip on the road. In wet weather
 
  * you should keep well back from the vehicle in front. This will increase your ability to see and plan ahead
  * if the steering becomes unresponsive, it probably means that water is preventing the tyres from gripping the road. Ease off the accelerator and slow down gradually
  * the rain and spray from vehicles may make it difficult to see and be seen
- * be aware of the dangers of spilt diesel that will make the surface very slippery (see [Annex 6: Vehicle maintenance, safety and security](annex-6-vehicle-maintenance-safety-and-security.html) )
+ * be aware of the dangers of spilt diesel that will make the surface very slippery (see [Annex 6: Vehicle maintenance, safety and security](annex-6-vehicle-maintenance-safety-and-security.md) )
  * take extra care around pedestrians, cyclists, motorcyclists and horse riders.
 
 ## Icy and snowy weather (rules 228 to 231)
@@ -81,7 +81,7 @@ In very windy weather your vehicle may be affected by turbulence created by larg
 
 **When driving in fog** you should
 
- * use your lights as required (see [Rule 226](driving-in-adverse-weather-conditions-226-to-237.html#rule226) )
+ * use your lights as required (see [Rule 226](driving-in-adverse-weather-conditions-226-to-237.md#rule226) )
  * keep a safe distance behind the vehicle in front. Rear lights can give a false sense of security
  * be able to pull up well within the distance you can see clearly. This is particularly important on motorways and dual carriageways, as vehicles are travelling faster
  * use your windscreen wipers and demisters
@@ -92,7 +92,7 @@ In very windy weather your vehicle may be affected by turbulence created by larg
 
 ### Rule 236
 
-You **MUST NOT** use front or rear fog lights unless visibility is seriously reduced (see [Rule 226](driving-in-adverse-weather-conditions-226-to-237.html#rule226) ) as they dazzle other road users and can obscure your brake lights. You **MUST** switch them off when visibility improves.
+You **MUST NOT** use front or rear fog lights unless visibility is seriously reduced (see [Rule 226](driving-in-adverse-weather-conditions-226-to-237.md#rule226) ) as they dazzle other road users and can obscure your brake lights. You **MUST** switch them off when visibility improves.
 
 **Law [RVLR regs 25](http://www.legislation.gov.uk/uksi/1989/1796/regulation/25/made) & [27](http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made)**
 

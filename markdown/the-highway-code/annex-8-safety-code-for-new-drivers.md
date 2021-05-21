@@ -13,7 +13,7 @@ Once you have passed the driving test you will be able to drive on your own. Thi
  * Make sure everyone in the car is wearing a seat belt throughout the journey.
  * Keep your speed down - many serious collisions happen because the driver loses control, particularly on bends.
  * Most new drivers have no experience of driving high-powered or sporty cars. Unless you have learnt to drive in such a vehicle you need to get plenty of experience driving on your own before driving a more powerful car.
- * Driving while uninsured is an offence. See [Annex 3](annex-3-motor-vehicle-documentation-and-learner-driver-requirements.html) for information on types of insurance cover.
+ * Driving while uninsured is an offence. See [Annex 3](annex-3-motor-vehicle-documentation-and-learner-driver-requirements.md) for information on types of insurance cover.
 
 ## New Drivers Act
 

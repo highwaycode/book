@@ -28,7 +28,7 @@ If a vehicle that’s currently exempt from the MOT test is substantially change
 
 **Law [RTA 1988 sect 143](http://www.legislation.gov.uk/ukpga/1988/52/section/143)**
 
-Uninsured drivers can now be automatically detected by roadside cameras. Further to the penalties for uninsured driving (see [‘Penalty table’](annex-5-penalties.html#penaltytable) ), an offender’s vehicle can now be seized by the Police, taken away and crushed.
+Uninsured drivers can now be automatically detected by roadside cameras. Further to the penalties for uninsured driving (see [‘Penalty table’](annex-5-penalties.md#penaltytable) ), an offender’s vehicle can now be seized by the Police, taken away and crushed.
 
 **Law [RTA 1988 sects 165a](http://www.legislation.gov.uk/ukpga/1988/52/section/165A) & [165b](http://www.legislation.gov.uk/ukpga/1988/52/section/165B)**
 

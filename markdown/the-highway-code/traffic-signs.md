@@ -318,7 +318,7 @@ Green panels indicate that the primary route starts at the junction ahead. Route
 
  With-flow bus lane ahead which pedal cycles and taxis may also use 
 
-Lane designated for use by high occupancy vehicles (HOV) - see [rule 142](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#rule142)
+Lane designated for use by high occupancy vehicles (HOV) - see [rule 142](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule142)
 
  Vehicles permitted to use an HOV lane ahead 
 

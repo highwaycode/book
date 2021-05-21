@@ -60,11 +60,11 @@ If the junction is too hazardous, it may be worth considering an alternative rou
 
 ### Rule 45
 
-All normal parking restrictions should be observed. Your vehicle should not be left unattended if it causes an obstruction to other pedestrians - especially those in wheelchairs. Parking concessions provided under the Blue Badge scheme (see [Further reading](other-information.html#further-reading) ) will apply to those vehicles displaying a valid badge.
+All normal parking restrictions should be observed. Your vehicle should not be left unattended if it causes an obstruction to other pedestrians - especially those in wheelchairs. Parking concessions provided under the Blue Badge scheme (see [Further reading](other-information.md#further-reading) ) will apply to those vehicles displaying a valid badge.
 
 ### Rule 46
 
-These vehicles **MUST NOT** be used on motorways (see [Rule 253](motorways-253-to-273.html#rule253) ). They should not be used on unrestricted dual carriageways where the speed limit exceeds 50 mph (80 km/h) but if they are used on these dual carriageways, they **MUST** have a flashing amber beacon. A flashing amber beacon should be used on all other dual carriageways (see [Rule 220](road-users-requiring-extra-care-204-to-225.html#rule220) ).
+These vehicles **MUST NOT** be used on motorways (see [Rule 253](motorways-253-to-273.md#rule253) ). They should not be used on unrestricted dual carriageways where the speed limit exceeds 50 mph (80 km/h) but if they are used on these dual carriageways, they **MUST** have a flashing amber beacon. A flashing amber beacon should be used on all other dual carriageways (see [Rule 220](road-users-requiring-extra-care-204-to-225.md#rule220) ).
 
 **Laws [RTRA sect 17(2) & (3)](http://www.legislation.gov.uk/ukpga/1984/27/section/17) , & [RVLR regs 17(1)](http://www.legislation.gov.uk/uksi/1989/1796/regulation/17/made) & [26](http://www.legislation.gov.uk/uksi/1989/1796/regulation/26/made)**
 

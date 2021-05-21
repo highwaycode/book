@@ -28,7 +28,7 @@ If your vehicle develops a problem, leave the motorway at the next exit or pull 
  * leave the vehicle by the left-hand door and ensure your passengers do the same. You **MUST** leave any animals in the vehicle or, in an emergency, keep them under proper control on the verge. Never attempt to place a warning triangle on a motorway
  * do not put yourself in danger by attempting even simple repairs
  * ensure that passengers keep away from the carriageway and hard shoulder, and that children are kept under control
- * walk to an emergency telephone on your side of the carriageway (follow the arrows on the posts at the back of the hard shoulder) – the telephone is free of charge and connects directly to an operator. Use these in preference to a mobile phone (see [Rule 283](breakdowns-and-incidents-274-to-287.html#rule283) ). Always face the traffic when you speak on the phone
+ * walk to an emergency telephone on your side of the carriageway (follow the arrows on the posts at the back of the hard shoulder) – the telephone is free of charge and connects directly to an operator. Use these in preference to a mobile phone (see [Rule 283](breakdowns-and-incidents-274-to-287.md#rule283) ). Always face the traffic when you speak on the phone
  * give full details to the operator; also inform them if you are a vulnerable motorist such as disabled, older or travelling alone
  * return and wait near your vehicle (well away from the carriageway and hard shoulder)
  * if you feel at risk from another person, return to your vehicle by a left-hand door and lock all doors. Leave your vehicle again as soon as you feel this danger has passed.
@@ -70,13 +70,13 @@ If anything falls from your vehicle (or any other vehicle) on to the road, stop 
 
 ### Rule 281
 
-**Warning signs or flashing lights.** If you see or hear emergency or incident support vehicles in the distance, be aware there may be an incident ahead (see [Rule 219](road-users-requiring-extra-care-204-to-225.html#rule219) ). Police officers and traffic officers may be required to work in the carriageway, for example dealing with debris, collisions or conducting rolling road blocks. Police officers will use rear-facing flashing red and blue lights and traffic officers will use rear-facing flashing red and amber lights in these situations. Watch out for such signals, slow down and be prepared to stop. You **MUST** follow any directions given by police officers or traffic officers as to whether you can safely pass the incident or blockage.
+**Warning signs or flashing lights.** If you see or hear emergency or incident support vehicles in the distance, be aware there may be an incident ahead (see [Rule 219](road-users-requiring-extra-care-204-to-225.md#rule219) ). Police officers and traffic officers may be required to work in the carriageway, for example dealing with debris, collisions or conducting rolling road blocks. Police officers will use rear-facing flashing red and blue lights and traffic officers will use rear-facing flashing red and amber lights in these situations. Watch out for such signals, slow down and be prepared to stop. You **MUST** follow any directions given by police officers or traffic officers as to whether you can safely pass the incident or blockage.
 
 **Laws [RTA 1988 sects 35](http://www.legislation.gov.uk/ukpga/1988/52/section/35) & [163](http://www.legislation.gov.uk/ukpga/1988/52/section/163) as amended by [TMA sect 6](http://www.legislation.gov.uk/ukpga/2004/18/section/6)**
 
 ### Rule 282
 
-When passing the scene of an incident or crash do not be distracted or slow down unnecessarily (for example if an incident is on the other side of a dual carriageway). This may cause a collision or traffic congestion, but see [Rule 283](breakdowns-and-incidents-274-to-287.html#rule283) , below.
+When passing the scene of an incident or crash do not be distracted or slow down unnecessarily (for example if an incident is on the other side of a dual carriageway). This may cause a collision or traffic congestion, but see [Rule 283](breakdowns-and-incidents-274-to-287.md#rule283) , below.
 
 ### Rule 283
 
@@ -88,7 +88,7 @@ If you are involved in a crash or stop to give assistance
  * move uninjured people away from the vehicles to safety; on a motorway this should, if possible, be well away from the traffic, the hard shoulder and the central reservation
  * do not move injured people from their vehicles unless they are in immediate danger from fire or explosion
  * do not remove a motorcyclist’s helmet unless it is essential to do so
- * be prepared to give [first aid](annex-7-first-aid-on-the-road.html)
+ * be prepared to give [first aid](annex-7-first-aid-on-the-road.md)
  * stay at the scene until emergency services arrive.
 
 If you are involved in any other medical emergency on the motorway you should contact the emergency services in the same way.
@@ -97,11 +97,11 @@ If you are involved in any other medical emergency on the motorway you should co
 
 ### Rule 284
 
-Vehicles carrying dangerous goods in packages will be marked with plain orange reflective plates. Road tankers and vehicles carrying tank containers of dangerous goods will have hazard warning plates (see ‘ [Vehicle markings](vehicle-markings.html) ’).
+Vehicles carrying dangerous goods in packages will be marked with plain orange reflective plates. Road tankers and vehicles carrying tank containers of dangerous goods will have hazard warning plates (see ‘ [Vehicle markings](vehicle-markings.md) ’).
 
 ### Rule 285
 
-If an incident involves a vehicle containing dangerous goods, follow the advice in [Rule 283](breakdowns-and-incidents-274-to-287.html#rule283) and, in particular
+If an incident involves a vehicle containing dangerous goods, follow the advice in [Rule 283](breakdowns-and-incidents-274-to-287.md#rule283) and, in particular
 
  * switch off engines and **DO NOT SMOKE**
  * keep well away from the vehicle and do not be tempted to try to rescue casualties as you yourself could become one

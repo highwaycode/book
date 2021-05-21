@@ -3,7 +3,7 @@
 
 Rules for motorcyclists, including helmets, carrying passengers, daylight riding and riding in the dark.
 
-These Rules are in addition to those in the following sections which apply to all vehicles. See ‘ [Motorcycle licence requirements](annex-2-motorcycle-licence-requirements.html) ’.
+These Rules are in addition to those in the following sections which apply to all vehicles. See ‘ [Motorcycle licence requirements](annex-2-motorcycle-licence-requirements.md) ’.
 
 ## General (rules 83 to 88)
 
@@ -32,7 +32,7 @@ You **MUST NOT** carry more than one pillion passenger who **MUST** sit astride 
  Rule 86: Help yourself to be seen 
 ### Rule 87
 
-**Riding in the dark.** Wear reflective clothing or strips to improve your visibility in the dark. These reflect light from the headlamps of other vehicles, making you visible from a longer distance. See [Rules 113 to 116](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#lighting-requirements-113-to-116) for lighting requirements.
+**Riding in the dark.** Wear reflective clothing or strips to improve your visibility in the dark. These reflect light from the headlamps of other vehicles, making you visible from a longer distance. See [Rules 113 to 116](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#lighting-requirements-113-to-116) for lighting requirements.
 
 ### Rule 88
 

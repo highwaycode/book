@@ -11,9 +11,9 @@ The most vulnerable road users are pedestrians, particularly children, older or 
 
 ## Wording of The Highway Code
 
-Many of the rules in the Code are legal requirements, and if you disobey these rules you are committing a criminal offence. You may be fined, given penalty points on your licence or be disqualified from driving. In the most serious cases you may be sent to prison. Such rules are identified by the use of the words ‘ **MUST/MUST NOT** ’. In addition, the rule includes an abbreviated reference to the legislation which creates the offence. See an [explanation of the abbreviations](annex-4-the-road-user-and-the-law.html#abbrev) .
+Many of the rules in the Code are legal requirements, and if you disobey these rules you are committing a criminal offence. You may be fined, given penalty points on your licence or be disqualified from driving. In the most serious cases you may be sent to prison. Such rules are identified by the use of the words ‘ **MUST/MUST NOT** ’. In addition, the rule includes an abbreviated reference to the legislation which creates the offence. See an [explanation of the abbreviations](annex-4-the-road-user-and-the-law.md#abbrev) .
 
-Although failure to comply with the other rules of the Code will not, in itself, cause a person to be prosecuted, The Highway Code may be used in evidence in any court proceedings under the Traffic Acts (see [The road user and the law](annex-4-the-road-user-and-the-law.html#roaduserlaw) ) to establish liability. This includes rules which use advisory wording such as ‘should/should not’ or ‘do/do not’.
+Although failure to comply with the other rules of the Code will not, in itself, cause a person to be prosecuted, The Highway Code may be used in evidence in any court proceedings under the Traffic Acts (see [The road user and the law](annex-4-the-road-user-and-the-law.md#roaduserlaw) ) to establish liability. This includes rules which use advisory wording such as ‘should/should not’ or ‘do/do not’.
 
 ## Knowing and applying the rules
 

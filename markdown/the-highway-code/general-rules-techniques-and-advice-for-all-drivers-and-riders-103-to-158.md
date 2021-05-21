@@ -9,7 +9,7 @@ This section should be read by all drivers, motorcyclists, cyclists and horse ri
 
 ### Rule 103
 
-Signals warn and inform other road users, including pedestrians (see ‘ [Signals to other road users](signals-to-other-road-users.html) ), of your intended actions. You should always
+Signals warn and inform other road users, including pedestrians (see ‘ [Signals to other road users](signals-to-other-road-users.md) ), of your intended actions. You should always
 
  * give clear signals in plenty of time, having checked it is not misleading to signal at that time
  * use them to advise other road users before changing course or direction, stopping or moving off
@@ -26,7 +26,7 @@ You should also
 
 ### Rule 105
 
-You **MUST** obey signals given by police officers, traffic officers, traffic wardens (see ‘ [Signals by authorised persons](signals-by-authorised-persons.html) ’) and signs used by school crossing patrols.
+You **MUST** obey signals given by police officers, traffic officers, traffic wardens (see ‘ [Signals by authorised persons](signals-by-authorised-persons.md) ’) and signs used by school crossing patrols.
 
 **Laws [RTRA sect 28](http://www.legislation.gov.uk/ukpga/1984/27/section/28) , [RTA 1988 sect 35](http://www.legislation.gov.uk/ukpga/1988/52/section/35) , [TMA sect 6](http://www.legislation.gov.uk/ukpga/2004/18/part/6) & [FTWO art 3](http://www.legislation.gov.uk/uksi/2002/2975/made)**
 
@@ -50,7 +50,7 @@ You **MUST** then pull over and stop as soon as it is safe to do so. Then switch
  * either from the front requesting you to follow them to a safe place to stop
  * or from behind directing you to pull over to the side by pointing and/or using the left indicator.
 
-It is an offence not to comply with their directions. You **MUST** obey any signals given (see ‘ [Signals by authorised persons](signals-by-authorised-persons.html) ’).
+It is an offence not to comply with their directions. You **MUST** obey any signals given (see ‘ [Signals by authorised persons](signals-by-authorised-persons.md) ’).
 
 **Laws [RTA 1988 sect 67](http://www.legislation.gov.uk/ukpga/1988/52/section/67/enacted) , & [PRA sect 41](http://www.legislation.gov.uk/ukpga/2002/30/section/41) & [sched 5(8)](http://www.legislation.gov.uk/ukpga/2002/30/schedule/5)**
 
@@ -61,13 +61,13 @@ It is an offence not to comply with their directions. You **MUST** obey any sign
  * flashing amber lights, usually from behind
  * directing you to pull over to the side by pointing and/or using the left indicator.
 
-You **MUST** then pull over and stop as soon as it is safe to do so. Then switch off your engine. It is an offence not to comply with their directions (see ‘ [Signals by authorised persons](signals-by-authorised-persons.html) ’).
+You **MUST** then pull over and stop as soon as it is safe to do so. Then switch off your engine. It is an offence not to comply with their directions (see ‘ [Signals by authorised persons](signals-by-authorised-persons.md) ’).
 
 **Law [RTA 1988 sects 35](http://www.legislation.gov.uk/ukpga/1988/52/section/35) & [163](http://www.legislation.gov.uk/ukpga/1988/52/section/163) as amended by [TMA sect 6](http://www.legislation.gov.uk/ukpga/2004/18/section/6)**
 
 ### Rule 109
 
-**Traffic light signals and traffic signs.** You **MUST** obey all traffic light signals (see ‘ [Light signals controlling traffic](light-signals-controlling-traffic.html) ’) and traffic signs giving orders, including temporary signals & signs (see ‘ [Traffic signs](traffic-signs.html) ’). Make sure you know, understand and act on all other traffic and information signs and road markings (see ‘ [Traffic signs](traffic-signs.html) ’, ‘ [Road markings](road-markings.html) ’ and ‘ [Vehicle markings](vehicle-markings.html) ’).
+**Traffic light signals and traffic signs.** You **MUST** obey all traffic light signals (see ‘ [Light signals controlling traffic](light-signals-controlling-traffic.md) ’) and traffic signs giving orders, including temporary signals & signs (see ‘ [Traffic signs](traffic-signs.md) ’). Make sure you know, understand and act on all other traffic and information signs and road markings (see ‘ [Traffic signs](traffic-signs.md) ’, ‘ [Road markings](road-markings.md) ’ and ‘ [Vehicle markings](vehicle-markings.md) ’).
 
 **Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) , [15](http://www.legislation.gov.uk/uksi/2002/3113/regulation/15/made) , [16](http://www.legislation.gov.uk/uksi/2002/3113/regulation/16/made) , [25](http://www.legislation.gov.uk/uksi/2002/3113/regulation/25/made) , [26](http://www.legislation.gov.uk/uksi/2002/3113/regulation/26/made) , [27](http://www.legislation.gov.uk/uksi/2002/3113/regulation/27/made) , [28](http://www.legislation.gov.uk/uksi/2002/3113/regulation/28/made) , [29](http://www.legislation.gov.uk/uksi/2002/3113/regulation/29/made) , [36](http://www.legislation.gov.uk/uksi/2002/3113/regulation/36/made) , [38](http://www.legislation.gov.uk/uksi/2002/3113/regulation/38/made) & [40](http://www.legislation.gov.uk/uksi/2002/3113/regulation/40/made)**
 
@@ -98,7 +98,7 @@ You **MUST**
 
  * ensure all sidelights and rear registration plate lights are lit between sunset and sunrise
  * use headlights at night, except on a road which has lit street lighting. These roads are generally restricted to a speed limit of 30 mph (48 km/h) unless otherwise specified
- * use headlights when visibility is seriously reduced (see [Rule 226](driving-in-adverse-weather-conditions-226-to-237.html#rule226) ).
+ * use headlights when visibility is seriously reduced (see [Rule 226](driving-in-adverse-weather-conditions-226-to-237.md#rule226) ).
 
 Night (the hours of darkness) is defined as the period between half an hour after sunset and half an hour before sunrise.
 
@@ -109,7 +109,7 @@ Night (the hours of darkness) is defined as the period between half an hour afte
 You **MUST NOT**
 
  * use any lights in a way which would dazzle or cause discomfort to other road users, including pedestrians, cyclists and horse riders
- * use front or rear fog lights unless visibility is seriously reduced. You **MUST** switch them off when visibility improves to avoid dazzling other road users (see [Rule 226](driving-in-adverse-weather-conditions-226-to-237.html#rule226) ).
+ * use front or rear fog lights unless visibility is seriously reduced. You **MUST** switch them off when visibility improves to avoid dazzling other road users (see [Rule 226](driving-in-adverse-weather-conditions-226-to-237.md#rule226) ).
 
 In stationary queues of traffic, drivers should apply the parking brake and, once the following traffic has stopped, take their foot off the footbrake to deactivate the vehicle brake lights. This will minimise glare to road users behind until the traffic moves again.
 
@@ -179,7 +179,7 @@ You should also
 
 ### Rule 124
 
-You **MUST NOT** exceed the maximum speed limits for the road and for your vehicle (see the [speed limits table](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.html#speedlimits) ). The presence of street lights generally means that there is a 30 mph (48 km/h) speed limit unless otherwise specified.
+You **MUST NOT** exceed the maximum speed limits for the road and for your vehicle (see the [speed limits table](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#speedlimits) ). The presence of street lights generally means that there is a 30 mph (48 km/h) speed limit unless otherwise specified.
 
 **Law [RTRA sects 81](http://www.legislation.gov.uk/ukpga/1984/27/part/VI) , [86](http://www.legislation.gov.uk/ukpga/1984/27/part/VI) , [89](http://www.legislation.gov.uk/ukpga/1984/27/part/VI) & [sched 6](http://www.legislation.gov.uk/ukpga/1984/27/schedule/6) as amended by [MV(VSL)(E&W)](http://www.legislation.gov.uk/uksi/2014/3552/contents/made)**
 
@@ -207,7 +207,7 @@ If you have to stop in a tunnel, leave at least a 5-metre gap between you and th
  Rule 126: Use a fixed point to help measure a two-second gap 
 ## Lines and lane markings on the road (rules 127 to 132)
 
-See ‘ [Road markings](road-markings.html) ’ to see diagrams of all lines.
+See ‘ [Road markings](road-markings.md) ’ to see diagrams of all lines.
 
 ### Rule 127
 
@@ -300,7 +300,7 @@ On a three-lane dual carriageway, you may use the middle lane or the right-hand 
 
 ### Rule 142
 
-**High-occupancy vehicle lanes and other designated vehicle lanes.** Lanes may be restricted for use by particular types of vehicle; these restrictions may apply some or all of the time. The operating times and vehicle types will be indicated on the accompanying traffic signs. You **MUST NOT** drive in such lanes during their times of operation unless signs indicate that your vehicle is permitted (see ‘ [Traffic signs](traffic-signs.html) ’).
+**High-occupancy vehicle lanes and other designated vehicle lanes.** Lanes may be restricted for use by particular types of vehicle; these restrictions may apply some or all of the time. The operating times and vehicle types will be indicated on the accompanying traffic signs. You **MUST NOT** drive in such lanes during their times of operation unless signs indicate that your vehicle is permitted (see ‘ [Traffic signs](traffic-signs.md) ’).
 
 Vehicles permitted to use designated lanes may or may not include cycles, buses, taxis, licensed private hire vehicles, motorcycles, heavy goods vehicles (HGVs) and high-occupancy vehicles (HOVs).
 
@@ -352,7 +352,7 @@ You **MUST NOT** drive on or over a pavement, footpath or bridleway except to ga
 
 ### Rule 147
 
-**Be considerate.** Be careful of and considerate towards all types of road users, especially those requiring extra care (see [Rule 204](road-users-requiring-extra-care-204-to-225.html#rule204) ).
+**Be considerate.** Be careful of and considerate towards all types of road users, especially those requiring extra care (see [Rule 204](road-users-requiring-extra-care-204-to-225.md#rule204) ).
 
  * you **MUST NOT** throw anything out of a vehicle; for example, food or food packaging, cigarette ends, cans, paper or carrier bags. This can endanger other road users, particularly motorcyclists and cyclists.
  * try to be understanding if other road users cause problems; they may be inexperienced or not know the area well.

@@ -63,7 +63,10 @@ def convert_to_markdown(frame):
     elif frame['$isa'] == 'strong':
         return f"**{buffer}**"
     elif frame['$isa'] == 'a':
-        return "["+buffer + "](" + frame['$attrs']['href'] + ")"
+        href = frame['$attrs']['href']
+        if not href.startswith('http:') and not href.startswith('https:'):
+            href = re.sub(r'\.html','.md', href)
+        return "["+buffer + "](" + href + ")"
     elif frame['$isa'] == 'li':
         return f"* {buffer}\n"
 
