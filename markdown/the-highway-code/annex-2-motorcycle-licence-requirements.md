@@ -13,9 +13,9 @@ You can then ride unaccompanied on the public road a motorcycle up to 125 cc, wi
 
 **To ride a moped,** learners **MUST**
 
- * be 16 or over
- * have a provisional moped licence
- * complete CBT training.
+* be 16 or over
+* have a provisional moped licence
+* complete CBT training.
 
 **Law [RTA 1988 sects 97(3)](http://www.legislation.gov.uk/ukpga/1988/52/section/97) & [101](http://www.legislation.gov.uk/ukpga/1988/52/section/101)**
 
@@ -33,22 +33,22 @@ You **MUST** first pass the theory test for motorcycles and then the moped pract
 
 **Category AM** (moped) – minimum age 16
 
- * two-wheeled vehicle with a maximum design speed of 45 km/h (28 mph)
- * three- or four-wheeled vehicle with a maximum design speed over 25 km/h (15.5 mph), up to 50 cc and with a power output not exceeding 4 kW.
+* two-wheeled vehicle with a maximum design speed of 45 km/h (28 mph)
+* three- or four-wheeled vehicle with a maximum design speed over 25 km/h (15.5 mph), up to 50 cc and with a power output not exceeding 4 kW.
 
 **Category A1** – minimum age 17
 
- * motorcycles up to 125 cc, with a power output not exceeding 11 kW
- * tricycles with a power output not exceeding 15 kW.
+* motorcycles up to 125 cc, with a power output not exceeding 11 kW
+* tricycles with a power output not exceeding 15 kW.
 
 **Category A2** – minimum age 19
 
- * motorcycles with a power output not exceeding 35 kW.
+* motorcycles with a power output not exceeding 35 kW.
 
 **Category A**
 
- * unrestricted motorcycles with a power output over 35 kW (minimum age 24 under direct access, or 21 under progressive access)
- * tricycles with a power output over 15 kW (minimum age 21).
+* unrestricted motorcycles with a power output over 35 kW (minimum age 24 under direct access, or 21 under progressive access)
+* tricycles with a power output over 15 kW (minimum age 21).
 
 Progressive access is a process that allows a rider to take a higher-category practical test if they already have at least two years’ experience on a lower-category motorcycle. For example, if you have held a category A2 licence for a minimum of two years, you can take the category A practical test at age 21. There is no requirement to take another theory test.
 

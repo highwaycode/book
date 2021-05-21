@@ -9,7 +9,7 @@ Vehicle markings used, including large goods vehicle rear markings, hazard warni
 
 Motor vehicles over 7500 kilograms maximum gross weight and trailers over 3500 kilograms maximum gross weight
 
- Left  -  Central  -  Right 
+Left  -  Central  -  Right
 
 The vertical markings are also required to be fitted to builders’ skips placed in the road, commercial vehicles or combinations longer than 13 metres (optional on combinations between 11 and 13 metres)
 
@@ -17,29 +17,29 @@ The vertical markings are also required to be fitted to builders’ skips placed
 
 Certain tank vehicles carrying dangerous goods must display hazard information panels
 
- The panel illustrated is for flammable liquid. Diamond symbols indicating other risks include: 
+The panel illustrated is for flammable liquid. Diamond symbols indicating other risks include:
 
- The above panel will be displayed by vehicles carrying certain dangerous goods in packages 
+The above panel will be displayed by vehicles carrying certain dangerous goods in packages
 
- Toxic substance 
+Toxic substance
 
- Oxidizing substance 
+Oxidizing substance
 
- Non-flammable compressed gas 
+Non-flammable compressed gas
 
- Radioactive substance 
+Radioactive substance
 
- Spontaneously combustible substance 
+Spontaneously combustible substance
 
- Corrosive substance 
+Corrosive substance
 ## Projections markers
 
- Side marker 
+Side marker
 
- End marker 
+End marker
 
 Both required when load or equipment (eg crane jib) overhangs front or rear by more than two metres
 
 ## Other
 
- School bus (displayed in front or rear window of bus or coach)
+School bus (displayed in front or rear window of bus or coach)

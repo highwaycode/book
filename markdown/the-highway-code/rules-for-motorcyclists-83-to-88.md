@@ -29,7 +29,7 @@ You **MUST NOT** carry more than one pillion passenger who **MUST** sit astride 
 
 **Daylight riding.** Make yourself as visible as possible from the side as well as the front and rear. You could wear a light or brightly coloured helmet and fluorescent clothing or strips. Dipped headlights, even in good daylight, may also make you more conspicuous. However, be aware that other vehicle drivers may still not have seen you, or judged your distance or speed correctly, especially at junctions.
 
- Rule 86: Help yourself to be seen 
+Rule 86: Help yourself to be seen
 ### Rule 87
 
 **Riding in the dark.** Wear reflective clothing or strips to improve your visibility in the dark. These reflect light from the headlamps of other vehicles, making you visible from a longer distance. See [Rules 113 to 116](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#lighting-requirements-113-to-116) for lighting requirements.

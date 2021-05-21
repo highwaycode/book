@@ -21,11 +21,11 @@ Make sure that you are fit to drive. You **MUST** report to the Driver and Vehic
 
 Driving when you are tired greatly increases your risk of collision. To minimise this risk
 
- * make sure you are fit to drive. Do not begin a journey if you are tired. Get a good night’s sleep before embarking on a long journey
- * avoid undertaking long journeys between midnight and 6 am, when natural alertness is at a minimum
- * plan your journey to take sufficient breaks. A minimum break of at least 15 minutes after every two hours of driving is recommended
- * if you feel at all sleepy, stop in a safe place. Do not stop on the hard shoulder of a motorway
- * the most effective ways to counter sleepiness are to drink, for example, two cups of caffeinated coffee and to take a short nap (at least 15 minutes)
+* make sure you are fit to drive. Do not begin a journey if you are tired. Get a good night’s sleep before embarking on a long journey
+* avoid undertaking long journeys between midnight and 6 am, when natural alertness is at a minimum
+* plan your journey to take sufficient breaks. A minimum break of at least 15 minutes after every two hours of driving is recommended
+* if you feel at all sleepy, stop in a safe place. Do not stop on the hard shoulder of a motorway
+* the most effective ways to counter sleepiness are to drink, for example, two cups of caffeinated coffee and to take a short nap (at least 15 minutes)
 
 ### Rule 92
 
@@ -53,11 +53,11 @@ In Scotland the legal limits are lower. You **MUST NOT** drive with a breath alc
 
 Alcohol will
 
- * give a false sense of confidence
- * reduce co-ordination and slow down reactions
- * affect judgement of speed, distance and risk
- * reduce your driving ability, even if you’re below the legal limit
- * take time to leave your body; you may be unfit to drive in the evening after drinking at lunchtime, or in the morning after drinking the previous evening.
+* give a false sense of confidence
+* reduce co-ordination and slow down reactions
+* affect judgement of speed, distance and risk
+* reduce your driving ability, even if you’re below the legal limit
+* take time to leave your body; you may be unfit to drive in the evening after drinking at lunchtime, or in the morning after drinking the previous evening.
 
 The best solution is not to drink at all when planning to drive because any amount of alcohol affects your ability to drive safely. If you are going to drink, arrange another means of transport.
 
@@ -77,27 +77,27 @@ You **MUST NOT** drive if you have illegal drugs or certain medicines in your bl
 
 **Before setting off.** You should ensure that
 
- * you have planned your route and allowed sufficient time
- * clothing and footwear do not prevent you using the controls in the correct manner
- * you know where all the controls are and how to use them before you need them. Not all vehicles are the same; do not wait until it is too late to find out
- * your mirrors and seat are adjusted correctly to ensure comfort, full control and maximum vision
- * head restraints are properly adjusted to reduce the risk of neck and spine injuries in the event of a collision
- * you have sufficient fuel before commencing your journey, especially if it includes motorway driving. It can be dangerous to lose power when driving in traffic
- * ensure your vehicle is legal and roadworthy
- * switch off your mobile phone.
+* you have planned your route and allowed sufficient time
+* clothing and footwear do not prevent you using the controls in the correct manner
+* you know where all the controls are and how to use them before you need them. Not all vehicles are the same; do not wait until it is too late to find out
+* your mirrors and seat are adjusted correctly to ensure comfort, full control and maximum vision
+* head restraints are properly adjusted to reduce the risk of neck and spine injuries in the event of a collision
+* you have sufficient fuel before commencing your journey, especially if it includes motorway driving. It can be dangerous to lose power when driving in traffic
+* ensure your vehicle is legal and roadworthy
+* switch off your mobile phone.
 
- Rule 97: Make sure head restraints are properly adjusted 
+Rule 97: Make sure head restraints are properly adjusted
 ## Vehicle towing and loading (rule 98)
 
 ### Rule 98
 
 **Vehicle towing and loading.** As a driver
 
- * you **MUST NOT** tow more than your licence permits. If you passed a car test after 1 Jan 1997 you are restricted on the weight of trailer you can tow
- * you **MUST NOT** overload your vehicle or trailer. You should not tow a weight greater than that recommended by the manufacturer of your vehicle
- * you **MUST** secure your load and it **MUST NOT** stick out dangerously. Make sure any heavy or sharp objects and any animals are secured safely. If there is a collision, they might hit someone inside the vehicle and cause serious injury
- * you should properly distribute the weight in your caravan or trailer with heavy items mainly over the axle(s) and ensure a downward load on the tow ball. Manufacturer’s recommended weight and tow ball load should not be exceeded. This should avoid the possibility of swerving or snaking and going out of control. If this does happen, ease off the accelerator and reduce speed gently to regain control
- * carrying a load or pulling a trailer may require you to adjust the headlights.
+* you **MUST NOT** tow more than your licence permits. If you passed a car test after 1 Jan 1997 you are restricted on the weight of trailer you can tow
+* you **MUST NOT** overload your vehicle or trailer. You should not tow a weight greater than that recommended by the manufacturer of your vehicle
+* you **MUST** secure your load and it **MUST NOT** stick out dangerously. Make sure any heavy or sharp objects and any animals are secured safely. If there is a collision, they might hit someone inside the vehicle and cause serious injury
+* you should properly distribute the weight in your caravan or trailer with heavy items mainly over the axle(s) and ensure a downward load on the tow ball. Manufacturer’s recommended weight and tow ball load should not be exceeded. This should avoid the possibility of swerving or snaking and going out of control. If this does happen, ease off the accelerator and reduce speed gently to regain control
+* carrying a load or pulling a trailer may require you to adjust the headlights.
 
 In the event of a breakdown, be aware that towing a vehicle on a tow rope is potentially dangerous. You should consider professional recovery.
 
@@ -113,14 +113,14 @@ You **MUST** wear a seat belt in cars, vans and other goods vehicles if one is f
 
 **Seat belt requirements.** This table summarises the main legal requirements for wearing seat belts in cars, vans and other goods vehicles.
 
-  Front seat Rear seat Who is responsible? **Driver** Seat belt **MUST** be worn if fitted - **Driver** **Child** under 3 years of age Correct child restraint **MUST** be used Correct child restraint **MUST** be used. If one is not available in a taxi, may travel unrestrained. **Driver** **Child** from 3rd birthday up to 1.35 metres in height (or 12th birthday, whichever they reach first) Correct child restraint **MUST** be used Correct child restraint **MUST** be used where seat belts fitted. **MUST** use adult belt if correct child restraint is not available in a licensed taxi or private hire vehicle, or for reasons of unexpected necessity over a short distance, or if two occupied restraints prevent fitment of a third. **Driver** **Child** over 1.35 metres (approx 4ft 5ins) in height or 12 or 13 years Seat belt **MUST** be worn if available Seat belt **MUST** be worn if available **Driver** **Adult** passengers aged 14 and over Seat belt **MUST** be worn if available Seat belt **MUST** be worn if available **Passenger** 
+Front seat Rear seat Who is responsible? **Driver** Seat belt **MUST** be worn if fitted - **Driver** **Child** under 3 years of age Correct child restraint **MUST** be used Correct child restraint **MUST** be used. If one is not available in a taxi, may travel unrestrained. **Driver** **Child** from 3rd birthday up to 1.35 metres in height (or 12th birthday, whichever they reach first) Correct child restraint **MUST** be used Correct child restraint **MUST** be used where seat belts fitted. **MUST** use adult belt if correct child restraint is not available in a licensed taxi or private hire vehicle, or for reasons of unexpected necessity over a short distance, or if two occupied restraints prevent fitment of a third. **Driver** **Child** over 1.35 metres (approx 4ft 5ins) in height or 12 or 13 years Seat belt **MUST** be worn if available Seat belt **MUST** be worn if available **Driver** **Adult** passengers aged 14 and over Seat belt **MUST** be worn if available Seat belt **MUST** be worn if available **Passenger**
 ### Rule 100
 
 The driver **MUST** ensure that all children under 14 years of age in cars, vans and other goods vehicles wear seat belts or sit in an approved child restraint where required (see table above). If a child is under 1.35 metres (approx 4 feet 5 inches) tall, a baby seat, child seat, booster seat or booster cushion **MUST** be used suitable for the child’s weight and fitted to the manufacturer’s instructions.
 
 **Laws [RTA 1988 sects 14](http://www.legislation.gov.uk/ukpga/1988/52/section/14) & [15](http://www.legislation.gov.uk/ukpga/1988/52/section/15) , [MV(WSB)R](http://www.legislation.gov.uk/uksi/1993/176/contents/made) , [MV(WSBCFS)R](http://www.legislation.gov.uk/uksi/1993/31/contents/made) & MV(WSB)(A)R [2005](http://www.legislation.gov.uk/uksi/2005/27/contents/made) and [2006](http://www.legislation.gov.uk/uksi/2006/1892/contents/made)**
 
- Rule 100: Make sure that a child uses a suitable restraint which is correctly adjusted 
+Rule 100: Make sure that a child uses a suitable restraint which is correctly adjusted
 ### Rule 101
 
 A rear-facing baby seat **MUST NOT** be fitted into a seat protected by an active frontal airbag, as in a crash it can cause serious injury or death to the child.
@@ -131,8 +131,8 @@ A rear-facing baby seat **MUST NOT** be fitted into a seat protected by an activ
 
 **Children in cars, vans and other goods vehicles.** Drivers who are carrying children in cars, vans and other goods vehicles should also ensure that
 
- * children should get into the vehicle through the door nearest the kerb
- * child restraints are properly fitted to manufacturer’s instructions
- * children do not sit behind the rear seats in an estate car or hatchback, unless a special child seat has been fitted
- * the child safety door locks, where fitted, are used when children are in the vehicle
- * children are kept under control.
+* children should get into the vehicle through the door nearest the kerb
+* child restraints are properly fitted to manufacturer’s instructions
+* children do not sit behind the rear seats in an estate car or hatchback, unless a special child seat has been fitted
+* the child safety door locks, where fitted, are used when children are in the vehicle
+* children are kept under control.

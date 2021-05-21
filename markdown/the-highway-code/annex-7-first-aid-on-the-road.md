@@ -28,7 +28,7 @@ Remember the letters **D** **R** **A** **B** **C** :
 
 **A - Airway** If there’s no response, open the casualty’s airway by placing your fingers under their chin and lifting it forward.
 
- If the casualty is unconscious and breathing, place them in the recovery position until medical help arrives 
+If the casualty is unconscious and breathing, place them in the recovery position until medical help arrives
 
 **B - Breathing** Check that the casualty is breathing normally. Look for chest movements, look and listen for breathing, and feel for breath on your cheek.
 

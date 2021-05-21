@@ -273,94 +273,101 @@ New section added.
 
 New section added.
 
-  [Print this page](updates.md#) 
+[Print this page](updates.md#)
 ## Is this page useful?
- Maybe * Yes this page is useful
- * No this page is not useful
- Thank you for your feedback Report a problem with this page Close 
+Maybe
+* Yes this page is useful
+* No this page is not useful
+Thank you for your feedback Report a problem with this page Close
 ### Help us improve GOV.UK
 
 Don’t include personal or financial information like your National Insurance number or credit card details.
 
- What were you doing? What went wrong? Send Close 
+What were you doing? What went wrong? Send Close
 ### Help us improve GOV.UK
 
 To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.
 
- Email address Send me the survey 
+Email address Send me the survey
 ## Coronavirus (COVID-19)
- * [Coronavirus (COVID-19): guidance and support](../../coronavirus.md)
+
+* [Coronavirus (COVID-19): guidance and support](../../coronavirus.md)
 
 ## Brexit
- * [Check what you need to do](../../transition.md)
+
+* [Check what you need to do](../../transition.md)
 
 ## Services and information
- * [Benefits](../../browse/benefits.md)
- * [Births, deaths, marriages and care](../../browse/births-deaths-marriages.md)
- * [Business and self-employed](../../browse/business.md)
- * [Childcare and parenting](../../browse/childcare-parenting.md)
- * [Citizenship and living in the UK](../../browse/citizenship.md)
- * [Crime, justice and the law](../../browse/justice.md)
- * [Disabled people](../../browse/disabilities.md)
- * [Driving and transport](../../browse/driving.md)
- * [Education and learning](../../browse/education.md)
- * [Employing people](../../browse/employing-people.md)
- * [Environment and countryside](../../browse/environment-countryside.md)
- * [Housing and local services](../../browse/housing-local-services.md)
- * [Money and tax](../../browse/tax.md)
- * [Passports, travel and living abroad](../../browse/abroad.md)
- * [Visas and immigration](../../browse/visas-immigration.md)
- * [Working, jobs and pensions](../../browse/working.md)
+
+* [Benefits](../../browse/benefits.md)
+* [Births, deaths, marriages and care](../../browse/births-deaths-marriages.md)
+* [Business and self-employed](../../browse/business.md)
+* [Childcare and parenting](../../browse/childcare-parenting.md)
+* [Citizenship and living in the UK](../../browse/citizenship.md)
+* [Crime, justice and the law](../../browse/justice.md)
+* [Disabled people](../../browse/disabilities.md)
+* [Driving and transport](../../browse/driving.md)
+
+* [Education and learning](../../browse/education.md)
+* [Employing people](../../browse/employing-people.md)
+* [Environment and countryside](../../browse/environment-countryside.md)
+* [Housing and local services](../../browse/housing-local-services.md)
+* [Money and tax](../../browse/tax.md)
+* [Passports, travel and living abroad](../../browse/abroad.md)
+* [Visas and immigration](../../browse/visas-immigration.md)
+* [Working, jobs and pensions](../../browse/working.md)
 
 ## Departments and policy
- * [How government works](../../government/how-government-works.md)
- * [Departments](../../government/organisations.md)
- * [Worldwide](https://www.gov.uk/world)
- * [Services](https://www.gov.uk/search/services)
- * [Guidance and regulation](https://www.gov.uk/search/guidance-and-regulation)
- * [News and communications](https://www.gov.uk/search/news-and-communications)
- * [Research and statistics](https://www.gov.uk/search/research-and-statistics)
- * [Policy papers and consultations](https://www.gov.uk/search/policy-papers-and-consultations)
- * [Transparency and freedom of information releases](https://www.gov.uk/search/transparency-and-freedom-of-information-releases)
+
+* [How government works](../../government/how-government-works.md)
+* [Departments](../../government/organisations.md)
+* [Worldwide](https://www.gov.uk/world)
+* [Services](https://www.gov.uk/search/services)
+* [Guidance and regulation](https://www.gov.uk/search/guidance-and-regulation)
+* [News and communications](https://www.gov.uk/search/news-and-communications)
+* [Research and statistics](https://www.gov.uk/search/research-and-statistics)
+* [Policy papers and consultations](https://www.gov.uk/search/policy-papers-and-consultations)
+* [Transparency and freedom of information releases](https://www.gov.uk/search/transparency-and-freedom-of-information-releases)
 
 ## Support links
- * [Help](https://www.gov.uk/help)
- * [Privacy](https://www.gov.uk/help/privacy-notice)
- * [Cookies](../../help/cookies.md)
- * [Contact](https://www.gov.uk/contact)
- * [Accessibility statement](https://www.gov.uk/help/accessibility-statement)
- * [Terms and conditions](https://www.gov.uk/help/terms-conditions)
- * [Rhestr o Wasanaethau Cymraeg](https://www.gov.uk/cymraeg)
- * Built by the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
+
+* [Help](https://www.gov.uk/help)
+* [Privacy](https://www.gov.uk/help/privacy-notice)
+* [Cookies](../../help/cookies.md)
+* [Contact](https://www.gov.uk/contact)
+* [Accessibility statement](https://www.gov.uk/help/accessibility-statement)
+* [Terms and conditions](https://www.gov.uk/help/terms-conditions)
+* [Rhestr o Wasanaethau Cymraeg](https://www.gov.uk/cymraeg)
+* Built by the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
 
 [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 All content is available under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) , except where otherwise stated
 
- [© Crown copyright](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/)  if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');  {
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "item": {
-        "name": "Home",
-        "@id": "https://www.gov.uk/"
-      }
-    }
-  ]
+[© Crown copyright](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/)  if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');  {
+"@context": "http://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"name": "Home",
+"@id": "https://www.gov.uk/"
+}
+}
+]
 } {
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "item": {
-        "name": "Contents",
-        "@id": "https://www.gov.uk/guidance/the-highway-code"
-      }
-    }
-  ]
+"@context": "http://schema.org",
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"name": "Contents",
+"@id": "https://www.gov.uk/guidance/the-highway-code"
+}
+}
+]
 }

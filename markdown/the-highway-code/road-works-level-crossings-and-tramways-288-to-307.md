@@ -9,15 +9,15 @@ Rules for road works (including on high-speed roads), level crossings and tramwa
 
 When the ‘Road Works Ahead’ sign is displayed, you will need to be more watchful and look for additional signs providing more specific instructions. Observe all signs - they are there for your safety and the safety of road workers.
 
- * You **MUST NOT** exceed any temporary maximum speed limit.
- * Use your mirrors and get into the correct lane for your vehicle in good time and as signs direct.
- * Do not switch lanes to overtake queuing traffic.
- * Take extra care near cyclists and motorcyclists as they are vulnerable to skidding on grit, mud or other debris at road works.
- * Where lanes are restricted due to road works, merge in turn (see [Rule 134](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule134) ).
- * Do not drive through an area marked off by traffic cones.
- * Watch out for traffic entering or leaving the works area, but do not be distracted by what is going on there. Concentrate on the road ahead, not the road works.
- * Bear in mind that the road ahead may be obstructed by the works or by slow moving or stationary traffic.
- * Keep a safe distance - there could be queues in front.
+* You **MUST NOT** exceed any temporary maximum speed limit.
+* Use your mirrors and get into the correct lane for your vehicle in good time and as signs direct.
+* Do not switch lanes to overtake queuing traffic.
+* Take extra care near cyclists and motorcyclists as they are vulnerable to skidding on grit, mud or other debris at road works.
+* Where lanes are restricted due to road works, merge in turn (see [Rule 134](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule134) ).
+* Do not drive through an area marked off by traffic cones.
+* Watch out for traffic entering or leaving the works area, but do not be distracted by what is going on there. Concentrate on the road ahead, not the road works.
+* Bear in mind that the road ahead may be obstructed by the works or by slow moving or stationary traffic.
+* Keep a safe distance - there could be queues in front.
 
 **Law [RTRA sect 16](http://www.legislation.gov.uk/ukpga/1984/27/section/16)**
 
@@ -27,10 +27,10 @@ When the ‘Road Works Ahead’ sign is displayed, you will need to be more watc
 
 Take special care on motorways and other high-speed dual carriageways.
 
- * One or more lanes may be closed to traffic and a lower speed limit may apply.
- * Works vehicles that are slow moving or stationary with a large ‘Keep Left’ or ‘Keep Right’ sign on the back are sometimes used to close lanes for repairs, and a flashing light arrow may also be used to make the works vehicle more conspicuous from a distance and give earlier warning to drivers that they need to move over to the next lane.
- * Check mirrors, slow down and change lanes if necessary.
- * Keep a safe distance from the vehicle in front (see [Rule 126](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule126) ).
+* One or more lanes may be closed to traffic and a lower speed limit may apply.
+* Works vehicles that are slow moving or stationary with a large ‘Keep Left’ or ‘Keep Right’ sign on the back are sometimes used to close lanes for repairs, and a flashing light arrow may also be used to make the works vehicle more conspicuous from a distance and give earlier warning to drivers that they need to move over to the next lane.
+* Check mirrors, slow down and change lanes if necessary.
+* Keep a safe distance from the vehicle in front (see [Rule 126](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule126) ).
 
 ### Rule 290
 
@@ -52,18 +52,18 @@ A level crossing is where a road crosses a railway or tramway line. Approach and
 
 **Controlled Crossings.** Most crossings have traffic light signals with a steady amber light, twin flashing red stop lights (see [‘Light signals controlling traffic’](light-signals-controlling-traffic.md) and [‘Traffic signs’](traffic-signs.md) ) and an audible alarm for pedestrians. They may have full, half or no barriers.
 
- * You **MUST** always obey the flashing red stop lights.
- * You **MUST** stop behind the white line across the road.
- * Keep going if you have already crossed the white line when the amber light comes on.
- * Do not reverse onto or over a controlled crossing.
- * You **MUST** wait if a train goes by and the red lights continue to flash. This means another train will be passing soon.
- * Only cross when the lights go off and barriers open.
- * Never zig-zag around half-barriers, they lower automatically because a train is approaching.
- * At crossings where there are no barriers, a train is approaching when the lights show.
+* You **MUST** always obey the flashing red stop lights.
+* You **MUST** stop behind the white line across the road.
+* Keep going if you have already crossed the white line when the amber light comes on.
+* Do not reverse onto or over a controlled crossing.
+* You **MUST** wait if a train goes by and the red lights continue to flash. This means another train will be passing soon.
+* Only cross when the lights go off and barriers open.
+* Never zig-zag around half-barriers, they lower automatically because a train is approaching.
+* At crossings where there are no barriers, a train is approaching when the lights show.
 
 **Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [40](http://www.legislation.gov.uk/uksi/2002/3113/regulation/40/made)**
 
- Rule 293: Stop when the traffic lights show 
+Rule 293: Stop when the traffic lights show
 ### Rule 294
 
 **Railway telephones.** If you are driving a large or slow- moving vehicle, a long, low vehicle with a risk of grounding, or herding animals, a train could arrive before you are clear of the crossing. You **MUST** obey any sign instructing you to use the railway telephone to obtain permission to cross. You **MUST** also telephone when clear of the crossing if requested to do so.
@@ -78,9 +78,9 @@ A level crossing is where a road crosses a railway or tramway line. Approach and
 
 **User-operated gates or barriers.** Some crossings have ‘Stop’ signs and small red and green lights. You **MUST NOT** cross when the red light is showing, only cross if the green light is on. If crossing with a vehicle, you should
 
- * open the gates or barriers on both sides of the crossing
- * check that the green light is still on and cross quickly
- * close the gates or barriers when you are clear of the crossing.
+* open the gates or barriers on both sides of the crossing
+* check that the green light is still on and cross quickly
+* close the gates or barriers when you are clear of the crossing.
 
 **Laws [RTA 1988 sect 36](http://www.legislation.gov.uk/ukpga/1988/52/section/36) & [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) & [52(2)](http://www.legislation.gov.uk/uksi/2002/3113/regulation/52/made)**
 
@@ -96,9 +96,9 @@ If there are no lights, follow the procedure in [Rule 296](road-works-level-cros
 
 **Incidents and breakdowns.** If your vehicle breaks down, or if you have an incident on a crossing you should
 
- * get everyone out of the vehicle and clear of the crossing immediately
- * use a railway telephone if available to tell the signal operator. Follow the instructions you are given
- * move the vehicle clear of the crossing if there is time before a train arrives. If the alarm sounds, or the amber light comes on, leave the vehicle and get clear of the crossing immediately.
+* get everyone out of the vehicle and clear of the crossing immediately
+* use a railway telephone if available to tell the signal operator. Follow the instructions you are given
+* move the vehicle clear of the crossing if there is time before a train arrives. If the alarm sounds, or the amber light comes on, leave the vehicle and get clear of the crossing immediately.
 
 ## Tramways (rules 300 to 307)
 

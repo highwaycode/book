@@ -27,11 +27,11 @@ Horse-drawn vehicles used on the highway should be operated and maintained in ac
 
 **Other clothing.** You should wear
 
- * boots or shoes with hard soles and heels
- * light-coloured or fluorescent clothing in daylight
- * reflective clothing if you have to ride at night or in poor visibility.
+* boots or shoes with hard soles and heels
+* light-coloured or fluorescent clothing in daylight
+* reflective clothing if you have to ride at night or in poor visibility.
 
- Rule 50: Help yourself to be seen 
+Rule 50: Help yourself to be seen
 ### Rule 51
 
 **At night.** It is safer not to ride on the road at night or in poor visibility, but if you do, make sure you wear reflective clothing and your horse has reflective bands above the fetlock joints. A light which shows white to the front and red to the rear should be fitted, with a band, to the rider’s right arm and/or leg/riding boot. If you are leading a horse at night, carry a light in your right hand, showing white to the front and red to the rear, and wear reflective clothing on both you and your horse. It is strongly recommended that a fluorescent/reflective tail guard is also worn by your horse.
@@ -42,8 +42,8 @@ Horse-drawn vehicles used on the highway should be operated and maintained in ac
 
 Before you take a horse on to a road, you should
 
- * ensure all tack fits well and is in good condition
- * make sure you can control the horse.
+* ensure all tack fits well and is in good condition
+* make sure you can control the horse.
 
 Always ride with other, less nervous horses if you think that your horse will be nervous of traffic. Never ride a horse without both a saddle and bridle.
 
@@ -53,14 +53,14 @@ Before riding off or turning, look behind you to make sure it is safe, then give
 
 When riding on the road you should
 
- * keep to the left
- * keep both hands on the reins unless you are signalling
- * keep both feet in the stirrups
- * not carry another person
- * not carry anything which might affect your balance or get tangled up with the reins
- * keep a horse you are leading to your left
- * move in the direction of the traffic flow in a one-way street
- * never ride more than two abreast, and ride in single file on narrow or busy roads and when riding round bends.
+* keep to the left
+* keep both hands on the reins unless you are signalling
+* keep both feet in the stirrups
+* not carry another person
+* not carry anything which might affect your balance or get tangled up with the reins
+* keep a horse you are leading to your left
+* move in the direction of the traffic flow in a one-way street
+* never ride more than two abreast, and ride in single file on narrow or busy roads and when riding round bends.
 
 ### Rule 54
 
@@ -72,9 +72,9 @@ You **MUST NOT** take a horse onto a footpath or pavement, and you should not ta
 
 Avoid roundabouts wherever possible. If you use them you should
 
- * keep to the left and watch out for vehicles crossing your path to leave or join the roundabout
- * signal right when riding across exits to show you are not leaving
- * signal left just before you leave the roundabout.
+* keep to the left and watch out for vehicles crossing your path to leave or join the roundabout
+* signal right when riding across exits to show you are not leaving
+* signal left just before you leave the roundabout.
 
 ## Other animals (rules 56 to 58)
 

@@ -47,11 +47,11 @@ Signals situated on the central reservation apply to all lanes. On very busy str
 
 **Joining the motorway.** When you join the motorway you will normally approach it from a road on the left (a slip road) or from an adjoining motorway. You should
 
- * give priority to traffic already on the motorway
- * check the traffic on the motorway and match your speed to fit safely into the traffic flow in the left-hand lane
- * not cross solid white lines that separate lanes or use the hard shoulder
- * stay on the slip road if it continues as an extra lane on the motorway
- * remain in the left-hand lane long enough to adjust to the speed of traffic before considering overtaking.
+* give priority to traffic already on the motorway
+* check the traffic on the motorway and match your speed to fit safely into the traffic flow in the left-hand lane
+* not cross solid white lines that separate lanes or use the hard shoulder
+* stay on the slip road if it continues as an extra lane on the motorway
+* remain in the left-hand lane long enough to adjust to the speed of traffic before considering overtaking.
 
 ## On the motorway (rules 260 to 263)
 
@@ -59,8 +59,8 @@ Signals situated on the central reservation apply to all lanes. On very busy str
 
 When you can see well ahead and the road conditions are good, you should
 
- * drive at a steady cruising speed which you and your vehicle can handle safely and is within the speed limit (see the [Speed limits table](https://www.gov.uk/speed-limits) )
- * keep a safe distance from the vehicle in front and increase the gap on wet or icy roads, or in fog (see Rules [126](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule126) and [235](driving-in-adverse-weather-conditions-226-to-237.md#rule235) ).
+* drive at a steady cruising speed which you and your vehicle can handle safely and is within the speed limit (see the [Speed limits table](https://www.gov.uk/speed-limits) )
+* keep a safe distance from the vehicle in front and increase the gap on wet or icy roads, or in fog (see Rules [126](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule126) and [235](driving-in-adverse-weather-conditions-226-to-237.md#rule235) ).
 
 ### Rule 261
 
@@ -90,11 +90,11 @@ You should always drive in the left-hand lane when the road ahead is clear. If y
 
 The right-hand lane of a motorway with three or more lanes **MUST NOT** be used (except in prescribed circumstances) if you are driving
 
- * any vehicle drawing a trailer
- * a goods vehicle with a maximum laden weight exceeding 3.5 tonnes but not exceeding 7.5 tonnes, which is required to be fitted with a speed limiter
- * a goods vehicle with a maximum laden weight exceeding 7.5 tonnes
- * a passenger vehicle with a maximum laden weight exceeding 7.5 tonnes constructed or adapted to carry more than eight seated passengers in addition to the driver
- * a passenger vehicle with a maximum laden weight not exceeding 7.5 tonnes which is constructed or adapted to carry more than eight seated passengers in addition to the driver, which is required to be fitted with a speed limiter.
+* any vehicle drawing a trailer
+* a goods vehicle with a maximum laden weight exceeding 3.5 tonnes but not exceeding 7.5 tonnes, which is required to be fitted with a speed limiter
+* a goods vehicle with a maximum laden weight exceeding 7.5 tonnes
+* a passenger vehicle with a maximum laden weight exceeding 7.5 tonnes constructed or adapted to carry more than eight seated passengers in addition to the driver
+* a passenger vehicle with a maximum laden weight not exceeding 7.5 tonnes which is constructed or adapted to carry more than eight seated passengers in addition to the driver, which is required to be fitted with a speed limiter.
 
 **Laws [MT(E&W)R reg 12](http://www.legislation.gov.uk/uksi/1982/1163/contents/made) , [MT(E&W)(A)R](http://www.legislation.gov.uk/uksi/2004/3258/pdfs/uksi_20043258_en.pdf) , [MT(S)R reg 11](http://www.legislation.gov.uk/uksi/1995/2507/regulation/11/made) & [MT(S)(A)R](http://www.legislation.gov.uk/ssi/2004/53/contents/made)**
 
@@ -108,13 +108,13 @@ The right-hand lane of a motorway with three or more lanes **MUST NOT** be used 
 
 Do not overtake unless you are sure it is safe and legal to do so. Overtake only on the right. You should
 
- * check your mirrors
- * take time to judge the speeds correctly
- * make sure that the lane you will be joining is sufficiently clear ahead and behind
- * take a quick sideways glance into the blind spot area to verify the position of a vehicle that may have disappeared from your view in the mirror
- * remember that traffic may be coming up behind you very quickly. Check all your mirrors carefully. Look out for motorcyclists. When it is safe to do so, signal in plenty of time, then move out
- * ensure you do not cut in on the vehicle you have overtaken
- * be especially careful at night and in poor visibility when it is harder to judge speed and distance.
+* check your mirrors
+* take time to judge the speeds correctly
+* make sure that the lane you will be joining is sufficiently clear ahead and behind
+* take a quick sideways glance into the blind spot area to verify the position of a vehicle that may have disappeared from your view in the mirror
+* remember that traffic may be coming up behind you very quickly. Check all your mirrors carefully. Look out for motorcyclists. When it is safe to do so, signal in plenty of time, then move out
+* ensure you do not cut in on the vehicle you have overtaken
+* be especially careful at night and in poor visibility when it is harder to judge speed and distance.
 
 ### Rule 268
 
@@ -126,7 +126,7 @@ Do not overtake on the left or move to a lane on your left to overtake. In conge
 
 **Laws [MT(E&W)R regs 5, 5A & 9](http://www.legislation.gov.uk/uksi/1982/1163/contents/made) , & [MT(S)R regs 4](http://www.legislation.gov.uk/uksi/1995/2507/regulation/4/made) & [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made)**
 
- Rule 269: Overhead gantry showing red cross over hard shoulder 
+Rule 269: Overhead gantry showing red cross over hard shoulder
 ## Stopping (rules 270 to 271)
 
 ### Rule 270
@@ -147,9 +147,9 @@ You **MUST NOT** pick up or set down anyone, or walk on a motorway, except in an
 
 Unless signs indicate that a lane leads directly off the motorway, you will normally leave the motorway by a slip road on your left. You should
 
- * watch for the signs letting you know you are getting near your exit
- * move into the left-hand lane well before reaching your exit
- * signal left in good time and reduce your speed on the slip road as necessary.
+* watch for the signs letting you know you are getting near your exit
+* move into the left-hand lane well before reaching your exit
+* signal left in good time and reduce your speed on the slip road as necessary.
 
 ### Rule 273
 

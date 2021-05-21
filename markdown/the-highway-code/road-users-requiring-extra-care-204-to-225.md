@@ -19,25 +19,25 @@ There is a risk of pedestrians, especially children, stepping unexpectedly into 
 
 **Drive carefully and slowly** when
 
- * in crowded shopping streets, Home Zones and Quiet Lanes (see [Rule 218](road-users-requiring-extra-care-204-to-225.md#rule218) ) or residential areas
- * driving past bus and tram stops; pedestrians may emerge suddenly into the road
- * passing parked vehicles, especially ice cream vans; children are more interested in ice cream than traffic and may run into the road unexpectedly
- * needing to cross a pavement or cycle track; for example, to reach or leave a driveway. Give way to pedestrians and cyclists on the pavement
- * reversing into a side road; look all around the vehicle and give way to any pedestrians who may be crossing the road
- * turning at road junctions; give way to pedestrians who are already crossing the road into which you are turning
- * the pavement is closed due to street repairs and pedestrians are directed to use the road
- * approaching pedestrians on narrow rural roads without a footway or footpath. Always slow down and be prepared to stop if necessary, giving them plenty of room as you drive past.
+* in crowded shopping streets, Home Zones and Quiet Lanes (see [Rule 218](road-users-requiring-extra-care-204-to-225.md#rule218) ) or residential areas
+* driving past bus and tram stops; pedestrians may emerge suddenly into the road
+* passing parked vehicles, especially ice cream vans; children are more interested in ice cream than traffic and may run into the road unexpectedly
+* needing to cross a pavement or cycle track; for example, to reach or leave a driveway. Give way to pedestrians and cyclists on the pavement
+* reversing into a side road; look all around the vehicle and give way to any pedestrians who may be crossing the road
+* turning at road junctions; give way to pedestrians who are already crossing the road into which you are turning
+* the pavement is closed due to street repairs and pedestrians are directed to use the road
+* approaching pedestrians on narrow rural roads without a footway or footpath. Always slow down and be prepared to stop if necessary, giving them plenty of room as you drive past.
 
- Rule 206: Watch out for children in busy areas 
+Rule 206: Watch out for children in busy areas
 ### Rule 207
 
 **Particularly vulnerable pedestrians.** These include:
 
- * children and older pedestrians who may not be able to judge your speed and could step into the road in front of you. At 40 mph (64 km/h) your vehicle will probably kill any pedestrians it hits. At 20 mph (32 km/h) there is only a 1 in 20 chance of the pedestrian being killed. So kill your speed
- * older pedestrians who may need more time to cross the road. Be patient and allow them to cross in their own time. Do not hurry them by revving your engine or edging forward
- * people with disabilities. People with hearing impairments may not be aware of your vehicle approaching. Those with walking difficulties require more time
- * blind or partially sighted people, who may be carrying a white cane using a guide dog. They may not be able to see you approaching
- * deafblind people who may be carrying a white cane with a red band or using a dog with a red and white harness. They may not see or hear instructions or signals.
+* children and older pedestrians who may not be able to judge your speed and could step into the road in front of you. At 40 mph (64 km/h) your vehicle will probably kill any pedestrians it hits. At 20 mph (32 km/h) there is only a 1 in 20 chance of the pedestrian being killed. So kill your speed
+* older pedestrians who may need more time to cross the road. Be patient and allow them to cross in their own time. Do not hurry them by revving your engine or edging forward
+* people with disabilities. People with hearing impairments may not be aware of your vehicle approaching. Those with walking difficulties require more time
+* blind or partially sighted people, who may be carrying a white cane using a guide dog. They may not be able to see you approaching
+* deafblind people who may be carrying a white cane with a red band or using a dog with a red and white harness. They may not see or hear instructions or signals.
 
 ### Rule 208
 
@@ -47,7 +47,7 @@ There is a risk of pedestrians, especially children, stepping unexpectedly into 
 
 Drive carefully and slowly when passing a stationary bus showing a ‘School Bus’ sign as children may be getting on or off.
 
- School bus (displayed in front and rear window of bus or coach) 
+School bus (displayed in front and rear window of bus or coach)
 ### Rule 210
 
 You **MUST** stop when a school crossing patrol shows a ‘Stop for children’ sign (see ‘ [Signals by authorised persons](signals-by-authorised-persons.md) ’ and ‘ [Traffic signs](traffic-signs.md) ’).
@@ -60,7 +60,7 @@ You **MUST** stop when a school crossing patrol shows a ‘Stop for children’ 
 
 It is often difficult to see motorcyclists and cyclists, especially when they are coming up from behind, coming out of junctions, at roundabouts, overtaking you or filtering through traffic. Always look out for them before you emerge from a junction; they could be approaching faster than you think. When turning right across a line of slow-moving or stationary traffic, look out for cyclists or motorcyclists on the inside of the traffic you are crossing. Be especially careful when turning, and when changing direction or lane. Be sure to check mirrors and blind spots carefully.
 
- Rule 211: Look out for motorcyclists and cyclists at junctions 
+Rule 211: Look out for motorcyclists and cyclists at junctions
 ### Rule 212
 
 When passing motorcyclists and cyclists, give them plenty of room (see [Rules 162 to 167](using-the-road-159-to-203.md#rule162) ). If they look over their shoulder it could mean that they intend to pull out, turn right or change direction. Give them time and space to do so.
@@ -107,7 +107,7 @@ Motorcyclists and cyclists may suddenly need to avoid uneven road surfaces and o
 
 **Large vehicles.** These may need extra road space to turn or to deal with a hazard that you are not able to see. If you are following a large vehicle, such as a bus or articulated lorry, be aware that the driver may not be able to see you in the mirrors. Be prepared to stop and wait if it needs room or time to turn.
 
- Rule 221: Large vehicles need extra room 
+Rule 221: Large vehicles need extra room
 ### Rule 222
 
 Large vehicles can block your view. Your ability to see and to plan ahead will be improved if you pull back to increase your separation distance. Be patient, as larger vehicles are subject to lower speed limits than cars and motorcycles. Many large vehicles may be fitted with speed limiting devices which will restrict speed to 56 mph (90 km/h) even on a motorway.

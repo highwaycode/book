@@ -30,8 +30,10 @@ def main():
             root = parser.stack[0]['$children'][0]
             root = handleFrames(root)
             outputContent = json.dumps(root, sort_keys=True, indent=2)
+            print(name)
             markdown = convert_to_markdown(root['article'])
             markdown = re.sub(r"\n( *\n)+", "\n\n", markdown)
+            markdown = re.sub(r" *\n *", "\n", markdown)
             if args.output:
                 subprocess.run(['mkdir', '-p', os.path.join(args.output, *path)])
                 base = os.path.splitext(name)[0]
@@ -47,10 +49,9 @@ def handleFrames(frame, buffer=dict()):
         handleFrames(child, buffer)
     return buffer
 
-def convert_to_markdown(frame):
+def convert_to_markdown(frame, *tags):
     if not isinstance(frame, dict): return frame
-    buffer = " ".join(map(lambda child: convert_to_markdown(child), frame['$children']))
-
+    buffer = " ".join(map(lambda child: convert_to_markdown(child, *tags, frame['$isa']), frame['$children']))
 
     if frame['$isa'] == 'h1':
         return f"\n# {buffer}\n"
@@ -68,7 +69,13 @@ def convert_to_markdown(frame):
             href = re.sub(r'\.html','.md', href)
         return "["+buffer + "](" + href + ")"
     elif frame['$isa'] == 'li':
-        return f"* {buffer}\n"
+        indent = '\t' * (tags.count('ul') + tags.count('ol') - 1)
+        if tags[-1] == 'ol':
+            return f"\n{indent}1. {buffer}"
+        else:
+            return f"\n{indent}* {buffer}"
+    elif frame['$isa'] in {'ul', 'ol'}:
+        return f"{buffer}\n"
 
 
 

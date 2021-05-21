@@ -11,12 +11,12 @@ These rules are in addition to those in the following sections, which apply to a
 
 **Clothing.** You should wear
 
- * a cycle helmet which conforms to current regulations, is the correct size and securely fastened
- * appropriate clothes for cycling. Avoid clothes which may get tangled in the chain, or in a wheel or may obscure your lights
- * light-coloured or fluorescent clothing which helps other road users to see you in daylight and poor light
- * reflective clothing and/or accessories (belt, arm or ankle bands) in the dark.
+* a cycle helmet which conforms to current regulations, is the correct size and securely fastened
+* appropriate clothes for cycling. Avoid clothes which may get tangled in the chain, or in a wheel or may obscure your lights
+* light-coloured or fluorescent clothing which helps other road users to see you in daylight and poor light
+* reflective clothing and/or accessories (belt, arm or ankle bands) in the dark.
 
- Rule 59: Help yourself to be seen 
+Rule 59: Help yourself to be seen
 ### Rule 60
 
 **At night** your cycle **MUST** have white front and red rear lights lit. It **MUST** also be fitted with a red rear reflector (and amber pedal reflectors, if manufactured after 1/10/85). White front reflectors and spoke reflectors will also help you to be seen. Flashing lights are permitted but it is recommended that cyclists who are riding in areas without street lighting use a steady front lamp.
@@ -51,31 +51,31 @@ You **MUST NOT** cycle on a pavement.
 
 You should
 
- * keep both hands on the handlebars except when signalling or changing gear
- * keep both feet on the pedals
- * never ride more than two abreast, and ride in single file on narrow or busy roads and when riding round bends
- * not ride close behind another vehicle
- * not carry anything which will affect your balance or may get tangled up with your wheels or chain
- * be considerate of other road users, particularly blind and partially sighted pedestrians. Let them know you are there when necessary, for example, by ringing your bell if you have one. It is recommended that a bell be fitted.
+* keep both hands on the handlebars except when signalling or changing gear
+* keep both feet on the pedals
+* never ride more than two abreast, and ride in single file on narrow or busy roads and when riding round bends
+* not ride close behind another vehicle
+* not carry anything which will affect your balance or may get tangled up with your wheels or chain
+* be considerate of other road users, particularly blind and partially sighted pedestrians. Let them know you are there when necessary, for example, by ringing your bell if you have one. It is recommended that a bell be fitted.
 
 ### Rule 67
 
 You should
 
- * look all around before moving away from the kerb, turning or manoeuvring, to make sure it is safe to do so. Give a clear signal to show other road users what you intend to do (see ‘ [Signals to other road users](signals-to-other-road-users.md) ’)
- * look well ahead for obstructions in the road, such as drains, pot-holes and parked vehicles so that you do not have to swerve suddenly to avoid them. Leave plenty of room when passing parked vehicles and watch out for doors being opened or pedestrians stepping into your path
- * be aware of traffic coming up behind you
- * take extra care near road humps, narrowings and other traffic calming features
- * take care when overtaking (see [Rules 162 to 169](using-the-road-159-to-203.md#overtaking-162-to-169%23rule162) ).
+* look all around before moving away from the kerb, turning or manoeuvring, to make sure it is safe to do so. Give a clear signal to show other road users what you intend to do (see ‘ [Signals to other road users](signals-to-other-road-users.md) ’)
+* look well ahead for obstructions in the road, such as drains, pot-holes and parked vehicles so that you do not have to swerve suddenly to avoid them. Leave plenty of room when passing parked vehicles and watch out for doors being opened or pedestrians stepping into your path
+* be aware of traffic coming up behind you
+* take extra care near road humps, narrowings and other traffic calming features
+* take care when overtaking (see [Rules 162 to 169](using-the-road-159-to-203.md#overtaking-162-to-169%23rule162) ).
 
 ### Rule 68
 
 You **MUST NOT**
 
- * carry a passenger unless your cycle has been built or adapted to carry one
- * hold onto a moving vehicle or trailer
- * ride in a dangerous, careless or inconsiderate manner
- * ride when under the influence of drink or drugs, including medicine.
+* carry a passenger unless your cycle has been built or adapted to carry one
+* hold onto a moving vehicle or trailer
+* ride in a dangerous, careless or inconsiderate manner
+* ride when under the influence of drink or drugs, including medicine.
 
 **Law [RTA 1988 sects 24](http://www.legislation.gov.uk/ukpga/1988/52/section/24) , [26](http://www.legislation.gov.uk/ukpga/1988/52/section/26) , [28](http://www.legislation.gov.uk/ukpga/1988/52/section/28) , [29](http://www.legislation.gov.uk/ukpga/1988/52/section/29) & [30](http://www.legislation.gov.uk/ukpga/1988/52/section/30) as amended by [RTA 1991](http://www.legislation.gov.uk/ukpga/1991/40/contents)**
 
@@ -89,10 +89,10 @@ You **MUST** obey all traffic signs and traffic light signals.
 
 When parking your cycle
 
- * find a conspicuous location where it can be seen by passers-by
- * use cycle stands or other cycle parking facilities wherever possible
- * do not leave it where it would cause an obstruction or hazard to other road users
- * secure it well so that it will not fall over and become an obstruction or hazard.
+* find a conspicuous location where it can be seen by passers-by
+* use cycle stands or other cycle parking facilities wherever possible
+* do not leave it where it would cause an obstruction or hazard to other road users
+* secure it well so that it will not fall over and become an obstruction or hazard.
 
 ### Rule 71
 
@@ -128,9 +128,9 @@ Full details about the correct procedure at roundabouts are contained in [Rules 
 
 You may feel safer walking your cycle round on the pavement or verge. If you decide to ride round keeping to the left-hand lane you should
 
- * be aware that drivers may not easily see you
- * take extra care when cycling across exits. You may need to signal right to show you are not leaving the roundabout
- * watch out for vehicles crossing your path to leave or join the roundabout.
+* be aware that drivers may not easily see you
+* take extra care when cycling across exits. You may need to signal right to show you are not leaving the roundabout
+* watch out for vehicles crossing your path to leave or join the roundabout.
 
 ### Rule 78
 

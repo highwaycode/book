@@ -53,8 +53,8 @@ You **MUST** follow the same rules about using lights, indicators and horns as f
 
 Take extra care at road junctions. When going straight ahead, check to make sure there are no vehicles about to cross your path from the left, the right, or overtaking you and turning left. There are several options for dealing with right turns, especially turning from a major road. If moving into the middle of the road is difficult or dangerous, you can
 
- * stop on the left-hand side of the road and wait for a safe gap in the traffic
- * negotiate the turn as a pedestrian, i.e. travel along the pavement and cross the road between pavements where it is safe to do so. Class 3 users should switch the vehicle to the lower speed limit when on pavements.
+* stop on the left-hand side of the road and wait for a safe gap in the traffic
+* negotiate the turn as a pedestrian, i.e. travel along the pavement and cross the road between pavements where it is safe to do so. Class 3 users should switch the vehicle to the lower speed limit when on pavements.
 
 If the junction is too hazardous, it may be worth considering an alternative route. Similarly, when negotiating major roundabouts (i.e. with two or more lanes) it may be safer for you to use the pavement or find a route which avoids the roundabout altogether.
 

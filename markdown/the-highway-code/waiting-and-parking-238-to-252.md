@@ -17,15 +17,15 @@ You **MUST NOT** wait or park on yellow lines during the times of operation show
 
 Use off-street parking areas, or bays marked out with white lines on the road as parking places, wherever possible. If you have to stop on the roadside:
 
- * do not park facing against the traffic flow
- * stop as close as you can to the side
- * do not stop too close to a vehicle displaying a Blue Badge: remember, the occupant may need more room to get in or out
- * you **MUST** switch off the engine, headlights and fog lights
- * you **MUST** apply the handbrake before leaving the vehicle
- * you **MUST** ensure you do not hit anyone when you open your door. Check for cyclists or other traffic
- * it is safer for your passengers (especially children) to get out of the vehicle on the side next to the kerb
- * put all valuables out of sight and make sure your vehicle is secure
- * lock your vehicle.
+* do not park facing against the traffic flow
+* stop as close as you can to the side
+* do not stop too close to a vehicle displaying a Blue Badge: remember, the occupant may need more room to get in or out
+* you **MUST** switch off the engine, headlights and fog lights
+* you **MUST** apply the handbrake before leaving the vehicle
+* you **MUST** ensure you do not hit anyone when you open your door. Check for cyclists or other traffic
+* it is safer for your passengers (especially children) to get out of the vehicle on the side next to the kerb
+* put all valuables out of sight and make sure your vehicle is secure
+* lock your vehicle.
 
 Before using a hand-held device to help you to park, you **MUST** make sure it is safe to do so. Then, you should move the vehicle into the parking space in the safest way, and by the shortest route possible.
 
@@ -33,20 +33,20 @@ When you use a hand-held device to help you to park, you **MUST** remain in cont
 
 **Laws [CUR regs 98](http://www.legislation.gov.uk/uksi/1986/1078/regulation/98/made) , [105](http://www.legislation.gov.uk/uksi/1986/1078/regulation/105/made) , [107](http://www.legislation.gov.uk/uksi/1986/1078/regulation/107/made) & [110](http://www.legislation.gov.uk/uksi/2018/592/regulation/2/made#f00003) , [RVLR reg 27](http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made) & [RTA 1988 sect 42](http://www.legislation.gov.uk/ukpga/1988/52/section/42)**
 
- Rule 239: Check before opening your door 
+Rule 239: Check before opening your door
 ### Rule 240
 
 You **MUST NOT** stop or park on:
 
- * the carriageway or the hard shoulder of a motorway except in an emergency (see [Rule 270](motorways-253-to-273.md#rule270) )
- * a pedestrian crossing, including the area marked by the zig-zag lines (see [Rule 191](using-the-road-159-to-203.md#rule191) )
- * a clearway (see [‘Traffic signs’](traffic-signs.md) )
- * taxi bays as indicated by upright signs and markings
- * an Urban Clearway within its hours of operation, except to pick up or set down passengers (see [‘Traffic signs’](traffic-signs.md) )
- * a road marked with double white lines, even when a broken white line is on your side of the road, except to pick up or set down passengers, or to load or unload goods
- * a tram or cycle lane during its period of operation
- * a cycle track
- * red lines, in the case of specially designated ‘red routes’, unless otherwise indicated by signs. Any vehicle may enter a bus lane to stop, load or unload where this is not prohibited (see [Rule 141](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule141) ).
+* the carriageway or the hard shoulder of a motorway except in an emergency (see [Rule 270](motorways-253-to-273.md#rule270) )
+* a pedestrian crossing, including the area marked by the zig-zag lines (see [Rule 191](using-the-road-159-to-203.md#rule191) )
+* a clearway (see [‘Traffic signs’](traffic-signs.md) )
+* taxi bays as indicated by upright signs and markings
+* an Urban Clearway within its hours of operation, except to pick up or set down passengers (see [‘Traffic signs’](traffic-signs.md) )
+* a road marked with double white lines, even when a broken white line is on your side of the road, except to pick up or set down passengers, or to load or unload goods
+* a tram or cycle lane during its period of operation
+* a cycle track
+* red lines, in the case of specially designated ‘red routes’, unless otherwise indicated by signs. Any vehicle may enter a bus lane to stop, load or unload where this is not prohibited (see [Rule 141](general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule141) ).
 
 **Laws [MT(E&W)R regs 7 & 9](http://www.legislation.gov.uk/uksi/1982/1163/contents/made) , [MT(S)R regs 6](http://www.legislation.gov.uk/uksi/1995/2507/regulation/6/made) & [8](http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made) , [ZPPPCRGD regs 18](http://www.legislation.gov.uk/uksi/1997/2400/regulation/18/made) & [20](http://www.legislation.gov.uk/uksi/1997/2400/regulation/20/made) , [RTRA sects 5](http://www.legislation.gov.uk/ukpga/1984/27/section/5) , [6](http://www.legislation.gov.uk/ukpga/1984/27/section/6) & [8](http://www.legislation.gov.uk/ukpga/1984/27/section/8) , [TSRGD regs 10](http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made) , [26 & 27](http://www.legislation.gov.uk/uksi/2002/3113/part/I/crossheading/road-markings/made) , [RTA 1988 sects 21(1)](http://www.legislation.gov.uk/ukpga/1988/52/section/21) & [36](http://www.legislation.gov.uk/ukpga/1988/52/section/36)**
 
@@ -66,18 +66,18 @@ You **MUST NOT** leave your vehicle or trailer in a dangerous position or where 
 
 **DO NOT** stop or park:
 
- * near a school entrance
- * anywhere you would prevent access for Emergency Services
- * at or near a bus or tram stop or taxi rank
- * on the approach to a level crossing/tramway crossing
- * opposite or within 10 metres (32 feet) of a junction, except in an authorised parking space
- * near the brow of a hill or hump bridge
- * opposite a traffic island or (if this would cause an obstruction) another parked vehicle
- * where you would force other traffic to enter a tram lane
- * where the kerb has been lowered to help wheelchair users and powered mobility vehicles
- * in front of an entrance to a property
- * on a bend
- * where you would obstruct cyclists’ use of cycle facilities
+* near a school entrance
+* anywhere you would prevent access for Emergency Services
+* at or near a bus or tram stop or taxi rank
+* on the approach to a level crossing/tramway crossing
+* opposite or within 10 metres (32 feet) of a junction, except in an authorised parking space
+* near the brow of a hill or hump bridge
+* opposite a traffic island or (if this would cause an obstruction) another parked vehicle
+* where you would force other traffic to enter a tram lane
+* where the kerb has been lowered to help wheelchair users and powered mobility vehicles
+* in front of an entrance to a property
+* on a bend
+* where you would obstruct cyclists’ use of cycle facilities
 
 **except** when forced to do so by stationary traffic.
 
@@ -121,8 +121,8 @@ All vehicles **MUST** display parking lights when parked on a road or a lay-by o
 
 Cars, goods vehicles not exceeding 2500 kg laden weight, invalid carriages, motorcycles and pedal cycles may be parked without lights on a road (or lay-by) with a speed limit of 30 mph (48 km/h) or less if they are:
 
- * at least 10 metres (32 feet) away from any junction, close to the kerb and facing in the direction of the traffic flow
- * in a recognised parking place or lay-by.
+* at least 10 metres (32 feet) away from any junction, close to the kerb and facing in the direction of the traffic flow
+* in a recognised parking place or lay-by.
 
 Other vehicles and trailers, and all vehicles with projecting loads, **MUST NOT** be left on a road at night without lights.
 
@@ -136,16 +136,16 @@ Other vehicles and trailers, and all vehicles with projecting loads, **MUST NOT*
 
 **Parking on hills.** If you park on a hill you should:
 
- * park close to the kerb and apply the handbrake firmly
- * select a forward gear and turn your steering wheel away from the kerb when facing uphill
- * select reverse gear and turn your steering wheel towards the kerb when facing downhill
- * use ‘park’ if your car has an automatic gearbox.
+* park close to the kerb and apply the handbrake firmly
+* select a forward gear and turn your steering wheel away from the kerb when facing uphill
+* select reverse gear and turn your steering wheel towards the kerb when facing downhill
+* use ‘park’ if your car has an automatic gearbox.
 
- Rule 252: Turn your wheels away from the kerb when parking facing uphill. Turn them towards the kerb when parking facing downhill 
+Rule 252: Turn your wheels away from the kerb when parking facing uphill. Turn them towards the kerb when parking facing downhill
 ## Decriminalised Parking Enforcement (DPE)
 
 DPE is becoming increasingly common as more authorities take on this role. The local traffic authority assumes responsibility for enforcing many parking contraventions in place of the police. Further details on DPE may be found at the following websites:
 
 [Traffic Penalty Tribunal](http://www.trafficpenaltytribunal.gov.uk) (outside London) [London Tribunals](http://www.londontribunals.gov.uk) (inside London)
 
- [Print this page](waiting-and-parking-238-to-252.md#)
+[Print this page](waiting-and-parking-238-to-252.md#)

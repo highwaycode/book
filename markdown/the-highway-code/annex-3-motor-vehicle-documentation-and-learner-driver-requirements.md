@@ -13,8 +13,8 @@ Holders of non-European Community licences who are now resident in the UK may on
 
 To ensure continuous driving entitlement
 
- * a British provisional licence should be obtained and a driving test(s) passed before the 12-month period elapses, or
- * in the case of a driver who holds a licence from a country which has been designated in law for licence exchange purposes, the driver should exchange the licence for a British one.
+* a British provisional licence should be obtained and a driving test(s) passed before the 12-month period elapses, or
+* in the case of a driver who holds a licence from a country which has been designated in law for licence exchange purposes, the driver should exchange the licence for a British one.
 
 **MOT.** Cars and motorcycles **MUST** normally pass an MOT test three years from the date of the first registration and every year after that. You **MUST NOT** drive a motor vehicle without an MOT certificate when it should have one. Exceptionally, you may drive to a pre-arranged test appointment or to a garage for repairs required for the test. Driving an unroadworthy motor vehicle may invalidate your insurance.
 

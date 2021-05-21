@@ -7,20 +7,20 @@ Information and rules about vehicle maintenance, safety and security.
 
 Take special care that lights, brakes, steering, exhaust system, seat belts, demisters, wipers and washers are all working. Also
 
- * lights, indicators, reflectors, and number plates **MUST** be kept clean and clear
- * windscreens and windows **MUST** be kept clean and free from obstructions to vision
- * lights **MUST** be properly adjusted to prevent dazzling other road users.
- * Extra attention needs to be paid to this if the vehicle is heavily loaded
- * exhaust emissions **MUST NOT** exceed prescribed levels
- * ensure your seat, seat belt, head restraint and mirrors are adjusted correctly before you drive
- * ensure that items of luggage are securely stowed.
+* lights, indicators, reflectors, and number plates **MUST** be kept clean and clear
+* windscreens and windows **MUST** be kept clean and free from obstructions to vision
+* lights **MUST** be properly adjusted to prevent dazzling other road users.
+* Extra attention needs to be paid to this if the vehicle is heavily loaded
+* exhaust emissions **MUST NOT** exceed prescribed levels
+* ensure your seat, seat belt, head restraint and mirrors are adjusted correctly before you drive
+* ensure that items of luggage are securely stowed.
 
 **Laws [RVLR 1989 regs 23](http://www.legislation.gov.uk/uksi/1989/1796/regulation/23/made) & [27](http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made) , & [CUR regs 30](http://www.legislation.gov.uk/uksi/1986/1078/regulation/30/made) & [61](http://www.legislation.gov.uk/uksi/1986/1078/regulation/61/made)**
 
 **Warning displays.** Make sure that you understand the meaning of all warning displays on the vehicle instrument panel. Do not ignore warning signs, they could indicate a dangerous fault developing.
 
- * When you turn the ignition key, warning lights will be illuminated but will go out when the engine starts (except the handbrake warning light). If they do not, or if they come on while you are driving, stop and investigate the problem, as you could have a serious fault.
- * If the charge warning light comes on while you are driving, it may mean that the battery isn’t charging. This should also be checked as soon as possible to avoid loss of power to lights and other electrical systems.
+* When you turn the ignition key, warning lights will be illuminated but will go out when the engine starts (except the handbrake warning light). If they do not, or if they come on while you are driving, stop and investigate the problem, as you could have a serious fault.
+* If the charge warning light comes on while you are driving, it may mean that the battery isn’t charging. This should also be checked as soon as possible to avoid loss of power to lights and other electrical systems.
 
 **Window tints.** You **MUST NOT** use a vehicle with excessively dark tinting applied to the windscreen, or to the glass in any front window to either side of the driver. Window tinting applied during manufacture complies with the Visual Light Transmittance ( VLT ) standards. There are no VLT limits for rear windscreens or rear passenger windows.
 
@@ -38,8 +38,8 @@ Be aware that some vehicle defects can attract penalty points.
 
 **Tyre age.** Tyres over 10 years old **MUST NOT** be used on the front axles of:
 
- * goods vehicles with a maximum gross weight of more than 3.5 tonnes
- * passenger vehicles with more than 8 passenger seats
+* goods vehicles with a maximum gross weight of more than 3.5 tonnes
+* passenger vehicles with more than 8 passenger seats
 
 Additionally, they **MUST NOT** be used on the rear axles of passenger vehicles with 9 to 16 passenger seats, unless equipped with twin wheels.
 
@@ -63,9 +63,9 @@ Your brakes and steering will be adversely affected by under-inflated or over-in
 
 **Other problems.** If your vehicle
 
- * pulls to one side when braking, it is most likely to be a brake fault or incorrectly inflated tyres. Consult a garage or mechanic immediately
- * continues to bounce after pushing down on the front or rear, its shock absorbers are worn. Worn shock absorbers can seriously affect the operation of a vehicle and should be replaced
- * smells of anything unusual such as burning rubber, petrol or an electrical fault; investigate immediately. Do not risk a fire.
+* pulls to one side when braking, it is most likely to be a brake fault or incorrectly inflated tyres. Consult a garage or mechanic immediately
+* continues to bounce after pushing down on the front or rear, its shock absorbers are worn. Worn shock absorbers can seriously affect the operation of a vehicle and should be replaced
+* smells of anything unusual such as burning rubber, petrol or an electrical fault; investigate immediately. Do not risk a fire.
 
 **Overheated engines or fire.** Most engines are water-cooled. If your engine overheats you should wait until it has cooled naturally. Only then remove the coolant filler cap and add water or other coolant.
 
@@ -73,10 +73,10 @@ If your vehicle catches fire, get the occupants out of the vehicle quickly and t
 
 **Petrol stations/fuel tank/fuel leaks.** Ensure that, when filling up your vehicle’s tank or any fuel cans you are carrying, you do not spill fuel on the forecourt. Any spilled fuel should be immediately reported to the petrol station attendant. Diesel spillage is dangerous to other road users, particularly motorcyclists, as it will significantly reduce the level of grip between the tyres and road surface. Double-check for fuel leaks and make sure that
 
- * you do not overfill your fuel tank
- * the fuel cap is fastened securely
- * the seal in the cap is not torn, perished or missing
- * there is no visual damage to the cap or the fuel tank
+* you do not overfill your fuel tank
+* the fuel cap is fastened securely
+* the seal in the cap is not torn, perished or missing
+* there is no visual damage to the cap or the fuel tank
 
 Emergency fuel caps, if fitted, should form a good seal.
 
@@ -86,12 +86,12 @@ Never smoke, or use a mobile phone, on the forecourt of petrol stations as these
 
 **When you leave your vehicle** you should
 
- * remove the ignition key and engage the steering lock
- * lock the car, even if you only leave it for a few minutes
- * close the windows completely
- * never leave children or pets in an unventilated car
- * take all contents with you, or lock them in the boot. Remember, for all a thief knows a carrier bag may contain valuables
- * never leave vehicle documents in the car.
+* remove the ignition key and engage the steering lock
+* lock the car, even if you only leave it for a few minutes
+* close the windows completely
+* never leave children or pets in an unventilated car
+* take all contents with you, or lock them in the boot. Remember, for all a thief knows a carrier bag may contain valuables
+* never leave vehicle documents in the car.
 
 **For extra security** fit an anti-theft device such as an alarm or immobiliser. If you are buying a new car it is a good idea to check the level of built-in security features. Consider having your registration number etched on all your car windows. This is a cheap and effective deterrent to professional thieves.
 
