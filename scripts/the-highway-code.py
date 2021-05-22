@@ -18,7 +18,7 @@ def main():
     parser.add_argument('--output')
     args = parser.parse_args()
 
-    parser = MyHTMLParser()
+    parser = MyHTMLParser(convert_charrefs=False)
     parser.skip = {'div'}
 
     for path, name in walk(args.input):
@@ -28,12 +28,15 @@ def main():
             text = file.read()
             parser.feed(text)
             root = parser.stack[0]['$children'][0]
-            root = handleFrames(root)
-            outputContent = json.dumps(root, sort_keys=True, indent=2)
+            outputContent = json.dumps(parser.stack[0], sort_keys=True, indent=2)
+            root = handleFrames(parser.stack[0])
             print(name)
+            # print(outputContent)
             markdown = convert_to_markdown(root['article'])
-            markdown = re.sub(r"\n( *\n)+", "\n\n", markdown)
             markdown = re.sub(r" *\n *", "\n", markdown)
+            markdown = re.sub(r"\n+", "\n", markdown)
+            markdown = re.sub(r"([‘\(\)]) <", "\\1<", markdown)
+            markdown = re.sub(r"> ([’\(\)])", ">\\1", markdown)
             markdown = re.sub(r"\n*$", "\n", markdown)
             if args.output:
                 subprocess.run(['mkdir', '-p', os.path.join(args.output, *path)])
@@ -52,7 +55,7 @@ def handleFrames(frame, buffer=dict()):
 
 def convert_to_markdown(frame, *tags):
     if not isinstance(frame, dict): return frame
-    buffer = " ".join(map(lambda child: convert_to_markdown(child, *tags, frame['$isa']), frame['$children']))
+    buffer = "".join(map(lambda child: convert_to_markdown(child, *tags, frame['$isa']), frame['$children']))
 
     tag = frame['$isa']
 
@@ -83,7 +86,7 @@ def convert_to_markdown(frame, *tags):
     #     return f"{buffer}\n"
     if frame['$isa'] in {'h1', 'h2', 'h3', 'p', 'strong', 'li', 'ol', 'ul', 'h1', 'table', 'tbody', 'thead', 'tr', 'th', 'td'}:
         return f"<{tag}>{buffer}</{tag}>\n"
-    
+
 
 
 
@@ -184,9 +187,13 @@ class MyHTMLParser(HTMLParser):
     def reset(self):
         super().reset()
         self.stack = list()
-        self.stack.append(dict())
+        frame = dict()
+        frame['$isa'] = None
+        self.stack.append(frame)
+
 
     def handle_starttag(self, tag, attrs):
+        # print("≤"+self.get_starttag_text()+"≥")
         if tag in self.skip: return
         frame = dict()
         frame['$isa'] = tag
@@ -206,12 +213,18 @@ class MyHTMLParser(HTMLParser):
         # print("End tag  :", tag)
 
     def handle_data(self, data):
-        data = data.lstrip()
-        data = data.rstrip()
+        # data = data.lstrip()
+        # data = data.rstrip()
         if len(data):
             if '$children' not in self.stack[-1]:
                 self.stack[-1]['$children'] = list()
             self.stack[-1]['$children'].append(data)
+
+    def handle_charref(self, name):
+        exit(name)
+
+    def handle_entityref(self, name):
+        self.handle_data(f'&{name};')
 
         # print("Data     :", data)
     #
