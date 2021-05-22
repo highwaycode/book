@@ -60,5 +60,5 @@ Get [information about the Blue Badge Scheme](https://www.gov.uk/blue-badge-sche
 
 A [Code of Practice](https://www.gov.uk/government/publications/code-of-practice-for-horse-drawn-vehicles) is available from
 
-Department for Transport  International Vehicle Standards  Great Minster House  33 Horseferry Road  London  SW1P 4DR   Tel 0300 330 3000
+<br/> Department for Transport <br/> International Vehicle Standards <br/> Great Minster House <br/> 33 Horseferry Road <br/> London <br/> SW1P 4DR <br/> <br/> Tel 0300 330 3000 <br/> <br/>
 

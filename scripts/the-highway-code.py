@@ -64,6 +64,8 @@ def convert_to_markdown(frame, *tags):
         return f"\n\n{buffer}\n\n"
     elif frame['$isa'] == 'strong':
         return f"**{buffer}**"
+    elif frame['$isa'] == 'br':
+        return f"<br/>"
     elif frame['$isa'] == 'a':
         href = frame['$attrs']['href']
         if not href.startswith('http:') and not href.startswith('https:'):
