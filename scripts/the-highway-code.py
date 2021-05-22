@@ -56,33 +56,35 @@ def convert_to_markdown(frame, *tags):
 
     tag = frame['$isa']
 
-    if frame['$isa'] == 'h1':
-        return f"\n# {buffer}\n"
-    elif frame['$isa'] == 'h2':
-        return f"\n## {buffer}\n"
-    elif frame['$isa'] == 'h3':
-        return f"\n### {buffer}\n"
-    elif frame['$isa'] == 'p':
-        return f"\n\n{buffer}\n\n"
-    elif frame['$isa'] == 'strong':
-        return f"**{buffer}**"
-    elif frame['$isa'] == 'br':
-        return f"<br/>"
-    elif frame['$isa'] == 'a':
+    # if frame['$isa'] == 'h1':
+    #     return f"\n# {buffer}\n"
+    # elif frame['$isa'] == 'h2':
+    #     return f"\n## {buffer}\n"
+    # elif frame['$isa'] == 'h3':
+    #     return f"\n### {buffer}\n"
+    # elif frame['$isa'] == 'p':
+    #     return f"\n\n{buffer}\n\n"
+    # elif frame['$isa'] == 'strong':
+    #     return f"**{buffer}**"
+    # elif frame['$isa'] == 'br':
+    #     return f"<br/>"
+    if frame['$isa'] == 'a':
         href = frame['$attrs']['href']
         if not href.startswith('http:') and not href.startswith('https:'):
             href = re.sub(r'\.html','.md', href)
-        return "["+buffer + "](" + href + ")"
-    elif frame['$isa'] == 'li':
-        indent = '\t' * (tags.count('ul') + tags.count('ol') - 1)
-        if tags[-1] == 'ol':
-            return f"\n{indent}1. {buffer}"
-        else:
-            return f"\n{indent}* {buffer}"
-    elif frame['$isa'] in {'ul', 'ol'}:
-        return f"{buffer}\n"
-    elif frame['$isa'] in {'table', 'tbody', 'thead', 'tr', 'th', 'td'}:
+        return f"<a href='{href}'>{buffer}</a>"
+    # elif frame['$isa'] == 'li':
+    #     indent = '\t' * (tags.count('ul') + tags.count('ol') - 1)
+    #     if tags[-1] == 'ol':
+    #         return f"\n{indent}1. {buffer}"
+    #     else:
+    #         return f"\n{indent}* {buffer}"
+    # elif frame['$isa'] in {'ul', 'ol'}:
+    #     return f"{buffer}\n"
+    if frame['$isa'] in {'h1', 'h2', 'h3', 'p', 'strong', 'li', 'ol', 'ul', 'h1', 'table', 'tbody', 'thead', 'tr', 'th', 'td'}:
         return f"<{tag}>{buffer}</{tag}>\n"
+    
+
 
 
 
