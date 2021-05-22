@@ -7,7 +7,55 @@ Metric conversions, useful websites, further reading, the blue badge scheme and 
 
 The conversions given throughout **The Highway Code** are rounded but a detailed conversion chart is shown below.
 
-Miles Kilometres Miles Kilometres 1.00 1.61 40.00 64.37 5.00 8.05 45.00 72.42 10.00 16.09 50.00 80.47 15.00 24.14 55.00 88.51 20.00 32.19 60.00 96.56 25.00 40.23 65.00 104.60 30.00 48.28 70.00 112.65 35.00 56.33 - -
+<table><thead><tr><th>Miles</th>
+<th>Kilometres</th>
+<th>Miles</th>
+<th>Kilometres</th>
+</tr>
+</thead>
+<tbody><tr><td>1.00</td>
+<td>1.61</td>
+<td>40.00</td>
+<td>64.37</td>
+</tr>
+<tr><td>5.00</td>
+<td>8.05</td>
+<td>45.00</td>
+<td>72.42</td>
+</tr>
+<tr><td>10.00</td>
+<td>16.09</td>
+<td>50.00</td>
+<td>80.47</td>
+</tr>
+<tr><td>15.00</td>
+<td>24.14</td>
+<td>55.00</td>
+<td>88.51</td>
+</tr>
+<tr><td>20.00</td>
+<td>32.19</td>
+<td>60.00</td>
+<td>96.56</td>
+</tr>
+<tr><td>25.00</td>
+<td>40.23</td>
+<td>65.00</td>
+<td>104.60</td>
+</tr>
+<tr><td>30.00</td>
+<td>48.28</td>
+<td>70.00</td>
+<td>112.65</td>
+</tr>
+<tr><td>35.00</td>
+<td>56.33</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+
 ## Useful websites
 
 [GOV.UK](http://www.gov.uk)

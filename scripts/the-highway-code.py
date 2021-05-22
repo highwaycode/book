@@ -54,6 +54,8 @@ def convert_to_markdown(frame, *tags):
     if not isinstance(frame, dict): return frame
     buffer = " ".join(map(lambda child: convert_to_markdown(child, *tags, frame['$isa']), frame['$children']))
 
+    tag = frame['$isa']
+
     if frame['$isa'] == 'h1':
         return f"\n# {buffer}\n"
     elif frame['$isa'] == 'h2':
@@ -79,6 +81,8 @@ def convert_to_markdown(frame, *tags):
             return f"\n{indent}* {buffer}"
     elif frame['$isa'] in {'ul', 'ol'}:
         return f"{buffer}\n"
+    elif frame['$isa'] in {'table', 'tbody', 'thead', 'tr', 'th', 'td'}:
+        return f"<{tag}>{buffer}</{tag}>\n"
 
 
 

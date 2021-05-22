@@ -113,7 +113,40 @@ You **MUST** wear a seat belt in cars, vans and other goods vehicles if one is f
 
 **Seat belt requirements.** This table summarises the main legal requirements for wearing seat belts in cars, vans and other goods vehicles.
 
-Front seat Rear seat Who is responsible? **Driver** Seat belt **MUST** be worn if fitted - **Driver** **Child** under 3 years of age Correct child restraint **MUST** be used Correct child restraint **MUST** be used. If one is not available in a taxi, may travel unrestrained. **Driver** **Child** from 3rd birthday up to 1.35 metres in height (or 12th birthday, whichever they reach first) Correct child restraint **MUST** be used Correct child restraint **MUST** be used where seat belts fitted. **MUST** use adult belt if correct child restraint is not available in a licensed taxi or private hire vehicle, or for reasons of unexpected necessity over a short distance, or if two occupied restraints prevent fitment of a third. **Driver** **Child** over 1.35 metres (approx 4ft 5ins) in height or 12 or 13 years Seat belt **MUST** be worn if available Seat belt **MUST** be worn if available **Driver** **Adult** passengers aged 14 and over Seat belt **MUST** be worn if available Seat belt **MUST** be worn if available **Passenger**
+<table><thead><tr><td></td>
+<th>Front seat</th>
+<th>Rear seat</th>
+<th>Who is responsible?</th>
+</tr>
+</thead>
+<tbody><tr><td>**Driver**</td>
+<td>Seat belt **MUST** be worn if fitted</td>
+<td>-</td>
+<td>**Driver**</td>
+</tr>
+<tr><td>**Child** under 3 years of age</td>
+<td>Correct child restraint **MUST** be used</td>
+<td>Correct child restraint **MUST** be used. If one is not available in a taxi, may travel unrestrained.</td>
+<td>**Driver**</td>
+</tr>
+<tr><td>**Child** from 3rd birthday up to 1.35 metres in height (or 12th birthday, whichever they reach first)</td>
+<td>Correct child restraint **MUST** be used</td>
+<td>Correct child restraint **MUST** be used where seat belts fitted. **MUST** use adult belt if correct child restraint is not available in a licensed taxi or private hire vehicle, or for reasons of unexpected necessity over a short distance, or if two occupied restraints prevent fitment of a third.</td>
+<td>**Driver**</td>
+</tr>
+<tr><td>**Child** over 1.35 metres (approx 4ft 5ins) in height or 12 or 13 years</td>
+<td>Seat belt **MUST** be worn if available</td>
+<td>Seat belt **MUST** be worn if available</td>
+<td>**Driver**</td>
+</tr>
+<tr><td>**Adult** passengers aged 14 and over</td>
+<td>Seat belt **MUST** be worn if available</td>
+<td>Seat belt **MUST** be worn if available</td>
+<td>**Passenger**</td>
+</tr>
+</tbody>
+</table>
+
 ### Rule 100
 
 The driver **MUST** ensure that all children under 14 years of age in cars, vans and other goods vehicles wear seat belts or sit in an approved child restraint where required (see table above). If a child is under 1.35 metres (approx 4 feet 5 inches) tall, a baby seat, child seat, booster seat or booster cushion **MUST** be used suitable for the child’s weight and fitted to the manufacturer’s instructions.

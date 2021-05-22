@@ -171,7 +171,57 @@ Rule 119: Rear of the car skids to the right. Driver steers to the right
 **Law [CUR regs 98](http://www.legislation.gov.uk/uksi/1986/1078/regulation/98/made) & [107](http://www.legislation.gov.uk/uksi/1986/1078/regulation/107/made)**
 
 ### Speed limits
-Speed Limits Built-up areas* Single carriageways Dual carriageways Motorways **Type of vehicle** mph (km/h) mph (km/h) mph (km/h) mph (km/h) **Cars & motorcycles** (including car derived vans up to 2 tonnes maximum laden weight) **30** (48) **60** (96) **70** (112) **70** (112) **Cars towing caravans or trailers** (including car derived vans and motorcycles) **30** (48) **50** (80) **60** (96) **60** (96) **Buses, coaches and minibuses** (not exceeding 12 metres in overall length) **30** (48) **50** (80) **60** (96) **70** (112) **Goods vehicles** (not exceeding 7.5 tonnes maximum laden weight) **30** (48) **50** (80) **60** (96) **70†** (112) **Goods vehicles** (exceeding 7.5 tonnes maximum laden weight) in England and Wales **30** (48) **50** (80) **60** (96) **60** (96) **Goods vehicles** (exceeding 7.5 tonnes maximum laden weight) in Scotland **30** (48) **40** (64) **50** (80) **60** (96)
+<table><thead><tr><th>Speed Limits</th>
+<th>Built-up areas*</th>
+<th>Single carriageways</th>
+<th>Dual carriageways</th>
+<th>Motorways</th>
+</tr>
+</thead>
+<tbody><tr><td>**Type of vehicle**</td>
+<td>mph (km/h)</td>
+<td>mph (km/h)</td>
+<td>mph (km/h)</td>
+<td>mph (km/h)</td>
+</tr>
+<tr><td>**Cars & motorcycles** (including car derived vans up to 2 tonnes maximum laden weight)</td>
+<td>**30** (48)</td>
+<td>**60** (96)</td>
+<td>**70** (112)</td>
+<td>**70** (112)</td>
+</tr>
+<tr><td>**Cars towing caravans or trailers** (including car derived vans and motorcycles)</td>
+<td>**30** (48)</td>
+<td>**50** (80)</td>
+<td>**60** (96)</td>
+<td>**60** (96)</td>
+</tr>
+<tr><td>**Buses, coaches and minibuses** (not exceeding 12 metres in overall length)</td>
+<td>**30** (48)</td>
+<td>**50** (80)</td>
+<td>**60** (96)</td>
+<td>**70** (112)</td>
+</tr>
+<tr><td>**Goods vehicles** (not exceeding 7.5 tonnes maximum laden weight)</td>
+<td>**30** (48)</td>
+<td>**50** (80)</td>
+<td>**60** (96)</td>
+<td>**70†** (112)</td>
+</tr>
+<tr><td>**Goods vehicles** (exceeding 7.5 tonnes maximum laden weight) in England and Wales</td>
+<td>**30** (48)</td>
+<td>**50** (80)</td>
+<td>**60** (96)</td>
+<td>**60** (96)</td>
+</tr>
+<tr><td>**Goods vehicles** (exceeding 7.5 tonnes maximum laden weight) in Scotland</td>
+<td>**30** (48)</td>
+<td>**40** (64)</td>
+<td>**50** (80)</td>
+<td>**60** (96)</td>
+</tr>
+</tbody>
+</table>
 
 *The 30 mph limit usually applies to all traffic on all roads with street lighting unless signs show otherwise.
 
