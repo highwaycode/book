@@ -39,3 +39,4 @@ You can [buy a copy of The Highway Code online](https://www.safedrivingforlife.i
 1. [Annex 8. Safety code for new drivers Information about the safety code for new drivers, including the New Drivers Act and further training.](the-highway-code/annex-8-safety-code-for-new-drivers.md)
 1. [Other information Metric conversions, useful websites, further reading, the blue badge scheme and code of practice horse-drawn vehicles.](the-highway-code/other-information.md)
 1. [Index An A to Z index of topics covered by The Highway Code.](the-highway-code/index.md)
+

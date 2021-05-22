@@ -136,3 +136,4 @@ A rear-facing baby seat **MUST NOT** be fitted into a seat protected by an activ
 * children do not sit behind the rear seats in an estate car or hatchback, unless a special child seat has been fitted
 * the child safety door locks, where fitted, are used when children are in the vehicle
 * children are kept under control.
+

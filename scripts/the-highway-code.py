@@ -34,6 +34,7 @@ def main():
             markdown = convert_to_markdown(root['article'])
             markdown = re.sub(r"\n( *\n)+", "\n\n", markdown)
             markdown = re.sub(r" *\n *", "\n", markdown)
+            markdown = re.sub(r"\n*$", "\n", markdown)
             if args.output:
                 subprocess.run(['mkdir', '-p', os.path.join(args.output, *path)])
                 base = os.path.splitext(name)[0]
@@ -187,7 +188,7 @@ class MyHTMLParser(HTMLParser):
         if '$children' not in self.stack[-1]:
             self.stack[-1]['$children'] = list()
         self.stack[-1]['$children'].append(frame)
-        if tag not in {'link', 'img', 'meta'}:
+        if tag not in {'link', 'img', 'meta', 'br'}:
             self.stack.append(frame)
 
 

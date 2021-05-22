@@ -146,6 +146,5 @@ Rule 252: Turn your wheels away from the kerb when parking facing uphill. Turn t
 
 DPE is becoming increasingly common as more authorities take on this role. The local traffic authority assumes responsibility for enforcing many parking contraventions in place of the police. Further details on DPE may be found at the following websites:
 
-[Traffic Penalty Tribunal](http://www.trafficpenaltytribunal.gov.uk) (outside London) [London Tribunals](http://www.londontribunals.gov.uk) (inside London)
+[Traffic Penalty Tribunal](http://www.trafficpenaltytribunal.gov.uk) (outside London)  [London Tribunals](http://www.londontribunals.gov.uk) (inside London)
 
-[Print this page](waiting-and-parking-238-to-252.md#)

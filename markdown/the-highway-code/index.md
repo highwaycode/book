@@ -125,7 +125,7 @@ An A to Z index of topics covered by The Highway Code.
 	* pedestrians [rule 13](rules-for-pedestrians-1-to-35.md#rule13) , [rule 62](rules-for-cyclists-59-to-82.md#rule62) and [rule 66](rules-for-cyclists-59-to-82.md#rule66)
 	* rear observation [rule 67](rules-for-cyclists-59-to-82.md#rule67) and [rule 212](road-users-requiring-extra-care-204-to-225.md#rule212) -roundabouts [rules 76 to 78](rules-for-cyclists-59-to-82.md#rule76) and [rule 187](using-the-road-159-to-203.md#rule187)
 	* routes [rules 61 to 63](rules-for-cyclists-59-to-82.md#rule61) and [rule 65](rules-for-cyclists-59-to-82.md#rule65)
-	* traffic lights [rule 69](rules-for-cyclists-59-to-82.md#rule69) , [rule 71](rules-for-cyclists-59-to-82.md#rule71) , [rules 79 to 82](rules-for-cyclists-59-to-82.md#rule79) and [rules 177 to 178](using-the-road-159-to-203.md#rule177) -trams [rule 306](road-works-level-crossings-and-tramways-288-to-307.md#rule306)
+	* traffic lights [rule 69](rules-for-cyclists-59-to-82.md#rule69) , [rule 71](rules-for-cyclists-59-to-82.md#rule71) , [rules 79 to 82](rules-for-cyclists-59-to-82.md#rule79) and [rules 177 to 178](using-the-road-159-to-203.md#rule177)  -trams [rule 306](road-works-level-crossings-and-tramways-288-to-307.md#rule306)
 	* turning [rule 74](rules-for-cyclists-59-to-82.md#rule74) and [rule 212](road-users-requiring-extra-care-204-to-225.md#rule212)
 
 ## D
@@ -746,4 +746,3 @@ An A to Z index of topics covered by The Highway Code.
 	* pedestrians [rule 7](rules-for-pedestrians-1-to-35.md#rule7) and [rules 18 to 20](rules-for-pedestrians-1-to-35.md#rule18)
 	* with a central island [rule 20](rules-for-pedestrians-1-to-35.md#rule20)
 
-[Print this page](index.md#)
