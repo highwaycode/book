@@ -1,12 +1,12 @@
 
-<h1>General rules, techniques and advice for all drivers and riders (103 to 158)</h1>
+<h1 id='section-title'>General rules, techniques and advice for all drivers and riders (103 to 158)</h1>
 <p>Signals, stopping procedures, lighting, control of the vehicle, speed limits, stopping distances, lines and lane markings and multi-lane carriageways, smoking, mobile phones and sat nav.</p>
 <p>This section should be read by all drivers, motorcyclists, cyclists and horse riders. The rules in <strong>The Highway Code</strong>
 do not give you the right of way in any circumstance, but they advise you when you should give way to others. Always give way if it can help to avoid an incident.</p>
-<h2>
+<h2 id='signals-rules-103-to-106'>
 Signals (rules 103 to 106)
 </h2>
-<h3>Rule 103</h3>
+<h3 id='rule103'>Rule 103</h3>
 <p>Signals warn and inform other road users, including pedestrians (see ‘<a href='signals-to-other-road-users.md'>Signals to other road users</a>), of your intended actions. You should always</p>
 <ul>
 <li>give clear signals in plenty of time, having checked it is not misleading to signal at that time</li>
@@ -15,18 +15,18 @@ Signals (rules 103 to 106)
 <li>make sure your signals will not confuse others. If, for instance, you want to stop after a side road, do not signal until you are passing the road. If you signal earlier it may give the impression that you intend to turn into the road. Your brake lights will warn traffic behind you that you are slowing down</li>
 <li>use an arm signal to emphasise or reinforce your signal if necessary. Remember that signalling does not give you priority.</li>
 </ul>
-<h3>Rule 104</h3>
+<h3 id='rule104'>Rule 104</h3>
 <p>You should also</p>
 <ul>
 <li>watch out for signals given by other road users and proceed only when you are satisfied that it is safe</li>
 <li>be aware that an indicator on another vehicle may not have been cancelled.</li>
 </ul>
-<h3>Rule 105</h3>
+<h3 id='rule105'>Rule 105</h3>
 <p>You <strong>MUST</strong>
 obey signals given by police officers, traffic officers, traffic wardens (see ‘<a href='signals-by-authorised-persons.md'>Signals by authorised persons</a>’) and signs used by school crossing patrols.</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/1984/27/section/28'>RTRA sect 28</a>, <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/35'>RTA 1988 sect 35</a>, <a href='http://www.legislation.gov.uk/ukpga/2004/18/part/6'>TMA sect 6</a> &amp; <a href='http://www.legislation.gov.uk/uksi/2002/2975/made'>FTWO art 3</a></strong>
 </p>
-<h3>Rule 106</h3>
+<h3 id='rule106'>Rule 106</h3>
 <p><strong>Police stopping procedures.</strong>
 If the police want to stop your vehicle they will, where possible, attract your attention by</p>
 <ul>
@@ -37,10 +37,10 @@ If the police want to stop your vehicle they will, where possible, attract your 
 then pull over and stop as soon as it is safe to do so. Then switch off your engine.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/163/enacted'>RTA 1988 sect 163</a></strong>
 </p>
-<h2>
+<h2 id='other-stopping-procedures-rules-107-to-112'>
 Other stopping procedures (rules 107 to 112)
 </h2>
-<h3>Rule 107</h3>
+<h3 id='rule107'>Rule 107</h3>
 <p><strong>Driver and Vehicle Standards Agency officers</strong>
 have the power to stop vehicles on all roads, including motorways and trunk roads. They will attract your attention by flashing amber lights</p>
 <ul>
@@ -51,7 +51,7 @@ have the power to stop vehicles on all roads, including motorways and trunk road
 obey any signals given (see ‘<a href='signals-by-authorised-persons.md'>Signals by authorised persons</a>’).</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/67/enacted'>RTA 1988 sect 67</a>, &amp; <a href='http://www.legislation.gov.uk/ukpga/2002/30/section/41'>PRA sect 41</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/2002/30/schedule/5'>sched 5(8)</a></strong>
 </p>
-<h3>Rule 108</h3>
+<h3 id='rule108'>Rule 108</h3>
 <p><strong>Traffic officers</strong>
 have powers to stop vehicles on most motorways and some ‘A’ class roads, in England and Wales. If traffic officers in uniform want to stop your vehicle on safety grounds (e.g. an insecure load) they will, where possible, attract your attention by</p>
 <ul>
@@ -62,18 +62,18 @@ have powers to stop vehicles on most motorways and some ‘A’ class roads, in 
 then pull over and stop as soon as it is safe to do so. Then switch off your engine. It is an offence not to comply with their directions (see ‘<a href='signals-by-authorised-persons.md'>Signals by authorised persons</a>’).</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/35'>RTA 1988 sects 35</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/163'>163</a> as amended by <a href='http://www.legislation.gov.uk/ukpga/2004/18/section/6'>TMA sect 6</a></strong>
 </p>
-<h3>Rule 109</h3>
+<h3 id='rule109'>Rule 109</h3>
 <p><strong>Traffic light signals and traffic signs.</strong>
 You <strong>MUST</strong>
 obey all traffic light signals (see ‘<a href='light-signals-controlling-traffic.md'>Light signals controlling traffic</a>’) and traffic signs giving orders, including temporary signals &amp; signs (see ‘<a href='traffic-signs.md'>Traffic signs</a>’). Make sure you know, understand and act on all other traffic and information signs and road markings (see ‘<a href='traffic-signs.md'>Traffic signs</a>’, ‘<a href='road-markings.md'>Road markings</a>’ and ‘<a href='vehicle-markings.md'>Vehicle markings</a>’).</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/36'>RTA 1988 sect 36</a> &amp; <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made'>TSRGD regs 10</a>, <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/15/made'>15</a>, <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/16/made'>16</a>, <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/25/made'>25</a>, <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/26/made'>26</a>, <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/27/made'>27</a>, <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/28/made'>28</a>, <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/29/made'>29</a>, <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/36/made'>36</a>, <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/38/made'>38</a> &amp; <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/40/made'>40</a></strong>
 </p>
-<h3>Rule 110</h3>
+<h3 id='rule110'>Rule 110</h3>
 <p><strong>Flashing headlights.</strong>
 Only flash your headlights to let other road users know that you are there. Do not flash your headlights to convey any other message or intimidate other road users.</p>
-<h3>Rule 111</h3>
+<h3 id='rule111'>Rule 111</h3>
 <p>Never assume that flashing headlights is a signal inviting you to proceed. Use your own judgement and proceed carefully.</p>
-<h3>Rule 112</h3>
+<h3 id='rule112'>Rule 112</h3>
 <p><strong>The horn.</strong>
 Use only while your vehicle is moving and you need to warn other road users of your presence. Never sound your horn aggressively. You <strong>MUST NOT</strong>
 use your horn</p>
@@ -85,10 +85,10 @@ use your horn</p>
 when another road user poses a danger.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/uksi/1986/1078/regulation/99/made'>CUR reg 99</a></strong>
 </p>
-<h2>
+<h2 id='lighting-requirements-rules-113-to-116'>
 Lighting requirements (rules 113 to 116)
 </h2>
-<h3>Rule 113</h3>
+<h3 id='rule113'>Rule 113</h3>
 <p>You <strong>MUST</strong>
 </p>
 <ul>
@@ -99,7 +99,7 @@ Lighting requirements (rules 113 to 116)
 <p>Night (the hours of darkness) is defined as the period between half an hour after sunset and half an hour before sunrise.</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/uksi/1989/1796/regulation/3/made'>RVLR regs 3</a>, <a href='http://www.legislation.gov.uk/uksi/1989/1796/regulation/24/made'>24</a> &amp; <a href='http://www.legislation.gov.uk/uksi/1989/1796/part/III/made'>25</a>(In Scotland - <a href='http://www.legislation.gov.uk/ukpga/1991/22/schedule/8/made'>RTRA sect 82 (as amended by NRSWA, para 59 of sched 8)</a></strong>
 )</p>
-<h3>Rule 114</h3>
+<h3 id='rule114'>Rule 114</h3>
 <p>You <strong>MUST NOT</strong>
 </p>
 <ul>
@@ -110,40 +110,40 @@ switch them off when visibility improves to avoid dazzling other road users (see
 <p>In stationary queues of traffic, drivers should apply the parking brake and, once the following traffic has stopped, take their foot off the footbrake to deactivate the vehicle brake lights. This will minimise glare to road users behind until the traffic moves again.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made'>RVLR reg 27</a></strong>
 </p>
-<h3>Rule 115</h3>
+<h3 id='rule115'>Rule 115</h3>
 <p>You should also</p>
 <ul>
 <li>use dipped headlights, or dim-dip if fitted, at night in built-up areas and in dull daytime weather, to ensure that you can be seen</li>
 <li>keep your headlights dipped when overtaking until you are level with the other vehicle and then change to main beam if necessary, unless this would dazzle oncoming road users</li>
 <li>slow down, and if necessary stop, if you are dazzled by oncoming headlights.</li>
 </ul>
-<h3>Rule 116</h3>
+<h3 id='rule116'>Rule 116</h3>
 <p><strong>Hazard warning lights.</strong>
 These may be used when your vehicle is stationary, to warn that it is temporarily obstructing traffic. Never use them as an excuse for dangerous or illegal parking. You <strong>MUST NOT</strong>
 use hazard warning lights while driving or being towed unless you are on a motorway or unrestricted dual carriageway and you need to warn drivers behind you of a hazard or obstruction ahead. Only use them for long enough to ensure that your warning has been observed.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/uksi/1989/1796/regulation/27/made'>RVLR reg 27</a></strong>
 </p>
-<h2>
+<h2 id='control-of-the-vehicle-rules-117-to-126'>
 Control of the vehicle (rules 117 to 126)
 </h2>
-<h3>Braking</h3>
-<h3>Rule 117</h3>
+<h3 id='braking'>Braking</h3>
+<h3 id='rule117'>Rule 117</h3>
 <p><strong>In normal circumstances.</strong>
 The safest way to brake is to do so early and lightly. Brake more firmly as you begin to stop. Ease the pressure off just before the vehicle comes to rest to avoid a jerky stop.</p>
-<h3>Rule 118</h3>
+<h3 id='rule118'>Rule 118</h3>
 <p><strong>In an emergency.</strong>
 Brake immediately. Try to avoid braking so harshly that you lock your wheels. Locked wheels can lead to loss of control.</p>
-<h3>Rule 119</h3>
+<h3 id='rule119'>Rule 119</h3>
 <p><strong>Skids</strong>
 . Skidding is usually caused by the driver braking, accelerating or steering too harshly or driving too fast for the road conditions. If skidding occurs, remove the cause by releasing the brake pedal fully or easing off the accelerator. Turn the steering wheel in the direction of the skid. For example, if the rear of the vehicle skids to the right, steer immediately to the right to recover.</p>
 <p></p>
-Rule 119: Rear of the car skids to the right. Driver steers to the right<h3>Rule 120</h3>
+Rule 119: Rear of the car skids to the right. Driver steers to the right<h3 id='rule120'>Rule 120</h3>
 <p><strong>ABS.</strong>
 If your vehicle is fitted with anti-lock brakes, you should follow the advice given in the vehicle handbook. However, in the case of an emergency, apply the footbrake firmly; do not release the pressure until the vehicle has slowed to the desired speed. The ABS should ensure that steering control will be retained, but do not assume that a vehicle with ABS will stop in a shorter distance.</p>
-<h3>Rule 121</h3>
+<h3 id='rule121'>Rule 121</h3>
 <p><strong>Brakes affected by water.</strong>
 If you have driven through deep water your brakes may be less effective. Test them at the first safe opportunity by pushing gently on the brake pedal to make sure that they work. If they are not fully effective, gently apply light pressure while driving slowly. This will help to dry them out.</p>
-<h3>Rule 122</h3>
+<h3 id='rule122'>Rule 122</h3>
 <p><strong>Coasting.</strong>
 This term describes a vehicle travelling in neutral or with the clutch pressed down. It can reduce driver control because</p>
 <ul>
@@ -153,13 +153,13 @@ This term describes a vehicle travelling in neutral or with the clutch pressed d
 <li>steering response will be affected, particularly on bends and corners</li>
 <li>it may be more difficult to select the appropriate gear when needed.</li>
 </ul>
-<h3>Rule 123</h3>
+<h3 id='rule123'>Rule 123</h3>
 <p><strong>The Driver and the Environment.</strong>
 You <strong>MUST NOT</strong>
 leave a parked vehicle unattended with the engine running or leave a vehicle engine running unnecessarily while that vehicle is stationary on a public road. Generally, if the vehicle is stationary and is likely to remain so for more than a couple of minutes, you should apply the parking brake and switch off the engine to reduce emissions and noise pollution. However it is permissible to leave the engine running if the vehicle is stationary in traffic or for diagnosing faults.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/uksi/1986/1078/regulation/98/made'>CUR regs 98</a> &amp; <a href='http://www.legislation.gov.uk/uksi/1986/1078/regulation/107/made'>107</a></strong>
 </p>
-<h3>Speed limits</h3>
+<h3 id='speedlimits'>Speed limits</h3>
 <table>
 <thead>
 <tr>
@@ -285,12 +285,12 @@ leave a parked vehicle unattended with the engine running or leave a vehicle eng
 </table>
 <p>*The 30 mph limit usually applies to all traffic on all roads with street lighting unless signs show otherwise.</p>
 <p>†60 mph (96 km/h) if articulated or towing a trailer.</p>
-<h3>Rule 124</h3>
+<h3 id='rule124'>Rule 124</h3>
 <p>You <strong>MUST NOT</strong>
 exceed the maximum speed limits for the road and for your vehicle (see the <a href='general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#speedlimits'>speed limits table</a>). The presence of street lights generally means that there is a 30 mph (48 km/h) speed limit unless otherwise specified.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/ukpga/1984/27/part/VI'>RTRA sects 81</a>, <a href='http://www.legislation.gov.uk/ukpga/1984/27/part/VI'>86</a>, <a href='http://www.legislation.gov.uk/ukpga/1984/27/part/VI'>89</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/1984/27/schedule/6'>sched 6</a> as amended by <a href='http://www.legislation.gov.uk/uksi/2014/3552/contents/made'>MV(VSL)(E&amp;W)</a></strong>
 </p>
-<h3>Rule 125</h3>
+<h3 id='rule125'>Rule 125</h3>
 <p>The speed limit is the absolute maximum and does not mean it is safe to drive at that speed irrespective of conditions. Driving at speeds too fast for the road and traffic conditions is dangerous. You should always reduce your speed when</p>
 <ul>
 <li>the road layout or condition presents hazards, such as bends</li>
@@ -298,7 +298,7 @@ exceed the maximum speed limits for the road and for your vehicle (see the <a hr
 <li>weather conditions make it safer to do so</li>
 <li>driving at night as it is more difficult to see other road users.</li>
 </ul>
-<h3>Rule 126</h3>
+<h3 id='rule126'>Rule 126</h3>
 <p></p>
 <p><a href='https://assets.digital.cabinet-office.gov.uk/media/559afb11ed915d1595000017/the-highway-code-typical-stopping-distances.pdf'>Download ‘Typical stopping distances’ (PDF, 124KB)</a></p>
 <p><strong>Stopping Distances.</strong>
@@ -311,23 +311,23 @@ Drive at a speed that will allow you to stop well within the distance you can se
 <p>If you have to stop in a tunnel, leave at least a 5-metre gap between you and the vehicle in front.</p>
 <p></p>
 Rule 126: Use a fixed point to help measure a two-second gap
-<h2>
+<h2 id='lines-and-lane-markings-on-the-road-rules-127-to-132'>
 Lines and lane markings on the road (rules 127 to 132)
 </h2>
 <p>See ‘<a href='road-markings.md'>Road markings</a>’ to see diagrams of all lines.</p>
-<h3>Rule 127</h3>
+<h3 id='rule127'>Rule 127</h3>
 <p><strong>A broken white line.</strong>
 This marks the centre of the road. When this line lengthens and the gaps shorten, it means that there is a hazard ahead. Do not cross it unless you can see the road is clear and wish to overtake or turn off.</p>
-<h3>Rule 128</h3>
+<h3 id='rule128'>Rule 128</h3>
 <p><strong>Double white lines where the line nearest to you is broken.</strong>
 This means you may cross the lines to overtake if it is safe, provided you can complete the manoeuvre before reaching a solid white line on your side. White direction arrows on the road indicate that you need to get back onto your side of the road.</p>
-<h3>Rule 129</h3>
+<h3 id='rule129'>Rule 129</h3>
 <p><strong>Double white lines where the line nearest you is solid.</strong>
 This means you <strong>MUST NOT</strong>
 cross or straddle it unless it is safe and you need to enter adjoining premises or a side road. You may cross the line if necessary, provided the road is clear, to pass a stationary vehicle, or overtake a pedal cycle, horse or road maintenance vehicle, if they are travelling at 10 mph (16 km/h) or less.</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/36'>RTA 1988 sect 36</a> &amp; <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made'>TSRGD regs 10</a> &amp; <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/26/made'>26</a></strong>
 </p>
-<h3>Rule 130</h3>
+<h3 id='rule130'>Rule 130</h3>
 <p><strong>Areas of white diagonal stripes</strong>
 or chevrons painted on the road. These are to separate traffic lanes or to protect traffic turning right.</p>
 <ul>
@@ -337,10 +337,10 @@ enter it except in an emergency.</li>
 </ul>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/uksi/1982/1163/contents/made'>MT(E&amp;W)R regs 5</a>, <a href='http://www.legislation.gov.uk/uksi/1982/1163/contents/made'>9</a>, <a href='http://www.legislation.gov.uk/uksi/1982/1163/contents/made'>10</a> &amp; <a href='http://www.legislation.gov.uk/uksi/1982/1163/contents/made'>16</a>, <a href='http://www.legislation.gov.uk/uksi/1995/2507/regulation/4/made'>MT(S)R regs 4</a>, <a href='http://www.legislation.gov.uk/uksi/1995/2507/regulation/8/made'>8</a>, <a href='http://www.legislation.gov.uk/uksi/1995/2507/regulation/9/made'>9</a> &amp; <a href='http://www.legislation.gov.uk/uksi/1995/2507/regulation/14/made'>14</a>, <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/36'>RTA 1988 sect 36</a> &amp; <a href='http://www.legislation.gov.uk/uksi/2002/3113/regulation/10/made'>TSRGD reg 10(1)</a></strong>
 </p>
-<h3>Rule 131</h3>
+<h3 id='rule131'>Rule 131</h3>
 <p><strong>Lane dividers.</strong>
 These are short, broken white lines which are used on wide carriageways to divide them into lanes. You should keep between them.</p>
-<h3>Rule 132</h3>
+<h3 id='rule132'>Rule 132</h3>
 <p><strong>Reflective road studs</strong>
 may be used with white lines.</p>
 <ul>
@@ -352,43 +352,43 @@ may be used with white lines.</p>
 </ul>
 <p></p>
 Rule 132: Reflective road studs mark the lanes and edge of the carriageway
-<h2>
+<h2 id='multi-lane-carriageways-rules-133-to-143'>
 Multi-lane carriageways (rules 133 to 143)
 </h2>
-<h3>Lane discipline</h3>
-<h3>Rule 133</h3>
+<h3 id='lane-discipline'>Lane discipline</h3>
+<h3 id='rule133'>Rule 133</h3>
 <p>If you need to change lane, first use your mirrors and if necessary take a quick sideways glance to make sure you will not force another road user to change course or speed. When it is safe to do so, signal to indicate your intentions to other road users and when clear, move over.</p>
-<h3>Rule 134</h3>
+<h3 id='rule134'>Rule 134</h3>
 <p>You should follow the signs and road markings and get into the lane as directed. In congested road conditions do not change lanes unnecessarily. Merging in turn is recommended but only if safe and appropriate when vehicles are travelling at a very low speed, e.g. when approaching road works or a road traffic incident. It is not recommended at high speed.</p>
-<h3>Single carriageway</h3>
-<h3>Rule 135</h3>
+<h3 id='single-carriageway'>Single carriageway</h3>
+<h3 id='rule135'>Rule 135</h3>
 <p>Where a single carriageway has three lanes and the road markings or signs do not give priority to traffic in either direction</p>
 <ul>
 <li>use the middle lane only for overtaking or turning right. Remember, you have no more right to use the middle lane than a driver coming from the opposite direction</li>
 <li>do not use the right-hand lane.</li>
 </ul>
-<h3>Rule 136</h3>
+<h3 id='rule136'>Rule 136</h3>
 <p>Where a single carriageway has four or more lanes, use only the lanes that signs or markings indicate.</p>
-<h3>Dual carriageways</h3>
+<h3 id='dual-carriageways'>Dual carriageways</h3>
 <p>A dual carriageway is a road which has a central reservation to separate the carriageways.</p>
-<h3>Rule 137</h3>
+<h3 id='rule137'>Rule 137</h3>
 <p>On a two-lane dual carriageway you should stay in the left-hand lane. Use the right-hand lane for overtaking or turning right. After overtaking, move back to the left-hand lane when it is safe to do so.</p>
-<h3>Rule 138</h3>
+<h3 id='rule138'>Rule 138</h3>
 <p>On a three-lane dual carriageway, you may use the middle lane or the right-hand lane to overtake but return to the middle and then the left-hand lane when it is safe.</p>
-<h3>Rule 139</h3>
+<h3 id='rule139'>Rule 139</h3>
 <p><strong>Climbing and crawler lanes.</strong>
 These are provided on some hills. Use this lane if you are driving a slow-moving vehicle or if there are vehicles behind you wishing to overtake. Be aware of the signs and road markings which indicate the lane is about to end.</p>
-<h3>Rule 140</h3>
+<h3 id='rule140'>Rule 140</h3>
 <p><strong>Cycle lanes.</strong>
 These are shown by road markings and signs. You <strong>MUST NOT</strong>
 drive or park in a cycle lane marked by a solid white line during its times of operation. Do not drive or park in a cycle lane marked by a broken white line unless it is unavoidable. You <strong>MUST NOT</strong>
 park in any cycle lane whilst waiting restrictions apply.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/ukpga/1984/27/section/5'>RTRA sects 5</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/1984/27/section/8'>8</a></strong>
 </p>
-<h3>Rule 141</h3>
+<h3 id='rule141'>Rule 141</h3>
 <p><strong>Bus lanes.</strong>
 These are shown by road markings and signs that indicate which (if any) other vehicles are permitted to use the bus lane. Unless otherwise indicated, you should not drive in a bus lane during its period of operation. You may enter a bus lane to stop, to load or unload where this is not prohibited.</p>
-<h3>Rule 142</h3>
+<h3 id='rule142'>Rule 142</h3>
 <p><strong>High-occupancy vehicle lanes and other designated vehicle lanes.</strong>
 Lanes may be restricted for use by particular types of vehicle; these restrictions may apply some or all of the time. The operating times and vehicle types will be indicated on the accompanying traffic signs. You <strong>MUST NOT</strong>
 drive in such lanes during their times of operation unless signs indicate that your vehicle is permitted (see ‘<a href='traffic-signs.md'>Traffic signs</a>’).</p>
@@ -401,7 +401,7 @@ be used by</p>
 </ul>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/1984/27/section/5'>RTRA sects 5</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/1984/27/section/8'>8</a>, &amp; <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/36'>RTA 1988 sect 36</a></strong>
 </p>
-<h3>Rule 143</h3>
+<h3 id='rule143'>Rule 143</h3>
 <p><strong>One-way streets.</strong>
 Traffic <strong>MUST</strong>
 travel in the direction indicated by signs. Buses and/or cycles may have a contraflow lane. Choose the correct lane for your exit as soon as you can. Do not change lanes suddenly. Unless road signs or markings indicate otherwise, you should use</p>
@@ -412,10 +412,10 @@ travel in the direction indicated by signs. Buses and/or cycles may have a contr
 </ul>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/36'>RTA 1988 sect 36</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/1984/27/section/5'>RTRA sects 5</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/1984/27/section/8'>8</a></strong>
 </p>
-<h2>
+<h2 id='general-advice-rules-144-to-158'>
 General advice (rules 144 to 158)
 </h2>
-<h3>Rule 144</h3>
+<h3 id='rule144'>Rule 144</h3>
 <p>You <strong>MUST NOT</strong>
 </p>
 <ul>
@@ -425,12 +425,12 @@ General advice (rules 144 to 158)
 </ul>
 <p><strong>Law <a href='http://www.legislation.gov.uk/ukpga/1988/52'>RTA 1988 sects 2 &amp; 3</a> as amended by <a href='http://www.legislation.gov.uk/ukpga/1991/40/contents'>RTA 1991</a></strong>
 </p>
-<h3>Rule 145</h3>
+<h3 id='rule145'>Rule 145</h3>
 <p>You <strong>MUST NOT</strong>
 drive on or over a pavement, footpath or bridleway except to gain lawful access to property, or in the case of an emergency.</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/Will4/5-6/50/section/72'>HA 1835 sect 72</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/34'>RTA 1988 sect 34</a></strong>
 </p>
-<h3>Rule 146</h3>
+<h3 id='rule146'>Rule 146</h3>
 <p><strong>Adapt your driving</strong>
 to the appropriate type and condition of road you are on. In particular</p>
 <ul>
@@ -441,7 +441,7 @@ to the appropriate type and condition of road you are on. In particular</p>
 <li>be prepared to stop at traffic control systems, road works, pedestrian crossings or traffic lights as necessary</li>
 <li>try to anticipate what pedestrians and cyclists might do. If pedestrians, particularly children, are looking the other way, they may step out into the road without seeing you.</li>
 </ul>
-<h3>Rule 147</h3>
+<h3 id='rule147'>Rule 147</h3>
 <p><strong>Be considerate.</strong>
 Be careful of and considerate towards all types of road users, especially those requiring extra care (see <a href='road-users-requiring-extra-care-204-to-225.md#rule204'>Rule 204</a>).</p>
 <ul>
@@ -454,7 +454,7 @@ throw anything out of a vehicle; for example, food or food packaging, cigarette 
 </ul>
 <p><strong>Law <a href='http://www.legislation.gov.uk/ukpga/1990/43/section/87'>EPA sect 87</a></strong>
 </p>
-<h3>Rule 148</h3>
+<h3 id='rule148'>Rule 148</h3>
 <p><strong>Safe driving and riding needs concentration.</strong>
 Avoid distractions when driving or riding such as</p>
 <ul>
@@ -470,8 +470,8 @@ smoke in public transport vehicles or in vehicles used for work purposes in cert
 smoke or allow anyone to smoke in an enclosed private vehicle carrying someone under 18, including motor caravans. In Scotland it is an offence for anyone aged 18 or over to smoke in a private motor vehicle (unless it is parked and being used as living accommodation) when there is someone under 18 in the vehicle and the vehicle is in a public place.</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/uksi/2007/765/contents/made'>TSf(EV)R</a>, <a href='http://www.legislation.gov.uk/wsi/2007/787/contents/made'>TSfP(W)R</a>, <a href='http://www.legislation.gov.uk/ssi/2006/90/contents/made'>TPSCP(S)R</a>, <a href='http://www.legislation.gov.uk/ukdsi/2015/9780111126004/contents'>S-f(PV)R</a>, <a href='http://www.legislation.gov.uk/wsi/2015/1363/made'>S-f(W)R</a> &amp; <a href='http://www.legislation.gov.uk/asp/2016/3/contents'>SP(CIMV)(S)A</a></strong>
 </p>
-<h3>Mobile phones and in-vehicle technology</h3>
-<h3>Rule 149</h3>
+<h3 id='mobile-phones-and-in-vehicle-technology'>Mobile phones and in-vehicle technology</h3>
+<h3 id='rule149'>Rule 149</h3>
 <p>You <strong>MUST</strong>
 exercise proper control of your vehicle at all times. You <strong>MUST NOT</strong>
 use a hand-held mobile phone, or similar device, when driving or when supervising a learner driver, except to call 999 or 112 in a genuine emergency when it is unsafe or impractical to stop. Never use a hand-held microphone when driving. Using hands-free equipment is also likely to distract your attention from the road. It is far safer not to use any telephone while you are driving or riding - find a safe place to stop first or use the voicemail facility and listen to messages later.</p>
@@ -479,14 +479,14 @@ use a hand-held mobile phone, or similar device, when driving or when supervisin
 be legal, and you should not put other people in danger when you use it.</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/1988/52'>RTA 1988 sects 2 &amp; 3</a>, &amp; <a href='http://www.legislation.gov.uk/uksi/1986/1078/regulation/104/made'>CUR regs 104</a> &amp; <a href='http://www.legislation.gov.uk/uksi/2003/2695/made'>110</a></strong>
 </p>
-<h3>Rule 150</h3>
+<h3 id='rule150'>Rule 150</h3>
 <p>There is a danger of driver distraction being caused by in-vehicle systems such as satellite navigation systems, congestion warning systems, PCs, multi-media, etc. You <strong>MUST</strong>
 exercise proper control of your vehicle at all times. Do not rely on driver assistance systems such as motorway assist, lane departure warnings, or remote control parking. They are available to assist but you should not reduce your concentration levels. Do not be distracted by maps or screen-based information (such as navigation or vehicle management systems) while driving or riding. If necessary find a safe place to stop.</p>
 <p>As the driver, you are still responsible for the vehicle if you use a driver assistance system (like motorway assist). This is also the case if you use a hand-held remote control parking app or device. You <strong>MUST</strong>
 have full control over these systems at all times.</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/1988/52'>RTA 1988 sects 2 &amp; 3</a>, &amp; <a href='http://www.legislation.gov.uk/uksi/1986/1078/regulation/104/made'>CUR reg 104</a> &amp; <a href='http://www.legislation.gov.uk/uksi/2018/592/made'>110</a></strong>
 </p>
-<h3>Rule 151</h3>
+<h3 id='rule151'>Rule 151</h3>
 <p><strong>In slow-moving traffic.</strong>
 You should</p>
 <ul>
@@ -498,8 +498,8 @@ You should</p>
 <li>be aware of cyclists and motorcyclists who may be passing on either side.</li>
 </ul>
 <p></p>
-Rule 151: Do not block access to a side road<h3>Driving in built-up areas</h3>
-<h3>Rule 152</h3>
+Rule 151: Do not block access to a side road<h3 id='driving-in-built-up-areas'>Driving in built-up areas</h3>
+<h3 id='rule152'>Rule 152</h3>
 <p><strong>Residential streets.</strong>
 You should drive slowly and carefully on streets where there are likely to be pedestrians, cyclists and parked cars. In some areas a 20 mph (32 km/h) maximum speed limit may be in force. Look out for</p>
 <ul>
@@ -510,25 +510,25 @@ You should drive slowly and carefully on streets where there are likely to be pe
 <li>children running out from between parked cars</li>
 <li>cyclists and motorcyclists.</li>
 </ul>
-<h3>Rule 153</h3>
+<h3 id='rule153'>Rule 153</h3>
 <p><strong>Traffic-calming measures.</strong>
 On some roads there are features such as road humps, chicanes and narrowings which are intended to slow you down. When you approach these features reduce your speed. Allow cyclists and motorcyclists room to pass through them. Maintain a reduced speed along the whole of the stretch of road within the calming measures. Give way to oncoming road users if directed to do so by signs. You should not overtake other moving road users while in these areas.</p>
 <p></p>
-Rule 153: Chicanes may be used to slow traffic down<h3>Country roads</h3>
-<h3>Rule 154</h3>
+Rule 153: Chicanes may be used to slow traffic down<h3 id='country-roads'>Country roads</h3>
+<h3 id='rule154'>Rule 154</h3>
 <p>Take extra care on country roads and reduce your speed at approaches to bends, which can be sharper than they appear, and at junctions and turnings, which may be partially hidden. Be prepared for pedestrians, horse riders, cyclists, slow-moving farm vehicles or mud on the road surface. Make sure you can stop within the distance you can see to be clear. You should also reduce your speed where country roads enter villages.</p>
-<h3>Rule 155</h3>
+<h3 id='rule155'>Rule 155</h3>
 <p><strong>Single-track roads.</strong>
 These are only wide enough for one vehicle. They may have special passing places. If you see a vehicle coming towards you, or the driver behind wants to overtake, pull into a passing place on your left, or wait opposite a passing place on your right. Give way to road users coming uphill whenever you can. If necessary, reverse until you reach a passing place to let the other vehicle pass. Slow down when passing pedestrians, cyclists and horse riders.</p>
-<h3>Rule 156</h3>
+<h3 id='rule156'>Rule 156</h3>
 <p>Do not park in passing places.</p>
-<h3>Vehicles prohibited from using roads and pavements</h3>
-<h3>Rule 157</h3>
+<h3 id='vehicles-prohibited-from-using-roads-and-pavements'>Vehicles prohibited from using roads and pavements</h3>
+<h3 id='rule157'>Rule 157</h3>
 <p>Certain motorised vehicles do not meet the construction and technical requirements for road vehicles and are generally not intended, not suitable and not legal for road, pavement, footpath, cycle path or bridleway use. These include most types of miniature motorcycles, also called mini motos, and motorised scooters, also called go peds, which are powered by electric or internal combustion engines. These types of vehicle <strong>MUST NOT</strong>
 be used on roads, pavements, footpaths or bridleways.</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/34'>RTA 1988 sects 34</a>, <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/41A'>41a</a>, <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/42'>42</a>, <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/47'>47</a>, <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/63/enacted'>63</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/66'>66</a>, <a href='http://www.legislation.gov.uk/ukpga/Will4/5-6/50/section/72'>HA 1835 sect 72</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/1984/54/section/129'>R(S)A sect 129</a></strong>
 </p>
-<h3>Rule 158</h3>
+<h3 id='rule158'>Rule 158</h3>
 <p>Certain models of motorcycles, motor tricycles and quadricycles, also called quad bikes, are suitable only for off-road use and do not meet legal standards for use on roads. Vehicles that do not meet these standards <strong>MUST NOT</strong>
 be used on roads. They <strong>MUST NOT</strong>
 be used on pavements, footpaths, cycle paths or bridleways either. You <strong>MUST</strong>

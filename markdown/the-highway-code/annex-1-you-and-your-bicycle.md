@@ -1,7 +1,7 @@
 
-<h1>Annex 1. You and your bicycle </h1>
+<h1 id='section-title'>Annex 1. You and your bicycle </h1>
 <p>Information and rules about you and your bicycle.</p>
-<h2>You and your bicycle</h2>
+<h2 id='yourbicycle'>You and your bicycle</h2>
 <p>Make sure that you feel confident of your ability to ride safely on the road. Be sure that</p>
 <ul>
 <li>you choose the right size and type of cycle for comfort and safety</li>

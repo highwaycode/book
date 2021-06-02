@@ -1,7 +1,7 @@
 
-<h1>Annex 2. Motorcycle licence requirements</h1>
+<h1 id='section-title'>Annex 2. Motorcycle licence requirements</h1>
 <p>Information and rules about motorcycle licence requirements.</p>
-<h2>
+<h2 id='motorcyclelicence'>
 Motorcycle licence requirements
 </h2>
 <p>If you have a provisional motorcycle licence, you <strong>MUST</strong>
@@ -29,7 +29,7 @@ If you passed your car driving test before 1 February 2001 you are qualified to 
 complete CBT before riding a moped on the road.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/97'>RTA 1988 sect 97(3)</a></strong>
 </p>
-<h2>
+<h2 id='motorcyclecategory'>
 Licence categories for mopeds and motorcycles
 </h2>
 <p><strong>Category AM</strong>
@@ -65,7 +65,7 @@ pass a motorcycle theory test and modules 1 and 2 practical tests on a two-wheel
 <p><strong>Law <a href='http://www.legislation.gov.uk/uksi/1999/2864/regulation/38/made'>MV(DL)R reg 38</a></strong>
 </p>
 <p>You <strong>MUST NOT</strong>
-carry a pillion passenger or pull a trailer until you have passed your test. Also see Rule 253 covering vehicles prohibited from motorways.</p>
+carry a pillion passenger or pull a trailer until you have passed your test. Also see <a href='#rule253'>Rule 253</a> covering vehicles prohibited from motorways.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/uksi/1999/2864/regulation/16/made'>MV(DL)R reg 16</a></strong>
 </p>
 

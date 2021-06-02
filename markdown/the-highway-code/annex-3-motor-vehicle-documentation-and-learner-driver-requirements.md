@@ -1,7 +1,7 @@
 
-<h1>Annex 3. Motor vehicle documentation and learner driver requirements</h1>
+<h1 id='section-title'>Annex 3. Motor vehicle documentation and learner driver requirements</h1>
 <p>Information and rules about motor vehicle documentation and learner driver requirements.</p>
-<h2>
+<h2 id='documentation'>
 Documents
 </h2>
 <p><strong>Driving licence.</strong>
@@ -62,7 +62,7 @@ You <strong>MUST</strong>
 be able to produce your driving licence, a valid insurance certificate and (if appropriate) a valid MOT certificate, when requested by a police officer. If you cannot do this you may be asked to take them to a police station within seven days.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/164'>RTA 1988 sects 164</a> &amp; <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/165'>165</a></strong>
 </p>
-<h2>
+<h2 id='learner-drivers'>
 Learner drivers
 </h2>
 <p>Learners driving a car <strong>MUST</strong>

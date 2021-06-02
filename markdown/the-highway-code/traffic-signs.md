@@ -1,12 +1,12 @@
 
-<h1>Traffic signs</h1>
+<h1 id='section-title'>Traffic signs</h1>
 <p>Traffic signs used, including signs giving orders, warning signs, direction signs, information signs and road works signs.</p>
 <p>Although <strong>The Highway Code</strong>
 shows many of the signs commonly in use, a comprehensive explanation of our signing system is given in the Department’s booklet <a href='https://www.gov.uk/government/publications/know-your-traffic-signs'>Know Your Traffic Signs</a>, which is on sale at booksellers. The booklet also illustrates and explains the vast majority of signs the road user is likely to encounter.</p>
 <p>The signs illustrated in <strong>The Highway Code</strong>
 are not all drawn to the same scale. In Wales, bilingual versions of some signs are used including Welsh and English versions of place names. Some older designs of signs may still be seen on the roads.</p>
 <p><a href='https://assets.publishing.service.gov.uk/media/58170307ed915d61c5000000/the-highway-code-traffic-signs.pdf'>Download ‘Traffic signs’ (PDF, 821KB)</a></p>
-<h2>
+<h2 id='signsgivingorders'>
 Signs giving orders
 </h2>
 <p><strong>Signs with red circles are mostly prohibitive. Plates below signs qualify their message.</strong>
@@ -42,7 +42,7 @@ Parking restricted to permit holders<p></p>
 No stopping during period indicated except for buses<p></p>
 No stopping during times shown except for as long as necessary to set down or pick up passengers<p></p>
 No waiting<p></p>
-No stopping (Clearway)<h3>Signs with blue circles but no red border mostly give positive instruction.</h3>
+No stopping (Clearway)<h3 id='signs-with-blue-circles-but-no-red-border-mostly-give-positive-instruction'>Signs with blue circles but no red border mostly give positive instruction.</h3>
 <p></p>
 Ahead only<p></p>
 Turn left ahead (right if symbol reversed)<p></p>
@@ -61,10 +61,10 @@ One-way traffic (note: compare circular ‘Ahead only’ sign)<p></p>
 With-flow bus and cycle lane<p></p>
 Contra-flow bus lane<p></p>
 With-flow pedal cycle lane
-<h2>
+<h2 id='warningsigns'>
 Warning signs
 </h2>
-<h3>Mostly triangular</h3>
+<h3 id='mostly-triangular'>Mostly triangular</h3>
 <p></p>
 Distance to ‘STOP’ line ahead<p></p>
 Dual carriageway ends<p></p>
@@ -124,18 +124,18 @@ Hump bridge<p></p>
 Worded warning sign<p></p>
 Quayside or river bank<p></p>
 Risk of grounding
-<h2>
+<h2 id='directionsigns'>
 Direction signs
 </h2>
-<h3>Mostly rectangular</h3>
-<h3>Signs on motorways - blue backgrounds</h3>
+<h3 id='mostly-rectangular'>Mostly rectangular</h3>
+<h3 id='signs-on-motorways---blue-backgrounds'>Signs on motorways - blue backgrounds</h3>
 <p></p>
 At a junction leading directly into a motorway (junction number may be shown on a black background)<p></p>
 On approaches to junctions (junction number on black background)<p></p>
 Route confirmatory sign after junction<p></p>
 Downward pointing arrows mean ‘Get in lane’
 The left-hand lane leads to a different destination from the other lanes.<p></p>
-The panel with the inclined arrow indicates the destinations which can be reached by leaving the motorway at the next junction<h3>Signs on primary routes - green backgrounds</h3>
+The panel with the inclined arrow indicates the destinations which can be reached by leaving the motorway at the next junction<h3 id='signs-on-primary-routes---green-backgrounds'>Signs on primary routes - green backgrounds</h3>
 <p>Blue panels indicate that the motorway starts at the junction ahead.
 Motorways shown in brackets can also be reached along the route indicated. White panels indicate local or non-primary routes leading from the junction ahead.
 Brown panels show the route to tourist attractions.
@@ -149,13 +149,13 @@ Route confirmatory sign after junction<p></p>
 On approaches to junctions<p></p>
 On approach to a junction in Wales (bilingual)<p></p>
 Primary route forming part of a ring road<p></p>
-Primary route forming part of a ring road<h3>Signs on non-primary and local routes - black borders</h3>
+Primary route forming part of a ring road<h3 id='signs-on-non-primary-and-local-routes---black-borders'>Signs on non-primary and local routes - black borders</h3>
 <p>Green panels indicate that the primary route starts at the junction ahead. Route numbers on a blue background show the direction to a motorway. Route numbers on a green background show the direction to a primary route.</p>
 <p></p>
 On approaches to junctions<p></p>
 On approaches to junctions<p></p>
 At the junction<p></p>
-Direction to toilets with access for the disabled<h3>Other direction signs</h3>
+Direction to toilets with access for the disabled<h3 id='other-direction-signs'>Other direction signs</h3>
 <p></p>
 Picnic site<p></p>
 Ancient monument in the care of English Heritage<p></p>
@@ -171,10 +171,10 @@ Symbols showing emergency diversion route for motorway and other main road traff
 Symbols showing emergency diversion route for motorway and other main road traffic<p></p>
 Symbols showing emergency diversion route for motorway and other main road traffic<p></p>
 Diversion route
-<h2>
+<h2 id='infosigns'>
 Information signs
 </h2>
-<h3>All rectangular</h3>
+<h3 id='all-rectangular'>All rectangular</h3>
 <p></p>
 Entrance to controlled parking zone<p></p>
 Entrance to congestion charging zone<p></p>
@@ -201,7 +201,7 @@ Recommended route for pedal cycles<p></p>
 Home Zone Entry<p></p>
 Area in which cameras are used to enforce traffic regulations<p></p>
 Bus lane on road at junction ahead
-<h2>
+<h2 id='roadworksigns'>
 Road works signs
 </h2>
 <p></p>

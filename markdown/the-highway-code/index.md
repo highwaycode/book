@@ -1,7 +1,7 @@
 
-<h1>Index</h1>
+<h1 id='section-title'>Index</h1>
 <p>An A to Z index of topics covered by The Highway Code.</p>
-<h2>
+<h2 id='a'>
 A
 </h2>
 <ul>
@@ -30,7 +30,7 @@ Braking/brakes</li>
 <li>Attitude <a href='general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule149'>rule 147</a>
 </li>
 </ul>
-<h2>
+<h2 id='b'>
 B
 </h2>
 <ul>
@@ -105,7 +105,7 @@ Dazzle</li>
 </ul>
 </li>
 </ul>
-<h2>
+<h2 id='c'>
 C
 </h2>
 <ul>
@@ -255,7 +255,7 @@ Pedestrian crossings</li>
 </ul>
 </li>
 </ul>
-<h2>
+<h2 id='d'>
 D
 </h2>
 <ul>
@@ -321,7 +321,7 @@ Signals</li>
 <li>Dull weather <a href='general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule115'>rule 115</a>
 </li>
 </ul>
-<h2>
+<h2 id='e'>
 E
 </h2>
 <ul>
@@ -340,7 +340,7 @@ E
 <li>Eyesight/vision <a href='rules-for-drivers-and-motorcyclists-89-to-102.md#rule92'>rules 92 to 94</a>
 </li>
 </ul>
-<h2>
+<h2 id='f'>
 F
 </h2>
 <ul>
@@ -419,7 +419,7 @@ F
 <li>Footway <strong>see</strong>
 Pavements</li>
 </ul>
-<h2>
+<h2 id='g'>
 G
 </h2>
 <ul>
@@ -436,7 +436,7 @@ Prohibited vehicles</li>
 <li>Green Cross Code <a href='rules-for-pedestrians-1-to-35.md#rule7'>rule 7</a> and <a href='rules-for-pedestrians-1-to-35.md#rule30'>rule 30</a>
 </li>
 </ul>
-<h2>
+<h2 id='h'>
 H
 </h2>
 <ul>
@@ -491,7 +491,7 @@ Motorways</li>
 <li>HOVs <strong>see</strong>
 High-Occupancy Vehicle Lanes (HOVs)</li>
 </ul>
-<h2>
+<h2 id='i'>
 I
 </h2>
 <ul>
@@ -528,14 +528,14 @@ I
 <li>Islands <a href='rules-for-pedestrians-1-to-35.md#rule7'>rule 7</a>, <a href='rules-for-pedestrians-1-to-35.md#rule20'>rule 20</a>, <a href='rules-for-pedestrians-1-to-35.md#rule28'>rule 28</a>, <a href='rules-for-pedestrians-1-to-35.md#rule30'>rule 30</a>, <a href='using-the-road-159-to-203.md#rule197'>rule 197</a> and <a href='waiting-and-parking-238-to-252.md#rule243'>rule 243</a>
 </li>
 </ul>
-<h2>
+<h2 id='j'>
 J
 </h2>
 <ul>
 <li>Junction <strong>see</strong>
 Road Junction</li>
 </ul>
-<h2>
+<h2 id='l'>
 L
 </h2>
 <ul>
@@ -608,7 +608,7 @@ Large vehicles
 </ul>
 </li>
 </ul>
-<h2>
+<h2 id='m'>
 M
 </h2>
 <ul>
@@ -706,7 +706,7 @@ Prohibited vehicles</li>
 <li>Moving off <a href='using-the-road-159-to-203.md#rule159'>rule 159</a>
 </li>
 </ul>
-<h2>
+<h2 id='n'>
 N
 </h2>
 <ul>
@@ -739,7 +739,7 @@ Lamps and lights</li>
 </ul>
 </li>
 </ul>
-<h2>
+<h2 id='o'>
 O
 </h2>
 <ul>
@@ -806,7 +806,7 @@ O
 </ul>
 </li>
 </ul>
-<h2>
+<h2 id='p'>
 P
 </h2>
 <ul>
@@ -948,7 +948,7 @@ P
 <li>cyclists <a href='rules-for-cyclists-59-to-82.md#rule79'>rule 79</a>
 </li>
 </ul>
-<h2>
+<h2 id='q'>
 Q
 </h2>
 <ul>
@@ -967,7 +967,7 @@ Prohibited vehicles</li>
 <li>Quiet lanes <a href='road-users-requiring-extra-care-204-to-225.md#rule206'>rule 206</a> and <a href='road-users-requiring-extra-care-204-to-225.md#rule218'>rule 218</a>
 </li>
 </ul>
-<h2>
+<h2 id='r'>
 R
 </h2>
 <ul>
@@ -1081,7 +1081,7 @@ Traffic signs/road markings</li>
 <li>Route guidance and navigation systems <a href='general-rules-techniques-and-advice-for-all-drivers-and-riders-103-to-158.md#rule150'>rule 150</a>
 </li>
 </ul>
-<h2>
+<h2 id='s'>
 S
 </h2>
 <ul>
@@ -1235,7 +1235,7 @@ Separation distance</li>
 <li>Street/pavement repairs <a href='rules-for-pedestrians-1-to-35.md#rule35'>rule 35</a>
 </li>
 </ul>
-<h2>
+<h2 id='t'>
 T
 </h2>
 <ul>
@@ -1371,14 +1371,14 @@ Separation distance</li>
 <li>Tyres <a href='driving-in-adverse-weather-conditions-226-to-237.md#rule227'>rule 227</a>, <a href='annex-1-you-and-your-bicycle.md'>You and your bicycle</a> and <a href='annex-6-vehicle-maintenance-safety-and-security.md'>Vehicle maintenance, safety and security</a>
 </li>
 </ul>
-<h2>
+<h2 id='u'>
 U
 </h2>
 <ul>
 <li>U-turn <a href='using-the-road-159-to-203.md#rule188'>rule 188</a>
 </li>
 </ul>
-<h2>
+<h2 id='v'>
 V
 </h2>
 <ul>
@@ -1420,7 +1420,7 @@ Driver and Vehicle Standards Agency officers</li>
 <li>Vulnerable pedestrians <a href='road-users-requiring-extra-care-204-to-225.md#rule206'>rule 207</a>
 </li>
 </ul>
-<h2>
+<h2 id='w'>
 W
 </h2>
 <ul>
@@ -1449,7 +1449,7 @@ W
 <li>Winter driving <a href='annex-6-vehicle-maintenance-safety-and-security.md'>Vehicle maintenance, safety and security</a> <strong>see also</strong>
 Snow/wet/icy/slippery roads</li>
 </ul>
-<h2>
+<h2 id='y'>
 Y
 </h2>
 <ul>
@@ -1458,7 +1458,7 @@ Y
 <li>Young children <a href='rules-for-pedestrians-1-to-35.md#rule4'>rule 4</a> and <a href='rules-for-pedestrians-1-to-35.md#rule7'>rule 7</a>
 </li>
 </ul>
-<h2>
+<h2 id='z'>
 Z
 </h2>
 <ul>

@@ -1,7 +1,7 @@
 
-<h1>Other information</h1>
+<h1 id='section-title'>Other information</h1>
 <p>Metric conversions, useful websites, further reading, the blue badge scheme and code of practice horse-drawn vehicles.</p>
-<h2>
+<h2 id='metric'>
 Metric conversions
 </h2>
 <p>The conversions given throughout <strong>The Highway Code</strong>
@@ -66,7 +66,7 @@ are rounded but a detailed conversion chart is shown below.</p>
 </tr>
 </tbody>
 </table>
-<h2>
+<h2 id='websites'>
 Useful websites
 </h2>
 <p><a href='http://www.gov.uk'>GOV.UK</a></p>
@@ -87,14 +87,14 @@ Useful websites
 <p><a href='http://www.walkit.com'>Walkit</a></p>
 <p><a href='http://ec.europa.eu/transport/road_safety/going_abroad/index_en.htm'>European Commission - road safety abroad</a></p>
 <p><a href='http://www.euroncap.com/en'>European New Car Assessment Programme</a></p>
-<h2>
+<h2 id='reading'>
 Further reading
 </h2>
-<h3>Best practice</h3>
+<h3 id='best-practice'>Best practice</h3>
 <p>Further information about good driving and riding practice can be found in the Driver and Vehicle Standards Agency books <a href='http://www.safedrivingforlife.info/shop/product/official-dvsa-guide-driving-essential-skills-book'>‘The Official DVSA Guide to Driving - the essential skills’</a> and <a href='http://www.safedrivingforlife.info/shop/product/official-dvsa-guide-riding-essential-skills-book-book'>‘The Official DVSA Guide to Riding - the essential skills’</a>. Information specifically for drivers of large vehicles can be found in <a href='http://www.safedrivingforlife.info/shop/product/official-dvsa-guide-driving-goods-vehicles-book-book'>‘The Official DVSA Guide to Driving Goods Vehicles’</a> and <a href='http://www.safedrivingforlife.info/shop/product/official-dvsa-guide-driving-buses-and-coaches-book-book'>‘The Official DVSA Guide to Driving Buses and Coaches’</a>.</p>
-<h3>The Blue Badge Scheme</h3>
+<h3 id='the-blue-badge-scheme'>The Blue Badge Scheme</h3>
 <p>Get <a href='https://www.gov.uk/blue-badge-scheme-information-council'>information about the Blue Badge Scheme</a> from your council.</p>
-<h3>Code of Practice for Horse-Drawn Vehicles</h3>
+<h3 id='code-of-practice-for-horse-drawn-vehicles'>Code of Practice for Horse-Drawn Vehicles</h3>
 <p>A <a href='https://www.gov.uk/government/publications/code-of-practice-for-horse-drawn-vehicles'>Code of Practice</a> is available from</p>
 <p>
 Department for Transport

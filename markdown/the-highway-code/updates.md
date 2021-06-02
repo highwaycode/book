@@ -1,5 +1,5 @@
 
-<h1>Updates: The Highway Code</h1>
+<h1 id='section-title'>Updates: The Highway Code</h1>
 <h2>2021</h2>
 <h3>
 23 March 2021 published amendments

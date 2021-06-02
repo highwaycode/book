@@ -84,103 +84,15 @@ def convert_to_markdown(frame, *tags):
     #         return f"\n{indent}* {buffer}"
     # elif frame['$isa'] in {'ul', 'ol'}:
     #     return f"{buffer}\n"
+
+    attrs = ''
+    if '$attrs' in frame and 'id' in frame['$attrs']:
+        attrs = f" id='{frame['$attrs']['id']}'"
+
     if frame['$isa'] in {'h1', 'h2', 'h3', 'p', 'strong', 'li', 'ol', 'ul', 'h1', 'table', 'tbody', 'thead', 'tr', 'th', 'td'}:
-        return f"<{tag}>{buffer}</{tag}>\n"
-
-
-
-
-
+        return f"<{tag}{attrs}>{buffer}</{tag}>\n"
 
     return buffer
-
-    if frame['$isa'] == 'h1':
-        buffer += "\n# "
-    elif frame['$isa'] == 'h2':
-        buffer += "\n## "
-    elif frame['$isa'] == 'h3':
-        buffer += "\n### "
-    elif frame['$isa'] == 'p':
-        buffer += "\n\n"
-    elif frame['$isa'] == 'article':
-        pass
-    elif frame['$isa'] == 'section':
-        pass
-    elif frame['$isa'] == 'span':
-        pass
-    elif frame['$isa'] == 'img':
-        buffer += " !["
-    elif frame['$isa'] == 'figcaption':
-        pass
-    elif frame['$isa'] == 'ul':
-        pass
-    elif frame['$isa'] == 'li':
-        pass
-    elif frame['$isa'] == 'strong':
-        buffer += "**"
-    elif frame['$isa'] == 'abbr':
-        pass
-    elif frame['$isa'] == 'table':
-        pass
-    elif frame['$isa'] == 'tbody':
-        pass
-    elif frame['$isa'] == 'tr':
-        pass
-    elif frame['$isa'] == 'td':
-        pass
-    elif frame['$isa'] == 'thead':
-        pass
-    elif frame['$isa'] == 'th':
-        pass
-    elif frame['$isa'] == 'br':
-        buffer += "\n\n"
-    elif frame['$isa'] == 'th':
-        pass
-    elif frame['$isa'] == 'button':
-        return ""
-    elif frame['$isa'] == 'form':
-        pass
-    elif frame['$isa'] == 'input':
-        return ""
-    elif frame['$isa'] == 'th':
-        pass
-    elif frame['$isa'] == 'th':
-        pass
-    elif frame['$isa'] == 'th':
-        pass
-    elif frame['$isa'] == 'th':
-        pass
-    elif frame['$isa'] == 'th':
-        pass
-    elif frame['$isa'] == 'th':
-        pass
-    elif frame['$isa'] == 'a':
-        buffer += "["
-    else:
-        exit(frame['$isa'])
-
-    for child in frame['$children']:
-        buffer += convert_to_markdown(child)
-
-    if frame['$isa'] == 'h1':
-        buffer += "\n"
-    elif frame['$isa'] == 'h2':
-        buffer += "\n"
-    elif frame['$isa'] == 'h3':
-        buffer += "\n"
-    elif frame['$isa'] == 'p':
-        buffer += "\n\n"
-    elif frame['$isa'] == 'a':
-        buffer += "](" + frame['$attrs']['href'] + ")"
-    elif frame['$isa'] == 'img':
-        buffer += frame['$attrs']['src'] + "](" + frame['$attrs']['src'] + ")"
-    elif frame['$isa'] == 'strong':
-        buffer += "**"
-
-
-    return buffer
-
-
 
 class MyHTMLParser(HTMLParser):
 

@@ -1,7 +1,7 @@
 
-<h1>Annex 6. Vehicle maintenance, safety and security</h1>
+<h1 id='section-title'>Annex 6. Vehicle maintenance, safety and security</h1>
 <p>Information and rules about vehicle maintenance, safety and security.</p>
-<h2>
+<h2 id='vehiclemain'>
 Vehicle maintenance
 </h2>
 <p>Take special care that lights, brakes, steering, exhaust system, seat belts, demisters, wipers and washers are all working. Also</p>
@@ -31,7 +31,7 @@ You <strong>MUST NOT</strong>
 use a vehicle with excessively dark tinting applied to the windscreen, or to the glass in any front window to either side of the driver. Window tinting applied during manufacture complies with the Visual Light Transmittance (VLT) standards. There are no VLT limits for rear windscreens or rear passenger windows.</p>
 <p><strong>Laws <a href='http://www.legislation.gov.uk/ukpga/1988/52/section/42/enacted'>RTA 1988 sect 42</a> &amp; <a href='http://www.legislation.gov.uk/uksi/1986/1078/regulation/32/made'>CUR reg 32</a></strong>
 </p>
-<p><strong>Tyres.</strong>
+<p id='tyres'><strong>Tyres.</strong>
 Tyres <strong>MUST</strong>
 be correctly inflated to the vehicle manufacturer’s specification for the load being carried. Always refer to the vehicle’s handbook or data. Tyres should also be free from certain cuts and other defects.</p>
 <p><strong>Cars, light vans and light trailers MUST</strong>
@@ -84,7 +84,7 @@ Ensure that, when filling up your vehicle’s tank or any fuel cans you are carr
 </ul>
 <p>Emergency fuel caps, if fitted, should form a good seal.</p>
 <p>Never smoke, or use a mobile phone, on the forecourt of petrol stations as these are major fire risks and could cause an explosion.</p>
-<h2>
+<h2 id='vehiclesecure'>
 Vehicle security
 </h2>
 <p><strong>When you leave your vehicle</strong>

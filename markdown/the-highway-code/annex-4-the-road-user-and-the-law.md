@@ -1,14 +1,14 @@
 
-<h1>Annex 4. The road user and the law</h1>
+<h1 id='section-title'>Annex 4. The road user and the law</h1>
 <p>Information about the road user and the law, including acts and regulations.</p>
-<h2>
+<h2 id='abbrev'>
 Road traffic law
 </h2>
 <p>The following list can be found abbreviated throughout the Code. It is not intended to be a comprehensive guide, but a guide to some of the important points of law. For the precise wording of the law, please refer to the various Acts and Regulations (as amended) indicated in the Code. Abbreviations are listed below.</p>
 <p>Most of the provisions apply on all roads throughout Great Britain, although there are some exceptions. The definition of a road in England and Wales is ‘any highway and any other road to which the public has access and includes bridges over which a road passes’ (<a href='http://www.legislation.gov.uk/ukpga/1988/52/section/192/enacted'>RTA 1988 sect 192(1)</a>). In Scotland, there is a similar definition which is extended to include any way over which the public have a right of passage (<a href='http://www.legislation.gov.uk/ukpga/1984/54/section/151'>R(S)A 1984 sect 151(1)</a>).</p>
 <p>It is important to note that references to ‘road’ therefore generally include footpaths, bridleways and cycle tracks, and many roadways and driveways on private land (including many car parks). In most cases, the law will apply to them and there may be additional rules for particular paths or ways. Some serious driving offences, including drink-driving offences, also apply to all public places, for example public car parks.</p>
 <p>Acts and regulations are available as enacted or as amended at <a href='http://www.legislation.gov.uk'>www.legislation.gov.uk</a> and are available in their original print format from <a href='http://www.tsoshop.co.uk/bookstore.asp?FO=1160005'>The Stationery Office.</a></p>
-<h2>
+<h2 id='acts-and-regulations-prior-to-1988'>
 Acts and regulations prior to 1988
 </h2>
 <table>
@@ -59,7 +59,7 @@ Acts and regulations prior to 1988
 </tr>
 </tbody>
 </table>
-<h2>
+<h2 id='acts-and-regulations-from-1988-onwards'>
 Acts and regulations from 1988 onwards
 </h2>
 <table>

@@ -1,12 +1,12 @@
 
-<h1>Annex 5. Penalties</h1>
+<h1 id='section-title'>Annex 5. Penalties</h1>
 <p>Information and rules about penalties, including points and disqualification, a penalty table, new drivers and other consequences of offending.</p>
-<h2>
+<h2 id='penaltyinfo'>
 Penalties and The Highway Code
 </h2>
 <p>Parliament sets the maximum penalties for road traffic offences. The seriousness of the offence is reflected in the maximum penalty. It is for the courts to decide what sentence to impose according to circumstances.</p>
 <p>The <a href='annex-5-penalties.md#penaltytable'>penalty table</a> indicates some of the main offences, and the associated penalties. There is a wide range of other more specific offences which, for the sake of simplicity, are not shown here. The <a href='annex-5-penalties.md#penaltytable'>penalty points and disqualification system</a> is described below.</p>
-<h2>
+<h2 id='penalty-points-and-disqualification'>
 Penalty points and disqualification
 </h2>
 <p>The penalty point system is intended to deter drivers and motorcyclists from following unsafe motoring practices. Certain non-motoring offences, e.g. failure to rectify vehicle defects, can also attract penalty points.</p>
@@ -23,7 +23,7 @@ be disqualified. This will be for a minimum period of 6 months, or longer if the
 order disqualification. The minimum period is 12 months, but for repeat offenders or where the alcohol level is high, it may be longer. For example, a second drink-drive offence in the space of 10 years will result in a minimum of 3 years’ disqualification.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/ukpga/1988/53/section/34'>RTOA sect 34</a></strong>
 </p>
-<h2>
+<h2 id='penaltytable'>
 Penalty table
 </h2>
 <table>
@@ -147,7 +147,7 @@ Penalty table
 (in addition to imposing a fixed period of disqualification) order the offender to be disqualified until they pass a driving test. In other cases the court has a discretionary power to order such disqualification. The test may be an ordinary length test or an extended test according to the nature of the offence.</p>
 <p><strong>Law <a href='http://www.legislation.gov.uk/ukpga/1988/53/section/36'>RTOA sect 36</a></strong>
 </p>
-<h2>
+<h2 id='newdrivers'>
 New drivers
 </h2>
 <p>Special rules as set out below apply for a period of two years from the date of passing their first driving test, to drivers and motorcyclists from</p>
@@ -161,7 +161,7 @@ New drivers
 </p>
 <p><strong>Note.</strong>
 This applies even if they pay for offences by fixed penalty. Drivers in the first group (UK, EU/EEA etc.) who already have a full licence for one type of vehicle are not affected by the special rules if they later pass a test to drive another type of vehicle.</p>
-<h2>
+<h2 id='otherconseq'>
 Other consequences of offending
 </h2>
 <p>Where an offence is punishable by imprisonment then the vehicle used to commit the offence may be confiscated.</p>

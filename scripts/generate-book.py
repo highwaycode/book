@@ -1,4 +1,5 @@
-
+import os.path
+import re
 import subprocess
 
 file_list = """markdown/the-highway-code.md
@@ -32,18 +33,45 @@ markdown/the-highway-code/annex-6-vehicle-maintenance-safety-and-security.md
 markdown/the-highway-code/annex-7-first-aid-on-the-road.md
 markdown/the-highway-code/annex-8-safety-code-for-new-drivers.md
 markdown/the-highway-code/other-information.md
-markdown/the-highway-code/index.md
-markdown/the-highway-code/updates.md"""
+markdown/the-highway-code/index.md"""
 file_list = file_list.split("\n")
-print(file_list)
+# print(file_list)
 
-buffer = ""
+buffer = """<html>
+<head>
+<title>The Highway Code</title>
+<meta name="author" content="bob">
+</head>
+<body>
+"""
+
+hrefs = set()
+
+def mapped_href(match):
+    hrefs.add(match.group(1))
+    return "href='" + match.group(1) + "'"
+
 for path in file_list:
+    name = os.path.splitext(os.path.basename(path))[0]
     with open(path, 'r') as file:
-        buffer += file.read()
+        page = file.read()
+        page = re.sub(r" id='section-title'", f" id='{name}'", page)
+        page = re.sub(r"href='[^']*?\.md#", "href='#", page)
+        page = re.sub(r"href='[^']*?([^/]*?)\.md'", "href='#\\1'", page)
+        page = re.sub(r"href='#(\d+)'", "href='#rule\\1'", page)
+        page = re.sub(r"href='#rule%20", "href='#rule", page)
+        page = re.sub(r"href='#rule160%5D'", "href='#rule160'", page)
+        page = re.sub(r"<h2 id='([^'])'>\n([^\n])\n</h2>", "<h3 id='\\1'>\\2</h3>", page)
+        page = re.sub(r"href='([^']+)'", mapped_href, page)
+        buffer += page
+
+for href in sorted(hrefs):
+    print(href)
+
+# print(hrefs)
 
 subprocess.run(['mkdir', '-p', 'build'])
-with open('build/book.html', 'w') as file:
+with open('build/the-highway-code.html', 'w') as file:
     file.write(buffer)
 
-subprocess.run(['pandoc', 'build/book.html', '-o', 'build/book.pdf'])
+subprocess.run(['pandoc', 'build/the-highway-code.html', '-o', 'build/the-highway-code.epub'])
