@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="642px" height="420px" viewBox="0 0 642 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>direction-sign-other-emergency-diversion-diamond</title>
+    <desc>Created with Sketch.</desc>
+    <g id="direction-sign-other-emergency-diversion-diamond" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M586.384661,0 C617.218906,0 642,25.3949961 642,56.3061824 L642,363.709432 C642,394.620618 617.218906,420 586.384661,420 L55.6008768,420 C24.7655192,420 0,394.620618 0,363.709432 L0,56.3374103 L0,55.7541173 C0,24.9812261 24.9034701,0 55.6008768,0 L586.384661,0 Z" id="Fill-24" fill="#FBD033"></path>
+            <path d="M586.38395,1 L55.600762,1 C25.4592353,1 1,25.529564 1,55.7547893 L1,363.708812 C1,394.177818 25.4258774,419 55.600762,419 L586.38395,419 C616.561815,419 641,394.174755 641,363.708812 L641,56.3065134 C641,25.8375492 616.558875,1 586.38395,1 Z" id="Stroke-25" stroke="#1A1919" stroke-width="2"></path>
+            <polygon id="Fill-26" fill="#1A1919" points="587 209.224886 321.5 56 56 209.224886 321.5 363"></polygon>
+        </g>
+    </g>
+</svg>

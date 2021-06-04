@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="420px" height="420px" viewBox="0 0 420 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>direction-sign-other-emergency-diversion-square</title>
+    <desc>Created with Sketch.</desc>
+    <g id="direction-sign-other-emergency-diversion-square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M420,364.187167 C420,395.124438 394.609827,420 363.70204,420 L55.7470907,420 C24.8393032,420 0,395.124438 0,364.187167 L0,55.812833 C0,24.9984046 24.9775781,0 55.7470907,0 L363.70204,0 C394.609827,0 420,24.8599279 420,55.812833 L420,364.187167 Z" id="Fill-27" fill="#FBD033"></path>
+            <path d="M419,364.187219 L419,55.8127809 C419,25.5227632 394.168335,1 363.701704,1 L55.7466526,1 C25.5268026,1 1,25.5533235 1,55.8127809 L1,364.187219 C1,394.574775 25.3942177,419 55.7466526,419 L363.701704,419 C394.162918,419 419,394.467222 419,364.187219 Z" id="Stroke-28" stroke="#1A1919" stroke-width="2"></path>
+            <polygon id="Fill-29" fill="#1A1919" points="56 363 363 363 363 55 56 55"></polygon>
+            <polygon id="Fill-30" fill="#FBD033" points="98 322 322 322 322 99 98 99"></polygon>
+            <polygon id="Stroke-31" stroke="#1A1919" stroke-width="0.425" points="98 322 322 322 322 99 98 99"></polygon>
+        </g>
+    </g>
+</svg>

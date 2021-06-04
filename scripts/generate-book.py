@@ -105,6 +105,10 @@ class MyHTMLParser(HTMLParser):
                     pass
                 if name == 'src':
                     content = re.sub(r"^https?://", "html/", content)
+                    svg_path = os.path.join('assets', os.path.splitext(os.path.basename(content))[0]+'.svg')
+                    if os.path.isfile(svg_path):
+                        content = svg_path
+                        print("   ", svg_path)
 
                 self.buffer += f' {name}="{content}"'
         self.buffer += f'>'

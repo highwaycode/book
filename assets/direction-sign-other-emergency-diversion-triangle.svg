@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="470px" height="420px" viewBox="0 0 470 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>direction-sign-other-emergency-diversion-triangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="direction-sign-other-emergency-diversion-triangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M414.380302,0 C444.914619,0 470,25.3949961 470,56.3061824 L470,363.709432 C470,394.620618 444.914619,420 414.380302,420 L55.0589402,420 C24.5246227,420 0,394.620618 0,363.709432 L0,56.3374103 L0,55.7541173 C0,24.9812261 24.66013,0 55.0589402,0 L414.380302,0 Z" id="Fill-18" fill="#FBD033"></path>
+            <path d="M414.379952,1 L55.0599111,1 C25.2191685,1 1,25.5273947 1,55.7547893 L1,363.708812 C1,394.179954 25.1861953,419 55.0599111,419 L414.379952,419 C444.362866,419 469,394.06815 469,363.708812 L469,56.3065134 C469,25.9441936 444.359916,1 414.379952,1 Z" id="Stroke-19" stroke="#1A1919" stroke-width="2"></path>
+            <polyline id="Fill-20" fill="#1A1919" points="59 364 411 364 235.007707 57"></polyline>
+        </g>
+    </g>
+</svg>
