@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1354px" height="354px" viewBox="0 0 1354 354" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1353px" height="420px" viewBox="0 0 1353 420" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
     <title>direction-sign-other-diversion-route</title>
     <desc>Created with Sketch.</desc>
     <g id="direction-sign-other-diversion-route" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(-1.000000, 0.000000)">
+        <g id="Group" transform="translate(0.000000, 33.000000)">
             <path d="M1283.29167,354 C1322.23014,354 1354,322.166879 1354,283.199357 L1354,70.7990355 C1354,31.8090078 1322.23014,0 1283.29167,0 L137.470307,0 C112.032585,0 88.20519,13.5180647 76.29069,34.9903909 L4.76515779,159.094874 C1.58945627,164.661892 0,171.024659 0,176.590069 C0,182.952836 1.58945627,189.315602 4.76515779,194.881012 L76.29069,318.191355 C88.20519,340.480328 112.032585,354 137.470307,354" id="Fill-232" fill="#1A1919"></path>
             <path d="M1285.01105,318 C1304.08381,318 1320,302.094418 1320,282.213245 L1320,69.8092618 C1320,49.9055819 1304.08381,34 1285.01105,34 L137.763679,34 C125.049043,34 113.105477,41.1586372 106.748962,51.4971046 L36,175.602119 L106.748962,299.708742 C113.105477,310.84297 125.049043,318 137.763679,318" id="Fill-233" fill="#FBD033"></path>
             <polyline id="Fill-234" fill="#1A1919" points="309.392521 104 320.607535 104 385.392465 195.328923 385.392465 104 411 104 411 237 380.595497 237 320.607535 146.472507 320.607535 237 295 237 295 104 301.397035 104"></polyline>

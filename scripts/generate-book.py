@@ -107,6 +107,7 @@ class MyHTMLParser(HTMLParser):
                     content = re.sub(r"^https?://", "html/", content)
                     svg_path = os.path.join('assets', os.path.splitext(os.path.basename(content))[0]+'.svg')
                     if os.path.isfile(svg_path):
+                        subprocess.run(['rm', os.path.join('media', os.path.basename(content))])
                         content = svg_path
                         print("   ", svg_path)
 
